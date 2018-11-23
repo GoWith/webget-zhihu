@@ -32,7 +32,7 @@ public class ZhiHuPageProcessor implements PageProcessor {
             if (context.contains("upvoteCount")) {
                 String count = context.substring(context.lastIndexOf("=") + 2, context.length() - 1);
                 Integer integer = Integer.valueOf(count);
-                if(integer > 500){
+                if(integer > 10000){
                     String dir_name = "question";  // 这里定义了截图存放目录名
                     if (!(new File(dir_name).isDirectory())) {  // 判断是否存在该目录
                         new File(dir_name).mkdir();  // 如果不存在则新建一个目录

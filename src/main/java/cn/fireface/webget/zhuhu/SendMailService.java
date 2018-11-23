@@ -23,7 +23,7 @@ public class SendMailService {
 
     }
 
-    public static void sendByHtmlMail(String subject,String content) throws Exception {
+    public static synchronized void sendByHtmlMail(String subject,String content) throws Exception {
         email.setSubject(subject);
         email.setHtmlMsg(content);
         email.send();
