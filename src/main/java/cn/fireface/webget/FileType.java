@@ -23,6 +23,7 @@ public class FileType {
         keySet.add("Elasticsearch");
         keySet.add("MySQL");
         keySet.add("hbase");
+        keySet.add("disruptor");
     }
 
     public static String createFileName(String articleName){

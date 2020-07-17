@@ -1,0 +1,1249 @@
+用户画像——《大数据用户画像的方法及营销实践》演讲	https://blog.csdn.net/ZYC88888/article/details/107299332
+机器学习：数据预处理之独热编码（One-Hot）详解	https://blog.csdn.net/ZYC88888/article/details/103819604
+大数据的应用——用户画像	https://blog.csdn.net/duxu24/article/details/52950338
+易观智库：大数据下的用户分析及用户画像（18页PPT附下载）	https://blog.csdn.net/dongzhumao86/article/details/45149195
+【业界实战】小米大数据总监司马云瑞详解小米用户画像的演进及应用解读	https://blog.csdn.net/smartcat2010/article/details/78532701
+“人文清华”讲坛——陈国青 大数据：颠覆的力量（附视频）	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/91677322
+【建信金融科技有限公司大数据平台团队负责人 赵世辉】技术引领，数据赋能——建行大数据能力建设之路	https://blog.csdn.net/weixin_39074599/article/details/101695954
+大数据：颠覆的力量——人文清华讲坛陈国青演讲实录	https://blog.csdn.net/r6Auo52bK/article/details/102813195
+【BDTC 2016】交通与旅游大数据论坛：透过大数据看交通	https://blog.csdn.net/u010708922/article/details/80127407
+大数据全攻略：10年老兵带你看尽MaxCompute大数据运算挑战与实践	https://blog.csdn.net/dicyt/article/details/76020015
+大数据服务及未来——人工智能+大数据生态模式	https://blog.csdn.net/weixin_34293059/article/details/90458595
+大数据下的电商风控体系——李学庆	https://blog.csdn.net/yangchunlu0101/article/details/77841746
+腾讯QQ大数据：BI方法论-数据体系建设之路	https://blog.csdn.net/D1j4robv/article/details/81062398
+魅族大数据之用户洞察平台	https://blog.csdn.net/weixin_33670713/article/details/87945230
+【读书笔记】《数据驱动：从方法到实践》——拒绝拍脑袋做决策、做产品	https://blog.csdn.net/sinat_35630008/article/details/104338926
+小米架构师：亿级大数据实时分析与工具选型（附PPT）	https://blog.csdn.net/bluejoe2000/article/details/52077809
+大数据可视平台Davinci的安装与配置攻略	https://blog.csdn.net/chenxi4820/article/details/100629273
+davinci - 达芬奇 快速构建数据可视化界面	https://blog.csdn.net/maxi1234/article/details/103589992
+Davinci用户体验 | 你离数据可视精美大屏只差一个Davinci！	https://blog.csdn.net/weixin_34414196/article/details/91472478
+Kylin 赋能物联网大数据分析	https://blog.csdn.net/weixin_39074599/article/details/100787304
+开源|Davinci用户体验：你离数据可视精美大屏只差一个Davinci！	https://blog.csdn.net/weixin_33674976/article/details/93032567
+数据中台：宜信敏捷数据中台建设实践|分享实录	https://blog.csdn.net/weixin_33994444/article/details/91438403
+数据库表被锁解决办法plsql，以及查看表执行进程--可以查看那个用户对哪张表执行操作	https://blog.csdn.net/weixin_39843430/article/details/80019303
+[数据库] 如何加表锁	https://blog.csdn.net/SunnyYoona/article/details/84626280
+spark 工作目录及数据本地化配置	https://blog.csdn.net/ZYC88888/article/details/78438144
+Spark数据本地性	https://blog.csdn.net/ZYC88888/article/details/78468216
+spark中遇到的数据倾斜问题	https://blog.csdn.net/ZYC88888/article/details/78468282
+大数据Spark入门教程	https://blog.csdn.net/ZYC88888/article/details/81001776
+ES 分片和副本数 调整及数据写入、重建索引调优	https://blog.csdn.net/ZYC88888/article/details/100570037
+数据库SQL优化大总结	https://blog.csdn.net/ZYC88888/article/details/85056609
+Django 数据库连接使用	https://blog.csdn.net/ZYC88888/article/details/79196505
+mybatis 批量更新数据两种方法效率对比	https://blog.csdn.net/ZYC88888/article/details/90080128
+数据库乐观锁、悲观锁、共享锁、排它锁、行锁、表锁概念的理解	https://blog.csdn.net/ZYC88888/article/details/79993489
+JanusGraph批量导入数据优化	https://blog.csdn.net/ZYC88888/article/details/95340032
+数据库中函数泰勒展开式及其记忆技巧方法	https://blog.csdn.net/qqw88888/article/details/91981097
+ES数据类型：type与keyword	https://blog.csdn.net/qq_32635069/article/details/88901271
+Spark Sql之数据源	https://blog.csdn.net/feiyuciuxun/article/details/103327994
+使用 SQLContext 可以从现有的 RDD 或数据源创建 DataFrames 报错？	https://blog.csdn.net/dimiaofan3981/article/details/102040374
+移动Web开发，数据压缩，后端压缩传输的json格式数据	https://blog.csdn.net/calreykhal/article/details/32314783
+前后台数据传输压缩（前后台都压缩）	https://blog.csdn.net/zhaoyunfei1/article/details/101055753
+前端后端数据传递的几种方式	https://blog.csdn.net/lsk_shah/article/details/106177199
+left join查询可能出现重复数据 （主表中一条变两条）	https://blog.csdn.net/qq_16605855/article/details/62890320
+SQL 左联接去除左边重复的数据	https://blog.csdn.net/weixin_30298497/article/details/98346429
+left join陷阱之一对多导致数据量增加	https://blog.csdn.net/zhouhaiqing0905/article/details/22204427
+sql server: left join 重复数据	https://blog.csdn.net/weixin_30338461/article/details/95691623
+left join 左表数据重复问题	https://blog.csdn.net/huqingxiang11/article/details/106585561
+sql server sql中使用LEFT JOIN 查询后数据重复	https://blog.csdn.net/pandaClose/article/details/99679173
+跟我一起学Python（二）：数据类型	https://blog.csdn.net/twypx/article/details/106799876
+PostgreSQL学习笔记（五）：数据操作	https://blog.csdn.net/twypx/article/details/86069641
+PostgreSQL学习笔记（二）：数据库基本操作	https://blog.csdn.net/twypx/article/details/86069155
+Kafka代码实现--from-beginning，读取历史未消费的数据	https://blog.csdn.net/twypx/article/details/81274582
+京东热key探测框架本地压测数据记录，单机（8核）QPS约16万/s，可水平扩展	https://blog.csdn.net/tianyaleixiaowu/article/details/106327336
+SpringBoot参数校验 + 全局异常处理 + 数据统一响应，手把手教你搭建优雅的后端接口体系	https://blog.csdn.net/weixin_42002747/article/details/105480795
+API 安全机制 | 数据加密	https://blog.csdn.net/weixin_33669968/article/details/107314007
+API 安全机制 | 数据校验	https://blog.csdn.net/weixin_33669968/article/details/107314009
+10亿数据找出前100大的数据(网易大数据面试算法题)	https://blog.csdn.net/weixin_42312342/article/details/106107926
+Python 网络爬虫实战：爬取 B站《全民娱乐注册账号》20万条评论数据	https://blog.csdn.net/li123128/article/details/106888456
+Kubernetes作为云原生应用的基石数据加密算法	https://blog.csdn.net/li123128/article/details/106912506
+Tensorflow 中（批量）读取数据的案列分析及TFRecord文件的打包与读取	https://blog.csdn.net/li123128/article/details/106878454
+Dotnet core基于ML.net的销售数据预测实践	https://blog.csdn.net/li123128/article/details/106801470
+如数据库连接池:请写一个你认为比较“完美”的单例	https://blog.csdn.net/li123128/article/details/106134501
+Maximum Segment Size，TCP一次传输发送的最大数据段长度。	https://blog.csdn.net/li123128/article/details/80289567
+大数据之数据采集	https://blog.csdn.net/mawming/article/details/78253952
+Spring+MyBatis多数据源配置实现(AbstractRoutingDataSource)	https://blog.csdn.net/mawming/article/details/52328342
+数据库三大范式详解	https://blog.csdn.net/java1993666/article/details/78213824
+数据库事务的四大特性以及事务的隔离级别	https://blog.csdn.net/java1993666/article/details/78262301
+TypeScript中的基础数据类型	https://blog.csdn.net/weixin_37910453/article/details/90441889
+获取到数据循环写文件	https://blog.csdn.net/weixin_36098377/article/details/106363979
+Spring Boot之 Controller 接收参数和返回数据总结	https://blog.csdn.net/weixin_36098377/article/details/106247117
+整合阿里druid数据库连接池	https://blog.csdn.net/weixin_36098377/article/details/106247059
+flink源码阅读---DataStream数据架构描述1-core底层 架构	https://blog.csdn.net/wjandy0211/article/details/106634014
+数据湖方案：Hudi、Delta、Iceberg深度对比	https://blog.csdn.net/wjandy0211/article/details/106339911
+Oracle 的数据批量读取 https://www.quest.com/	https://blog.csdn.net/wjandy0211/article/details/104040624
+数据采集系统	https://blog.csdn.net/wjandy0211/article/details/103861514
+五种大数据处理架构	https://blog.csdn.net/wjandy0211/article/details/78802044
+WCF兼容WebAPI输出Json格式数据，从此WCF一举两得	https://blog.csdn.net/weixin_34295316/article/details/94641488
+淘宝开放平台正式环境获取数据（二）	https://blog.csdn.net/weixin_34295316/article/details/94101587
+Memcached for移动互联网：mcperf压测1k~10k数据笔记	https://blog.csdn.net/iteye_15264/article/details/82452443
+数据库使用经验谈之3点：架构，NULL值，索引与查询	https://blog.csdn.net/iteye_15264/article/details/82174179
+Netty 编解码技术 数据通信和心跳监控案例	https://blog.csdn.net/qq_19558705/article/details/79250854
+怎样分析数据致提高产出？（一）	https://blog.csdn.net/Su_Levi_Wei/article/details/103794163
+什么是数据仓库？	https://blog.csdn.net/Su_Levi_Wei/article/details/89501304
+什么是数据仓库？	https://blog.csdn.net/su_levi_wei/article/details/89501304#comments
+学习笔记(01):Windows版YOLOv4目标检测实战：训练自己的数据集-先验框聚类分析	http://blog.csdn.net/surfaceyan/article/details/106182972
+Logstash：运用 memcache 过滤器进行大规模的数据丰富	https://blog.csdn.net/UbuntuTouch/article/details/106915969
+《Designing Data-Intensive Applications》笔记1：数据模型与存储	https://blog.csdn.net/samsai100/article/details/85334466
+五个常用好用的数据结构(BloomFilter、Hyperloglog等)	https://blog.csdn.net/keyboard2000/article/details/91424889
+Hyperloglog与大数据统计	https://blog.csdn.net/wankunde/article/details/62418707
+大数据学习笔记1000条	https://blog.csdn.net/albg_boy/article/details/78222464
+知识图谱数据构建的“硬骨头”，阿里工程师如何拿下？	https://blog.csdn.net/b0Q8cpra539haFS7/article/details/79549610
+feign调用传表单数据	https://blog.csdn.net/daitiantian1001/article/details/80760899
+Spring控制多张数据表同时提交的事务操作	https://blog.csdn.net/alexander_zhou/article/details/17512411
+机器学习：数据预处理之独热编码（One-Hot）	https://blog.csdn.net/weixin_34315665/article/details/92962660
+机器学习 数据预处理之独热编码（One-Hot Encoding）	https://blog.csdn.net/czp_374/article/details/80503604
+机器学习-数据预处理之独热编码（One-Hot）	https://blog.csdn.net/wzy2643/article/details/98473814
+数据预处理之独热编码（One-Hot）：为什么要使用one-hot编码？	https://blog.csdn.net/weixin_30377461/article/details/97668210
+数据预处理----独热编码(One-Hot Encoding)	https://blog.csdn.net/fisherming/article/details/79387085
+数据预处理中常见的哑编码/独热编码（One-Hot Encoding）详解（一看就懂）	https://blog.csdn.net/a2099948768/article/details/82384616
+【转】数据预处理之独热编码（One-Hot Encoding）	https://blog.csdn.net/weixin_30586257/article/details/97386407
+数据分析师养成之路之python篇:(keras 中 roc和混淆矩阵)	https://blog.csdn.net/lulujiang1996/article/details/81540321
+关于数据库字段命名与实体类命名选择驼峰还是下划线	https://blog.csdn.net/legendary_Dragon/article/details/82786913
+es 从某个字段中的相同数据取任意一个数据	https://blog.csdn.net/sxf_123456/article/details/77235480
+Ambari搭建大数据平台教程（HDP）	https://blog.csdn.net/qq_29829081/article/details/79322792
+centos7 ambari2.6.1.5+hdp2.6.4.0 大数据集群安装部署	https://blog.csdn.net/dkl12/article/details/80234675
+centos7离线安装ambari2.7.3.0 大数据平台	https://blog.csdn.net/I_T_T_I/article/details/106572870
+Kafka——可靠的数据传递	https://blog.csdn.net/duxu24/article/details/105211481
+Python数据合并	https://blog.csdn.net/duxu24/article/details/76618209
+Python修改数据中的字符串数据列	https://blog.csdn.net/duxu24/article/details/76250356
+【Python那些事儿】准备数据——训练集和测试集	https://blog.csdn.net/duxu24/article/details/74012232
+【Python那些事儿】数据放缩	https://blog.csdn.net/duxu24/article/details/73928025
+【Python那些事儿】为多变量数据绘制散点图	https://blog.csdn.net/duxu24/article/details/73123949
+使用爬虫抓取网站异步加载数据	https://blog.csdn.net/duxu24/article/details/51917076#comments
+大数据分析-用户画像详解	https://blog.csdn.net/youngspy23/article/details/51093498
+大数据项目（四）————用户画像	https://blog.csdn.net/Jorocco/article/details/81428996
+三分钟入门大数据之用户画像标签的分类	https://blog.csdn.net/sakelu/article/details/100575283
+大数据：用户画像	https://blog.csdn.net/xiaxianba/article/details/97386664
+【数据应用案例】用户画像与实践案例	https://blog.csdn.net/u013382288/article/details/81096285
+发挥大数据价值 精准用户画像如何练成	https://blog.csdn.net/chaishen10000/article/details/79324022
+大数据------电商类网站的大数据应用之用户画像的简单架构搭建	https://blog.csdn.net/jinyusheng_1991/article/details/82689525
+基于大数据的用户画像构建（理论篇）	https://blog.csdn.net/hwhsong/article/details/79641826
+电商大数据应用之用户画像	https://blog.csdn.net/qq_31784189/article/details/98472047
+让机器读懂用户--大数据中的用户画像	https://blog.csdn.net/wangyiyungw/article/details/80599456
+大数据精准营销中搜狗用户画像挖掘比赛——1st算法分享	https://blog.csdn.net/shibing624/article/details/80826766
+如何保障微服务架构下的数据一致性	https://blog.csdn.net/dongzhumao86/article/details/78108901
+经典大数据架构案例：酷狗音乐的大数据平台重构	https://blog.csdn.net/dongzhumao86/article/details/50673425
+2016 大数据版图	https://blog.csdn.net/dongzhumao86/article/details/50673399
+数据分析：互联网金融数据分析应用	https://blog.csdn.net/dongzhumao86/article/details/50547829
+数据分析系列剧第三集：行业研究	https://blog.csdn.net/dongzhumao86/article/details/50547812
+数据分析系列剧第四集：行业研究报告与生产计划	https://blog.csdn.net/dongzhumao86/article/details/50547823
+数据分析系列剧第二集：七步法的应用	https://blog.csdn.net/dongzhumao86/article/details/50547809
+前端数据可视化插件大盘点	https://blog.csdn.net/dongzhumao86/article/details/50547774
+一小时了解数据挖掘⑥数据挖掘的评估和结果可视化展示	https://blog.csdn.net/dongzhumao86/article/details/46987659
+一小时了解数据挖掘⑤数据挖掘步骤＆常用的聚类、决策树和CRISP-DM概念	https://blog.csdn.net/dongzhumao86/article/details/46987629
+一小时了解数据挖掘②：分类算法的应用和成熟案例解析	https://blog.csdn.net/dongzhumao86/article/details/46987567
+一小时了解数据挖掘①：解析常见的大数据应用案例	https://blog.csdn.net/dongzhumao86/article/details/46987543
+一小时了解数据挖掘④：商务智能原理解读的数据挖掘九大定律	https://blog.csdn.net/dongzhumao86/article/details/46987601
+一小时了解数据挖掘③：详解大数据挖掘的分类技术	https://blog.csdn.net/dongzhumao86/article/details/46987585
+大数据带来六种全新商业模式	https://blog.csdn.net/dongzhumao86/article/details/46910269
+猫眼发布电影大数据报告：大数据时代的电影消费洞察	https://blog.csdn.net/dongzhumao86/article/details/46910311
+大数据之于智能交通意义重大仍面临五大难题	https://blog.csdn.net/dongzhumao86/article/details/46910235
+解析大数据基准测试——TPC-H or TPC-DS	https://blog.csdn.net/dongzhumao86/article/details/45841583
+大数据思维的十大原理：当样本数量足够大时，你会发现其实每个人都是一模一样的	https://blog.csdn.net/dongzhumao86/article/details/45841641
+大数据分析--用户画像	https://blog.csdn.net/youngspy23/article/details/51093456
+【数据应用案例】用户画像与实践案例	https://blog.csdn.net/stay_foolish12/article/details/96287757
+大数据时代下的用户洞察：用户画像建立（ppt版）	https://blog.csdn.net/huaweitman/article/details/53405950
+一步步教你看懂大数据时代下的“用户画像”	https://blog.csdn.net/qiezikuaichuan/article/details/52640738
+关于如何用大数据做“用户画像”调查报告（持续更新）	https://blog.csdn.net/weixin_43965572/article/details/89287619
+大数据下的用户行为分析	https://blog.csdn.net/coke_ly/article/details/21188581
+大数据技术与应用解读及案例分析（PPT）	https://blog.csdn.net/cf2SudS8x8F0v/article/details/81025161
+基于大数据的用户画像构建(理论篇)	https://blog.csdn.net/qq_36435538/article/details/82493928
+干货：国家大数据标准解读（34页PPT）	https://blog.csdn.net/r6Auo52bK/article/details/78929194
+lock-free数据结构	https://blog.csdn.net/smartcat2010/article/details/104581227
+数据团队「隐形守护者」！从被动应对到资源输出，腾讯安全20年成长记	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/107328325
+“数据科学家”或许不再性感，但“数据团队”的产业化才刚开始 | 专访领英全球数据科学团队负责人...	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/107240775
+独家 | 手把手教你处理数据中的缺失值	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/107218100
+数据安全法草案首次提请审议，大数据产业发展将有章可循	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/107193865
+原创 | 入门“大数据”，你需要通读这18本书	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/107193868
+起底滴滴数据科学团队：面对超复杂线下场景，要数据驱动，但拒绝“唯数据论”...	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/107117853
+独家 | 用pandas-profiling做出更好的探索性数据分析（附代码）	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/107031399
+提取图像数据的特征，让机器“看见”	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/106977048
+10万视频，所有面部图像均获授权，Facebook创建大规模Deepfake数据集	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/106953134
+清华数据女神评选结果：第一竟然是叉院大神...？	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/79544732
+自创数据集，用TensorFlow预测股票教程 !（附代码）	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/78546859
+小米大数据工程师一面凉凉	https://blog.csdn.net/SKCSKAXLJ/article/details/82720924
+中国安卓智能手机公司小米收集用户数据	https://blog.csdn.net/yzhangaa/article/details/38866799
+打造“数据金字塔”，小米大数据平台建设之路	https://blog.csdn.net/congjiu3676/article/details/100364611
+小米大数据 OLAP 实践之 Lambda Architecture	https://blog.csdn.net/weixin_34119545/article/details/91403899
+小米宋强：生态化大数据平台的深度应用实践	https://blog.csdn.net/imgxr/article/details/80125994
+防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！	https://blog.csdn.net/u013486414/article/details/103199260
+当数据分析遭遇心理动力学：用户深层次的情感需求浮出水面（万字长文，附实例分析）...	https://blog.csdn.net/weixin_38008864/article/details/105525246
+清华大数据系列讲座——大数据发展与区块链应用成功举办	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/82755635
+为什么大数据使用相关关系而不是因果分析？	https://blog.csdn.net/yoggieCDA/article/details/101464173
+近期活动盘点：清华严飞大数据探寻中国文脉讲座、2019前沿信息科技创新论坛...	https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/102889437
+如果相关不意味着因果，那么意味着什么？ ——大数据时代的“因果关系”思辨...	https://blog.csdn.net/weixin_33736832/article/details/90617183
+相关关系与因果关系之探讨——大数据时代读后感(1)	https://blog.csdn.net/u012033027/article/details/16892403
+相关性和因果性：周扒皮原来是大数据应用的先驱者	https://blog.csdn.net/weixin_34390996/article/details/90566931
+###好好好####JanusGraph批量导入数据优化	https://blog.csdn.net/u010159842/article/details/106320087
+魅族大数据可视化平台建设之路	https://blog.csdn.net/qiansg123/article/details/80134461
+如何做到单机毫秒完成上亿规模大数据常规统计	https://blog.csdn.net/qiansg123/article/details/80133371
+SDCC系列峰会之数据库技术实战峰会PPT下载	https://blog.csdn.net/qiansg123/article/details/80133319
+从核心技术到实践应用——你的数据库深度挖掘指南	https://blog.csdn.net/qiansg123/article/details/80133310
+BDTC 2017丨大数据在金融、交通、医疗、工业领域落地实践与应用	https://blog.csdn.net/qiansg123/article/details/80132954
+【BDTC 2017讲师专访】彭冬：微博商业基础大数据平台（D+）的架构演进	https://blog.csdn.net/qiansg123/article/details/80132963
+22_多易教育之《yiee数据运营系统》用户画像-消费行为性别预测篇	https://blog.csdn.net/coderblack/article/details/104252261
+数据特征的选取	https://blog.csdn.net/javasunson/article/details/77980372
+如何通过数据驱动业务发展	https://blog.csdn.net/javasunson/article/details/77881592
+以客户为中心进行数据挖掘	https://blog.csdn.net/javasunson/article/details/77881523
+数据分析中的辛普森悖论	https://blog.csdn.net/javasunson/article/details/77834886
+数据仓库建模参考	https://blog.csdn.net/javasunson/article/details/77833601
+数据仓库的架构-参考	https://blog.csdn.net/javasunson/article/details/77773085
+数据分析展现选图	https://blog.csdn.net/javasunson/article/details/77448977
+数据仓库-模型	https://blog.csdn.net/javasunson/article/details/77751976
+数据仓库-架构参考	https://blog.csdn.net/javasunson/article/details/77766195
+数据分析工具—矩表	https://blog.csdn.net/javasunson/article/details/76890186
+如何快速全面建立自己的大数据知识体系	https://blog.csdn.net/javasunson/article/details/76900646
+浅谈数据仓库建设中的数据建模方法	https://blog.csdn.net/javasunson/article/details/76890162
+大数据下的用户画像	https://blog.csdn.net/javasunson/article/details/75494030
+数据科学入门—线性代数	https://blog.csdn.net/javasunson/article/details/75009640
+数据科学入门—数据可视化	https://blog.csdn.net/javasunson/article/details/74989448
+数据科学—数据科学行业的8个关键角色	https://blog.csdn.net/javasunson/article/details/74735075
+数据科学—数据科学在各行各业中的差异	https://blog.csdn.net/javasunson/article/details/74738328
+用户画像：数据指标与表结构设计	https://blog.csdn.net/hellozhxy/article/details/82493511
+银行大数据应用场景：客户画像如何做？	https://blog.csdn.net/womenjiademao/article/details/89241807
+如何搭建批流一体大数据分析架构？	https://blog.csdn.net/weixin_39074599/article/details/106212705
+实践篇 | 构建下一代云上数据湖，助力车企数字化转型	https://blog.csdn.net/weixin_39074599/article/details/105637542
+基于 Hudi 和 Kylin 构建准实时高性能数据仓库	https://blog.csdn.net/weixin_39074599/article/details/105471531
+Kylin 新定位：分析型数据仓库	https://blog.csdn.net/weixin_39074599/article/details/105135537
+“抽丝剥茧”：4步带你轻松应对疫情大数据	https://blog.csdn.net/weixin_39074599/article/details/105052727
+【Q&A】面对上亿级别的用户行为数据，如何做到秒级响应分析	https://blog.csdn.net/weixin_39074599/article/details/104197037
+【PPT下载】Gartner：未来3-5年,数据分析领域不可错过的十大技术趋势	https://blog.csdn.net/weixin_39074599/article/details/103767377
+Kylin Data Summit | 建信金融：银行大数据的演变趋势是什么？	https://blog.csdn.net/weixin_39074599/article/details/103763380
+新一代金融大数据架构将是什么？	https://blog.csdn.net/weixin_39074599/article/details/103762095
+一个案例告诉你如何使用 Kyligence + Spark 进行大数据机器学习	https://blog.csdn.net/weixin_39074599/article/details/103696147
+7 年，上汽通用是如何从 0 开始打造“大数据平台”的？	https://blog.csdn.net/weixin_39074599/article/details/103662353
+2000+万智能终端、8000+万亿条数据集，长虹如何做快速交互式分析？	https://blog.csdn.net/weixin_39074599/article/details/103661196
+Kyligence 如何帮助企业建设数据中台	https://blog.csdn.net/weixin_39074599/article/details/103584732
+银行数据平台进化的最佳路径是什么？	https://blog.csdn.net/weixin_39074599/article/details/103585063
+99.99%的人不知道的真相，Excel也能做大数据分析？	https://blog.csdn.net/weixin_39074599/article/details/90228703
+【干货】公司年终业绩分析报告，你的数据统计对么？	https://blog.csdn.net/weixin_39074599/article/details/86621287
+你的 TopN 数据查询够快吗？	https://blog.csdn.net/weixin_39074599/article/details/88739798#comments
+大数据分析常用去重算法分析『Bitmap 篇』	https://blog.csdn.net/weixin_39074599/article/details/89971320
+1号店电商实时数据分析系统（持续更新，未完待续，每天一点点）	https://blog.csdn.net/JENREY/article/details/81165889
+用户画像之电商大数据	https://blog.csdn.net/tswisdom/article/details/79871265
+建设大数据平台，从“治理”数据谈起	https://blog.csdn.net/xmjulong/article/details/79378481
+企业大数据规划需要的三种能力和五个步骤	https://blog.csdn.net/jiahaowanhao/article/details/79110489
+四大银行的CIO们如何看待大数据	https://blog.csdn.net/weixin_33901926/article/details/90389498
+Gartner发布2020年数据与分析领域的十大技术趋势	https://blog.csdn.net/r6Auo52bK/article/details/107218212
+广东省工信厅副厅长王月琴：创新工业大数据应用，促进制造业数字化转型	https://blog.csdn.net/r6Auo52bK/article/details/107193992
+福州在全国首创数据就业模式	https://blog.csdn.net/r6Auo52bK/article/details/107096238
+浙江发布首部省域公共数据开放立法，8月1日起施行	https://blog.csdn.net/r6Auo52bK/article/details/107075007
+工信部：大力支持5G、大数据等技术创新和产业应用	https://blog.csdn.net/r6Auo52bK/article/details/105780786
+“数据星河”系列活动——区块链与数字货币技术原理与发展趋势	https://blog.csdn.net/r6Auo52bK/article/details/105742811
+工信部起草《网络数据安全标准体系建设指南（征求意见稿）》	https://blog.csdn.net/r6Auo52bK/article/details/105591580
+大数据成推动经济高质量发展新动能	https://blog.csdn.net/r6Auo52bK/article/details/105570739
+大数据处理必备的十大工具！	https://blog.csdn.net/r6Auo52bK/article/details/79062271
+大数据-人工智能的核心算法，看完只能惊叹！	https://blog.csdn.net/r6Auo52bK/article/details/79319951
+入行月薪过万的数据挖掘必看的学习建议！	https://blog.csdn.net/r6Auo52bK/article/details/79308190
+数据“秘籍”，拿走不谢！如何利用散点图矩阵进行数据可视化	https://blog.csdn.net/r6auo52bk/article/details/80267718#comments
+写给大数据从业者：数据科学的5个陷阱与缺陷	https://blog.csdn.net/r6auo52bk/article/details/101043146#comments
+阿里云自研云数据库POLARDB，未来企业的数字化答案	https://blog.csdn.net/dicyt/article/details/78274957
+我们采访了阿里云云数据库SQL Server的产品经理，他说了解这四个问题就可以了	https://blog.csdn.net/dicyt/article/details/78274275
+我们采访了阿里云云数据库SQL Server的产品经理，他说了解这四个问题就可以了...	https://blog.csdn.net/dicyt/article/details/84910679
+1秒10亿数据! 阿里云日志服务再次升级	https://blog.csdn.net/dicyt/article/details/78274129
+1秒10亿数据! 阿里云日志服务再次升级	https://blog.csdn.net/dicyt/article/details/84910677
+ECS云服务器通过SAP HANA认证，海量数据处理技术助力企业数字化转型	https://blog.csdn.net/dicyt/article/details/78261685
+ECS云服务器通过SAP HANA认证，海量数据处理技术助力企业数字化转型	https://blog.csdn.net/dicyt/article/details/84910579
+【玩转数据系列十五】机器学习PAI为你自动写歌词，妈妈再也不用担心我的freestyle了（提供数据、代码）	https://blog.csdn.net/dicyt/article/details/75501341
+Vega数据可视化工具—教你轻松玩转大数据可视化 | 附代码	https://blog.csdn.net/dicyt/article/details/76456743#comments
+中关村大数据峰会——滴滴CEO程伟演讲+所感	https://blog.csdn.net/fengshuiyue/article/details/50508884
+20位顶级大咖带你践行大数据（内附演讲视频和PPT）	https://blog.csdn.net/OQjya206rsQ71/article/details/78488487
+吴甘沙清华演讲：大数据的十个技术前沿（完结篇）	https://blog.csdn.net/cxboyee/article/details/50515934
+商务智能与数据挖掘 - 关联分析	https://blog.csdn.net/qq_41409438/article/details/102596661
+大数据时代，我们需要“被遗忘权”（转）	https://blog.csdn.net/weixin_30929011/article/details/96443709
+中国启动大数据领域重大研究计划 欲跻身国际前列	https://blog.csdn.net/weixin_34255055/article/details/90366327
+大数据时代下的企业战略	https://blog.csdn.net/u013599826/article/details/31424775
+大数据时代，我诚惶诚恐的拥抱	https://blog.csdn.net/weixin_30607659/article/details/95506901
+大数据流式计算：关键技术及系统实例	https://blog.csdn.net/u013524655/article/details/41073759
+《城市交通大数据》读书总结	https://blog.csdn.net/baidu_28398971/article/details/70592036
+数据挖掘实战经验——交通大数据预测	https://blog.csdn.net/qq_36988549/article/details/77119781
+【BDTC 2016】与360、安天、三未信安、明朝万达、数字观星、观数科技共同讨论大数据安全与隐私保护...	https://blog.csdn.net/u010708922/article/details/80127410
+智慧交通=云计算+大数据+物联网+人工智能+……	https://blog.csdn.net/ximenwuhendamaha/article/details/88526564
+独家 | 陆化普：大数据、AI解决交通管理难题的新思路	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/78138788
+如何获取交通大数据	https://blog.csdn.net/zuiyishihefang/article/details/90103107
+智慧交通大数据可视化，让城市运营车辆可视、可监、可控	https://blog.csdn.net/digihail2016/article/details/71653394
+交通运输大数据发展特点、政策、应用及趋势 | 交通运输部科学研究院黄莉莉	https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/78800537
+五位讲师齐聚“交通与旅游大数据”论坛 总有一位是你的菜	https://blog.csdn.net/lily201609/article/details/80127223
+OBD发力大数据 物联网智能交通成可能	https://blog.csdn.net/cigang4063/article/details/100689118
+BDTC 2017 | 潜能无限，深度剖析大数据在交通旅游领域的应用实践	https://blog.csdn.net/joy0921/article/details/80133214
+「大数据+」依然火热！BDTC首日爆点有点多！	https://blog.csdn.net/csdnnews/article/details/103415748
+【BDTC 2016】精准医疗和生物医药大数据论坛：探索医疗与大数据结合之路	https://blog.csdn.net/u010708922/article/details/80127405
+【BDTC 2016】网络与通讯大数据论坛：大数据价值及合规性探索	https://blog.csdn.net/yssycz/article/details/80127380
+大数据在智慧交通中的应用	https://blog.csdn.net/qichangjian/article/details/77524813
+大数据的应用场景都有哪些（交通篇）	https://blog.csdn.net/yoggieCDA/article/details/101463816
+2016年9月11日，特殊的日子，开始大数据！	https://blog.csdn.net/dibu3334/article/details/102340930
+初探ERP的数据库框架	https://blog.csdn.net/weixin_34293059/article/details/94206655
+Apache Zeppelin 安装及链接MaxCompute实现数据可视化	https://blog.csdn.net/Andy_shenzl/article/details/105239566
+MaxCompute大数据运算挑战与实践	https://blog.csdn.net/kwgqjj/article/details/52652760
+【大数据干货】数据进入阿里云数加-大数据计算服务MaxCompute（原ODPS）的N种方式...	https://blog.csdn.net/weixin_34409703/article/details/90593006
+【干货分享】大数据计算服务MaxCompute使用教程	https://blog.csdn.net/qq_36510261/article/details/77990853
+美柚与MaxCompute数据同步架构说明	https://blog.csdn.net/DONGYUXIA15810857916/article/details/77851992
+基于阿里云数加MaxCompute的企业大数据仓库架构建设思路	https://blog.csdn.net/weixin_34319111/article/details/90422364
+数据进入Maxcompute的N种方式，大数据实战Demo系统数据上云实践	https://blog.csdn.net/weixin_33757911/article/details/89666034
+大数据的大价值：大数据五大成功案例深度解析	https://blog.csdn.net/yangchunlu0101/article/details/78078232
+每个电商企业都应该分析的9种数据	https://blog.csdn.net/yangchunlu0101/article/details/78089186
+大数据分析与应用的8个场景	https://blog.csdn.net/yangchunlu0101/article/details/78076020
+解决数据质量问题是大数据应用的关键	https://blog.csdn.net/yangchunlu0101/article/details/78072521
+我所理解的大数据个性化推荐	https://blog.csdn.net/yangchunlu0101/article/details/77988394
+DataFun Talk大数据风控系列活动 ——人工智能时代：内容审核与流量反作弊	https://blog.csdn.net/YMPzUELX3AIAp7Q/article/details/79991800
+我国当前大数据的发展现状——阿里巴巴、百度和腾讯为例	https://blog.csdn.net/yoggieCDA/article/details/101464515
+大数据应用及未来展望(论文)	https://blog.csdn.net/qq_26906345/article/details/50761318
+破题大数据应用发展难点，探索城市大数据发展之路——TalkingData正式发布“城市大数据场景创新平台”	https://blog.csdn.net/sch881226/article/details/103245687
+程序员如何追赶如此之火的大数据 AI 热潮？	https://blog.csdn.net/po86BHac10C4/article/details/79578687
+大数据与人工智能	https://blog.csdn.net/xuxiatian/article/details/53112589
+大数据入门	https://blog.csdn.net/weixin_34410662/article/details/93565501
+Apsara Clouder大数据专项技能认证：共享单车骑行分析	https://blog.csdn.net/lsj960922/article/details/78852657
+大数据未来七大发展方向 01.物联网	https://blog.csdn.net/cqacry2798/article/details/87929950
+大数据+人工智能：实践AI深度学习的十大惊艳案例	https://blog.csdn.net/weixin_44387107/article/details/87187772
+重磅|大快搜索上榜2018中国大数据企业50强 ——斩获“2018中国大数据产业生态大会”多项大奖，成年度最大黑马	https://blog.csdn.net/adnb34g/article/details/81562888
+大数据现状和未来展望--百度大数据主任架构师马如悦访谈	https://blog.csdn.net/weixin_45583158/article/details/100143369
+从大数据到快数据 数据智创未来——2019 CCF大数据与计算智能大赛正式开赛!	https://blog.csdn.net/chikuai9995/article/details/100723491
+资深大数据/AI专家：大数据知识图谱-实战经验总结	https://blog.csdn.net/Peter_Changyb/article/details/89765546
+2017医疗大数据与人工智能报告	https://blog.csdn.net/aebdm757009/article/details/101496137
+大数据分析与应用的8个场景	https://blog.csdn.net/dada9407/article/details/20914145
+【大数据风控体系】理想大数据风控体系	https://blog.csdn.net/sunyaowu315/article/details/83056858
+拼多多面试问了数据库基础知识，今天分享出来	https://blog.csdn.net/qq_35190492/article/details/104203466
+致电商小白：电商数据分析，你真的会吗？	https://blog.csdn.net/a3881312/article/details/81188181
+货拉拉：2018搬家大数据报告	https://blog.csdn.net/D1j4robv/article/details/86485922
+2018年微信数据报告	https://blog.csdn.net/D1j4robv/article/details/86189760
+拓端：数据下的隐形眼镜初体验	https://blog.csdn.net/D1j4robv/article/details/85810216
+天天拍车：2018年度个人卖车大数据报告	https://blog.csdn.net/D1j4robv/article/details/85810800
+工业互联网产业联盟&中信通院：2018工业企业数据资产管理现状调查报告（附下载）...	https://blog.csdn.net/D1j4robv/article/details/85149025
+马蜂窝：2018中国省域自由行大数据系列报告之东北地区（附下载）	https://blog.csdn.net/D1j4robv/article/details/85043377
+2018年11月酷云大数据月度报告	https://blog.csdn.net/D1j4robv/article/details/85085345
+日本大数据应用环境和发展状况	https://blog.csdn.net/D1j4robv/article/details/84984752
+京东大数据技术白皮书（附下载）	https://blog.csdn.net/D1j4robv/article/details/84948602
+中国信通院：2018年大数据安全白皮书（附下载）	https://blog.csdn.net/D1j4robv/article/details/81065416
+DT财经：2018北京城市大数据活跃报告	https://blog.csdn.net/D1j4robv/article/details/82185643
+辰智：2018中国餐饮大数据白皮书	https://blog.csdn.net/D1j4robv/article/details/82598404
+2018年海外大数据和人工智能产业全景分析与趋势预测	https://blog.csdn.net/D1j4robv/article/details/83629108
+中国旅游研究院&携程：2018中国在线旅游发展大数据指数报告（附下载）	https://blog.csdn.net/D1j4robv/article/details/83138211
+10款值得收藏的网站数据实时分析工具	https://blog.csdn.net/d1j4robv/article/details/78558814#comments
+26万条抖音数据背后的推荐逻辑以及严重失调的男女比例	https://blog.csdn.net/d1j4robv/article/details/81278533#comments
+腾讯QQ大数据：用户增长分析——用户流失预警	https://blog.csdn.net/kl28978113/article/details/96290866
+【数据标准】数据指标体系建立	https://blog.csdn.net/u010591976/article/details/102576042
+大数据-1：大数据体系	https://blog.csdn.net/qq_32793045/article/details/89452473
+数据治理之——数据标准体系建设示例	https://blog.csdn.net/Eric_Wong99999/article/details/89673703
+腾讯QQ大数据：从用户行为去理解内容-item2vec及其应用	https://blog.csdn.net/D1j4robv/article/details/81062397
+为什么要做数据标准体系	https://blog.csdn.net/weixin_40658775/article/details/106612396
+完整的大数据知识体系，大数据学习路线图	https://blog.csdn.net/duozhishidai/article/details/86520878
+腾讯大数据套件带你玩转大数据	https://blog.csdn.net/zhf257/article/details/48381541
+大数据技术体系	https://blog.csdn.net/u011391734/article/details/97758216
+数据分析方法论（一）	https://blog.csdn.net/zhaocen_1230/article/details/79039395
+腾讯QQ大数据：产品指标体系如何搭建	https://blog.csdn.net/D1j4robv/article/details/81062395
+浅谈BI领域的数据模型设计（二）	https://blog.csdn.net/cuancong5316/article/details/100430407
+[大数据]大数据体系整理	https://blog.csdn.net/a755199443/article/details/95186643
+大数据体系	https://blog.csdn.net/h8b6Pk7M7r8/article/details/100135925
+C# 程序中，不使用TNS File 中的服务名进行数据库连接	https://blog.csdn.net/weixin_33670713/article/details/94493098
+系统升级时，数据库脚本执行注意事项，血的教训	https://blog.csdn.net/weixin_33670713/article/details/93356901
+图数据交互可视化分析框架InteractiveGraph v0.3版本发布	https://blog.csdn.net/bluejoe2000/article/details/104333111
+浅谈数据仓库和大数据	https://blog.csdn.net/bluejoe2000/article/details/83240123
+深度|从数据仓库到数据湖——浅谈数据架构演进	https://blog.csdn.net/bluejoe2000/article/details/83216227
+白乔原创：图数据在线交互框架InteractiveGraph	https://blog.csdn.net/bluejoe2000/article/details/83216072
+白乔原创：图数据在线交互服务器 InteractiveGraph-neo4j	https://blog.csdn.net/bluejoe2000/article/details/83215845
+不看后悔 | 分分钟教你做知识图谱大数据专家	https://blog.csdn.net/bluejoe2000/article/details/80786569
+展示联结数据的内在之美：全新的Neo4j Bloom可视化工具	https://blog.csdn.net/bluejoe2000/article/details/80505922
+魅族大数据之用户洞察平台介绍	https://blog.csdn.net/qiansg123/article/details/80129937
+大数据平台架构技术选型与场景运用	https://blog.csdn.net/qq_42022528/article/details/104497130
+魅族大数据之流平台设计部署实践--转	https://blog.csdn.net/aebdm757009/article/details/101496787
+洞察数据价值——第十二期魅族技术开放日现场纪实	https://blog.csdn.net/msup789/article/details/79805121
+【读PPT】管中窥豹:用大数据洞察“用户画像”的秘密!	https://blog.csdn.net/mousever/article/details/48375349
+基于大数据的消费者洞察	https://blog.csdn.net/Yuki629/article/details/106853806
+独家解读：魅族数据平台的设计哲学和核心架构	https://blog.csdn.net/weixin_34234721/article/details/86721050
+ 数据洞察——第八期魅族技术开放日现场纪实	https://blog.csdn.net/weixin_34356138/article/details/89051442
+让我们激情利用大数据 挖掘商业洞察	https://blog.csdn.net/weixin_34239592/article/details/90324146
+什么是大数据和大数据平台?	https://blog.csdn.net/cuanzhapan8891/article/details/100479187
+聚焦大数据：洞察价值与企业应用落地	https://blog.csdn.net/congkeyi5865/article/details/100419920
+大数据洞察的创新领域	https://blog.csdn.net/willtongji/article/details/52874561
+用大数据精准洞察消费需求	https://blog.csdn.net/cigang4063/article/details/100687569
+基于大数据的用户标签体系建设思路和实践	https://blog.csdn.net/valada/article/details/103639942
+【大数据】业务分析思路和方法	https://blog.csdn.net/sinat_35630008/article/details/106484566
+【gp数据库】统计常用窗口函数详解	https://blog.csdn.net/sinat_35630008/article/details/104427310
+【gp数据库】你可能不知道却超级实用的函数	https://blog.csdn.net/sinat_35630008/article/details/102514988
+【gp数据库】历史SQL查询及gpfdist入库	https://blog.csdn.net/sinat_35630008/article/details/90667405
+【gp数据库】查找占内存的大表是否压缩	https://blog.csdn.net/sinat_35630008/article/details/94718429
+【大数据】数据仓库之模型层和ETL介绍	https://blog.csdn.net/sinat_35630008/article/details/90287064
+【gp数据库】建表语句万能模板	https://blog.csdn.net/sinat_35630008/article/details/88738188
+【gp数据库】查找模式下所有函数名称（附带参数信息）	https://blog.csdn.net/sinat_35630008/article/details/84580969
+【gp数据库】查询函数中引用数据表信息	https://blog.csdn.net/sinat_35630008/article/details/84556370
+【gp数据库】查询系统表看模式下所有表的分布键信息	https://blog.csdn.net/sinat_35630008/article/details/82192574
+【gp数据库】十条实用数据库SQL优化建议	https://blog.csdn.net/sinat_35630008/article/details/81187741
+《数据驱动 从方法到实践》之 数据驱动的环节 学习总结	https://blog.csdn.net/jliang3/article/details/90549602
+【每周一本书】之《数据驱动：从方法到实践》（文末有彩蛋）	https://blog.csdn.net/YMPzUELX3AIAp7Q/article/details/79621163
+读书笔记 – 数据驱动从方法到实践	https://blog.csdn.net/peishuai1987/article/details/89883054
+赠书 | 《数据驱动：从方法到实践》预售正式开启	https://blog.csdn.net/sensorsdata/article/details/99298220
+《数据驱动从方法到实践》	https://blog.csdn.net/jingyi130705008/article/details/104908572
+什么叫做「数据驱动方法」	https://blog.csdn.net/dawningblue/article/details/75119639
+《数据驱动 从方法到实践》 之数据驱动产品和运营决策 学习总结	https://blog.csdn.net/jliang3/article/details/90669005
+PPT 下载 | 神策数据曹犟：数据驱动从方法到实践	https://blog.csdn.net/sensorsdata/article/details/99299146
+保险领域数据驱动及机器学习研究与实践 之一： 数据驱动剖析	https://blog.csdn.net/simonlishx2017/article/details/84865980
+【福利】文末评论免费送《数据驱动：从方法到实践》	https://blog.csdn.net/b6ecl1k7BS8O/article/details/80090129
+实时大数据平台技术选型概要	https://blog.csdn.net/HaixWang/article/details/82917371
+大数据技术栈速览之：KUDU	https://blog.csdn.net/ITBGJ/article/details/102390147
+小米大数据：借助Apache Kylin打造高效、易用的一站式OLAP解决方案	https://blog.csdn.net/cpongo2/article/details/89018947
+上亿级的大数据量，如何高性能实现展示分析？	https://blog.csdn.net/zhangbijun1230/article/details/80820173
+优化处理亿级数据的效率	https://blog.csdn.net/fly80893236/article/details/78454368
+大数据实时分析架构	https://blog.csdn.net/yyoc97/article/details/82560926
+KUDU--秒级查询的数据仓库	https://blog.csdn.net/miyatang/article/details/73829429
+自动驾驶汽车传感器融合系统及多传感器数据融合算法浅析	https://blog.csdn.net/u012692537/article/details/81162129
+数据中心3D机房可视化管理系统	https://blog.csdn.net/qq_41546701/article/details/79204329?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469600519724811829669%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469600519724811829669&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-3-79204329.pc_v2_rank_blog_v1&utm_term=%E5%8F%AF%E8%A7%86%E5%8C%96
+基于loam_velodyne的64线激光数据可视化	https://blog.csdn.net/weixin_39837709/article/details/79148024?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469600519724811829669%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469600519724811829669&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-7-79148024.pc_v2_rank_blog_v1&utm_term=%E5%8F%AF%E8%A7%86%E5%8C%96
+Tableau数据可视化实战pdf	https://blog.csdn.net/qq_38460175/article/details/81978789?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469600519724811829669%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469600519724811829669&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-9-81978789.pc_v2_rank_blog_v1&utm_term=%E5%8F%AF%E8%A7%86%E5%8C%96
+MATLAB-数据可视化笔记	https://blog.csdn.net/Edwardy_Gong/article/details/5304658?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469600519724811829669%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469600519724811829669&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-13-5304658.pc_v2_rank_blog_v1&utm_term=%E5%8F%AF%E8%A7%86%E5%8C%96
+《大数据可视化》配套PPT之一：第1章 大数据可视化概述	https://blog.csdn.net/weixin_34216036/article/details/86753178?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469600519724811829669%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469600519724811829669&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-17-86753178.pc_v2_rank_blog_v1&utm_term=%E5%8F%AF%E8%A7%86%E5%8C%96
+云端数据仓库的模式选型与建设	https://blog.csdn.net/chenxi4820/article/details/100629319
+十步法原则解决数据质量问题	https://blog.csdn.net/chenxi4820/article/details/100629309
+数据结构：史上最全排序算法合集	https://blog.csdn.net/qq_43714332/article/details/102592056
+企业使用数据库的12种姿势	https://blog.csdn.net/chenxi4820/article/details/100629307
+关系型数据库全表扫描分片详解	https://blog.csdn.net/chenxi4820/article/details/100629279
+快速部署DBus体验实时数据流计算	https://blog.csdn.net/chenxi4820/article/details/100629261
+如何基于日志，同步实现数据的一致性和实时抽取?	https://blog.csdn.net/chenxi4820/article/details/100629257
+DBus数据库表结构变更处理方案	https://blog.csdn.net/chenxi4820/article/details/100629249
+宜信开源|大数据虚拟混算平台Moonbox配置指南	https://blog.csdn.net/chenxi4820/article/details/100629246
+mybatis-plus 根据数据库主键定义字段类型	https://blog.csdn.net/maxi1234/article/details/105036304
+mybatis 查询结果都为null, 实际返回数据size为1的坑	https://blog.csdn.net/maxi1234/article/details/103572628
+如何设计实时数据平台（下篇）	https://blog.csdn.net/weixin_41608840/article/details/81164625
+敏捷大数据，了解一下？	https://blog.csdn.net/weixin_41608840/article/details/80899714
+#DBus# 关系型数据库全表扫描分片详解	https://blog.csdn.net/weixin_41608840/article/details/80942606
+零拷贝-高效的数据传输方式	https://blog.csdn.net/Ancony_/article/details/81320776
+大数据可视化服务平台Davinci上榜2019年度最受欢迎中国开源软件	https://blog.csdn.net/gao2175/article/details/103681000
+阿里数据十年	https://blog.csdn.net/u012726200/article/details/17109439
+搞懂5种数据可视化方法，胜任90%热门信息图设计	https://blog.csdn.net/elyn88/article/details/80123663
+如何验证数据、分析和数据可视化？	https://blog.csdn.net/cxq8989/article/details/106195534
+独家 | 教你实现数据集多维可视化（附代码）	https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/79419171
+oracle 定义数据完整性	https://blog.csdn.net/weixin_34414196/article/details/93199852
+宜信数据中台全揭秘（一）数据中台整体介绍|分享实录	https://blog.csdn.net/gao2175/article/details/106692508
+揭秘“撩”大数据的正确姿势：生动示例解说大数据“三驾马车”	https://blog.csdn.net/gao2175/article/details/103778878
+数据中台的“自动化数据治理”时代已来	https://blog.csdn.net/gao2175/article/details/103121931
+断网会导致xml加载失败数据库失败，识别不了，mybatis官网	https://blog.csdn.net/y666666y/article/details/106015587
+Davinci用户体验 | 你离数据可视精美大屏只差一个Davinci！	https://blog.csdn.net/gao2175/article/details/88791955
+宜人贷PaaS 数据服务平台简介（上篇）	https://blog.csdn.net/gao2175/article/details/83381211
+数据中台|宜信敏捷数据中台建设实践	https://blog.csdn.net/weixin_34221036/article/details/91458121
+魏旋-宜信大数据实时授信平台	https://blog.csdn.net/chengying332/article/details/41646233
+Kylin大数据分析	https://blog.csdn.net/qq_24708791/article/details/89422706
+Kylin - 分析数据	https://blog.csdn.net/youdianjinjin/article/details/51508480
+Kylin消费Kafka数据流式构建cube	https://blog.csdn.net/qq_28356739/article/details/90448618
+使用Kylin构建企业大数据分析平台的4种部署方式	https://blog.csdn.net/anyingpou5339/article/details/101843328
+大数据分析界的“神兽”Apache Kylin初解	https://blog.csdn.net/huangting0117/article/details/51509611
+实时数据平台设计：解决从OLTP到OLAP实时流转缺失	https://blog.csdn.net/qq_42580464/article/details/81415636
+系统升级时，数据库脚本执行注意事项，血的教训	https://blog.csdn.net/weixin_33674976/article/details/93767009
+Python基本数据类型(列表)	https://blog.csdn.net/weixin_33674976/article/details/93762679
+Excel表格数据很少但是文件却很大该怎么缩小	https://blog.csdn.net/weixin_33674976/article/details/92331713
+第三届云计算大会 - EMC全球高级副总裁范承工：当云计算遇到海量数据（转载）...	https://blog.csdn.net/weixin_33994444/article/details/93801119
+导入Excel数据时对数据校验提示方法	https://blog.csdn.net/weixin_33994444/article/details/93052241
+宜信敏捷数据中台建设实践	https://blog.csdn.net/sfjsffjjj/article/details/90694086
+数据中台=数字化+业务系统化+数据治理+科研团队	https://blog.csdn.net/knowcai126/article/details/106424134
+滴滴敏捷数据中台实践	https://blog.csdn.net/u013411339/article/details/102813757
+八问数据中台：关于数据中台你想知道的都在这里！	https://blog.csdn.net/wowotuo/article/details/89195518
+宜信实时数据平台介绍	https://blog.csdn.net/leaeason/article/details/106319215
+阿里专家，一篇讲透“业务数据双中台”架构，ppt干货分享！	https://blog.csdn.net/yellowzf3/article/details/102597628
+数据中台在真实案例中的应用原理	https://blog.csdn.net/flyingsir_zw/article/details/102682742
+公号文集：宜信财富（并行程序20秒下载4年数据）	https://blog.csdn.net/qq_45741685/article/details/106596189
+MSSQL触发器处理多行数据	https://blog.csdn.net/weixin_34234823/article/details/93822274
+python数据结构与算法	https://blog.csdn.net/weixin_34234823/article/details/93667423
+数据结构之最短路径（DijKstra）	https://blog.csdn.net/u013378580/article/details/52791895
+PyVisa教程-用Python控制仪器【4，读写数据】	https://blog.csdn.net/hao050523/article/details/100678099
+Android数据绑定组件RoboBinding使用详解	https://blog.csdn.net/u013164293/article/details/51045387
+Viewer.js结合vue异步更新数据显示失效（错乱）	https://blog.csdn.net/Feihongxiansen/article/details/88585811
+Vue下拉选择选中原来的数据	https://blog.csdn.net/Feihongxiansen/article/details/79586329
+Bmob关联数据插入	https://blog.csdn.net/Feihongxiansen/article/details/79371071
+Bmob删除单条数据	https://blog.csdn.net/Feihongxiansen/article/details/79469480
+计算机视觉、人工智能、数据挖掘顶级会议(Computer Version & AI & Data Mining Top Conference)	https://blog.csdn.net/evergreeen/article/details/7766560
+数据结构1：栈、队列、优先队列相关的算法题	https://blog.csdn.net/qq_24574309/article/details/54236551
+请求云端数据库的数据并发送至树莓派（目的地址）	https://blog.csdn.net/Wyd970729/article/details/81303843
+采集数据发送至服务器	https://blog.csdn.net/Wyd970729/article/details/81303790
+Oracle数据库入门操作（自存）	https://blog.csdn.net/Wyd970729/article/details/102670745
+Android数据库（SQLite）操作——微型技术报告（三）——五月	https://blog.csdn.net/Wyd970729/article/details/80068808
+c中的数据转换，隐式转换和显式转换	https://blog.csdn.net/qq_45295475/article/details/104364454
+MCP2515:快速数据传输的独立型CAN器件	https://blog.csdn.net/zhxlx/article/details/1901143
+使用PD(UML工具——Power Designer)设计数据库	https://blog.csdn.net/yerenyuan_pku/article/details/70217321
+学习笔记（2):Python数据挖掘简易入门-数据挖掘常用工具和技术 	http://blog.csdn.net/duck588/article/details/107210356
+学习笔记（1):Python数据挖掘简易入门-数据挖掘流程	http://blog.csdn.net/duck588/article/details/107210185
+学习笔记(02):Python数据挖掘简易入门-数据质量分析	http://blog.csdn.net/weixin_37700945/article/details/106303961
+数据库x锁和s锁	https://blog.csdn.net/weixin_33774883/article/details/91712600
+数据库的S锁和X锁，两段锁协议	https://blog.csdn.net/weixin_33834679/article/details/92893650
+数据库中什么是S锁？什么是X锁？它们区别是什么？	https://blog.csdn.net/funnsy/article/details/7097200
+Oracle导数据	https://blog.csdn.net/taosst/article/details/3092112
+Oracle导数据	https://blog.csdn.net/taosst/article/details/83291953
+数据库中的共享锁和排他锁	https://blog.csdn.net/qq_42743933/article/details/81236658
+JDBC数据库事务：概念、特性ACID、四种隔离级别、共享锁和排他锁、乐观锁和悲观锁	https://blog.csdn.net/ZHWang102107/article/details/82890468
+plsql导入导出表结构和数据对象	https://blog.csdn.net/jiaqingShareing/article/details/81300252
+利用shell脚本批量创建数据库以及数据表	https://blog.csdn.net/jiaqingShareing/article/details/82148481
+数据库并发操作下的：排他锁(X)，共享锁(S)，死锁，活锁	https://blog.csdn.net/VarryTan/article/details/80634102
+APP数据接口开发总结	https://blog.csdn.net/Carrots_vegetables/article/details/87271164
+分页请求时，有新数据加入时，下一页会出现重复数据问题	https://blog.csdn.net/Carrots_vegetables/article/details/86649070
+SQL——按时间段查询数据（今天以及昨天、本月、上个月、今年...）	https://blog.csdn.net/Carrots_vegetables/article/details/81202975
+数据库锁分类和总结	https://blog.csdn.net/weixin_39651041/article/details/79985715
+数据库常用的锁有哪些	https://blog.csdn.net/Michaeles/article/details/86484385
+数据库锁细分及详解	https://blog.csdn.net/zl834205311/article/details/81742691
+细谈数据库表锁和行锁	https://blog.csdn.net/eternal_yangyun/article/details/101037977
+【数据库】数据库的锁机制及原理	https://blog.csdn.net/C_J33/article/details/79487941
+数据库行级锁	https://blog.csdn.net/weixin_39214481/article/details/80756048
+数据库的行锁与表锁	https://blog.csdn.net/ZHWang102107/article/details/83052484
+一例胜千言，详谈SQL Sever数据库锁	https://blog.csdn.net/mmonkeyer/article/details/83680243
+数据库的锁机制	https://blog.csdn.net/qq_17011423/article/details/90045063
+数据库锁机制（一）	https://blog.csdn.net/weixin_41922289/article/details/88882325
+数据库事务与锁详解	https://blog.csdn.net/aluomaidi/article/details/52460844
+数据库原理与Spark和Drill	https://blog.csdn.net/yunlong34574/article/details/46376297
+Hive SQL使用和数据加载的一点总结	https://blog.csdn.net/yunlong34574/article/details/43272503
+plsql登录oracle数据库显示密码将要过期处理办法，改成用户密码永不过期	https://blog.csdn.net/weixin_39843430/article/details/80019362
+Oracle数据库的锁类型	https://blog.csdn.net/congnao8119/article/details/100366304
+数据库表锁死	https://blog.csdn.net/ashe1318758303/article/details/99410236
+log4net 将日志写入数据库	https://blog.csdn.net/weixin_33762130/article/details/94101640
+SQLServer和Access、Excel数据传输简单总结	https://blog.csdn.net/weixin_33762130/article/details/93994798
+oracle数据库账户被锁使用PLSQL Developer解决办法	https://blog.csdn.net/qq_38726370/article/details/83212031
+数据库----如何查看表是否锁了并查看原因和如何解锁	https://blog.csdn.net/qq_34307159/article/details/85075476
+PLSQL查询数据库操作历史记录	https://blog.csdn.net/hwq293/article/details/79447763
+四、数据库锁机制--行级锁（悲观锁与乐观锁）与表级锁	https://blog.csdn.net/qq_32317661/article/details/80486102
+Excel大数据字段导入SQLserver时报截断错误	https://blog.csdn.net/xiangbq/article/details/51897895
+discuz 数据表	https://blog.csdn.net/xxmzumeng/article/details/42150329
+PDO 数据库操作流程 自己总结的 比较易懂	https://blog.csdn.net/xxmzumeng/article/details/8851576
+事务和触发器带给数据库的好处	https://blog.csdn.net/xxmzumeng/article/details/8821203
+SQL Server数据库 ( 锁表和解锁操作)	https://blog.csdn.net/qq_39663063/article/details/79215346
+sql语句对数据库表进行加锁和解锁	https://blog.csdn.net/huangli1466384630/article/details/80862693
+ServerSQL数据库查锁、解锁	https://blog.csdn.net/u012891576/article/details/80881627
+SQL Server给数据库表加锁	https://blog.csdn.net/aHardDreamer/article/details/89246567
+hive删除原外部表，新建新表，同步元数据	https://blog.csdn.net/lukabruce/article/details/103669364
+sparkSql读取hive表数据，使用正则替换指定字符，然后进行 行转列	https://blog.csdn.net/lukabruce/article/details/103912162
+shell脚本按照时间将数据插入到hive	https://blog.csdn.net/lukabruce/article/details/103878858
+外网连接kafka集群（5台）可以成功新建主题，却无法发送数据（已解决）	https://blog.csdn.net/lukabruce/article/details/103194511
+外网如何映射访问虚拟机VM内网大数据集群，相关配置	https://blog.csdn.net/lukabruce/article/details/103195064
+Spark高级数据分析· LSA	https://blog.csdn.net/lukabruce/article/details/102998639
+今天面试总结：INSERT并发过大导致锁死表（新数据无法insert）问题解决	https://blog.csdn.net/ahua186186/article/details/84735585
+hive sql 查询一张表的数据不在另一张表中	https://blog.csdn.net/weixin_30279751/article/details/95039514
+kafka扩容 下线topic数据迁移限制带宽	https://blog.csdn.net/aa5305123/article/details/84589258
+kafka数据存储格式	https://blog.csdn.net/aa5305123/article/details/84350779
+kafka数据迁移实践-腾讯技术实践	https://blog.csdn.net/aa5305123/article/details/84109015
+springboot配置多数据源+jpa实现	https://blog.csdn.net/zmx729618/article/details/91041969
+Oracle高级操作：启停服务，开启PDB，创建表空间、用户、导入导出用户数据等	https://blog.csdn.net/zmx729618/article/details/89404320
+ORACLE客户端连接到数据库详解	https://blog.csdn.net/zmx729618/article/details/89352005
+Oracle数据库实例、数据库、方案（用户）关系及相关操作	https://blog.csdn.net/zmx729618/article/details/88943131
+查看oracle数据库允许的最大连接数和当前连接数	https://blog.csdn.net/zmx729618/article/details/54018629
+Flink1.4 用于外部数据访问的异步IO	https://blog.csdn.net/SunnyYoona/article/details/79466838
+[MongoDB]Update更新数据	https://blog.csdn.net/SunnyYoona/article/details/52420210
+数据库基础面试题-互斥锁	https://blog.csdn.net/songxinfeng1989/article/details/105634808
+数据库的加锁操作	https://blog.csdn.net/weixin_43687896/article/details/84069654
+数据库锁表与解锁	https://blog.csdn.net/zhaozijie51888/article/details/84122013
+数据库的锁机制	https://blog.csdn.net/lexang1/article/details/52248686
+有关数据库锁	https://blog.csdn.net/macky0668/article/details/5796756
+数据库加锁	https://blog.csdn.net/u010442302/article/details/79550244
+数据库锁表原因及解决思路	https://blog.csdn.net/AntdonYu/article/details/82496349
+关系型数据库锁表原理及解决方法	https://blog.csdn.net/qq_34749390/article/details/104048924
+如何对行 表 数据库加锁	https://blog.csdn.net/weixin_34176694/article/details/85662189
+数据库常见面试题——锁	https://blog.csdn.net/lumaomao_/article/details/98040077
+数据库锁的概念与介绍	https://blog.csdn.net/Node_node/article/details/96429821
+ASP导出Excel数据的四种方法	https://blog.csdn.net/weixin_34355559/article/details/93932371
+Log4j官方文档翻译(九、输出到数据库)	https://blog.csdn.net/weixin_34355559/article/details/91989715
+R语言中将数据框（data.frame）中字符型数据转化为数值型	https://blog.csdn.net/weixin_34355559/article/details/85974542
+hdfs dfs -du -h 输出三列数据的含义	https://blog.csdn.net/KNIFE_PAN/article/details/44218209
+Hive 修改表添加分区（add partition）和 加载数据时添加分区 的区别	https://blog.csdn.net/KNIFE_PAN/article/details/43952951
+Hive 修改表添加分区（add partition）和 加载数据时添加分区 的区别	https://blog.csdn.net/knife_pan/article/details/43952951#comments
+hdfs dfs -du -h 输出三列数据的含义	https://blog.csdn.net/knife_pan/article/details/44218209#comments
+Hive表删除&清空数据	https://blog.csdn.net/lhxsir/article/details/88636502
+Hive删除表中数据	https://blog.csdn.net/u014776265/article/details/95623429
+hive无法删除数据库	https://blog.csdn.net/Niki20034655/article/details/101737380
+数据库锁有几种	https://blog.csdn.net/weixin_30763397/article/details/95285279
+【数据库】什么是S锁？什么是X锁？它们区别是什么？	https://blog.csdn.net/sinat_42483341/article/details/102764948
+基础概念：Oracle数据库、实例、用户、表空间、表之间的关系	https://blog.csdn.net/csgyl/article/details/85095338
+SQL Server Profiler和数据库引擎优化顾问	https://blog.csdn.net/csgyl/article/details/81129016
+怎样在数据库中插入大量数据	https://blog.csdn.net/weixin_34121304/article/details/93199859
+动手学Docker-第四弹-Docker数据持久化存储	https://blog.csdn.net/s_842499467/article/details/105344791
+Golang-数据类型与变量	https://blog.csdn.net/s_842499467/article/details/100921679
+bootstrap table导出表格数据	https://blog.csdn.net/u012796085/article/details/79819508
+MongoDB 数据库图像界面管理工具_MongoDBCompass	https://blog.csdn.net/lizhenxiqnmlgb/article/details/105219242
+oracle大型数据库系统在AIX/unix上的实战详解 讨论76 Oracle备份问题	https://blog.csdn.net/weixin_34275734/article/details/94512080
+使用EA逆向生成数据库E-R图	https://blog.csdn.net/weixin_34275734/article/details/93802885
+Oracle 11G 数据库迁移【expdp/impdp】	https://blog.csdn.net/weixin_34275734/article/details/93191536
+如何快速更新数据库中的百万条数据	https://blog.csdn.net/weixin_34342578/article/details/86022173
+ros记录子topic数据的命令	https://blog.csdn.net/WILLIAMMMS/article/details/107233943
+自动驾驶数据集	https://blog.csdn.net/WILLIAMMMS/article/details/103794403
+oracle--分组后获取每组数据第一条数据	https://blog.csdn.net/lebron3v/article/details/99965051
+Oracle通过另一张表的数据作为条件和值更新表数据	https://blog.csdn.net/lebron3v/article/details/97145506
+angular js ngfor 遍历MAP数据	https://blog.csdn.net/lebron3v/article/details/94555411
+Oracle数据库内存使用情况分析查看	https://blog.csdn.net/lebron3v/article/details/79622924
+使用Python进行数据分析常用的那些包包们	https://blog.csdn.net/pony1001/article/details/103270173
+Python常用数据结构和包	https://blog.csdn.net/qq_35090060/article/details/105523411
+nmon 使用笔记，监控性能资源分析数据	https://blog.csdn.net/qq_18808965/article/details/102502673
+JSON数据的keg值转换，标准驼峰和不标准驼峰转下划线等6种方式转换	https://blog.csdn.net/WangXianSheng6/article/details/88957024
+Springboot使用oracle数据连接出现的表或视图不存在问题	https://blog.csdn.net/BinshaoNo_1/article/details/106803881
+easyExcel封装，读取和写入数据	https://blog.csdn.net/sheng_Mu555/article/details/98493087
+读取txt内容并取出需要的数据写入到表格导出（通过EasyExcelFactory来实现）	https://blog.csdn.net/a86411268/article/details/103506385
+JSONObject.parseObject解析数据后保持顺序不变	https://blog.csdn.net/susu1083018911/article/details/103614020
+使用fastjson解析数据后导致顺序改变问题	https://blog.csdn.net/long2010110/article/details/81537820
+校验电话号码、身份证、邮箱、url、数据类型....	https://blog.csdn.net/sxm666666/article/details/106519145
+身份证运算符 is 和 is not(检查两个数据在内存当中是否是同一个值) | 逻辑运算符 and or not | 数据类型的判断 isinstance...	https://blog.csdn.net/weixin_30371875/article/details/98009983
+JSR 303 - Bean Validation的使用（数据校验）	https://blog.csdn.net/backbug/article/details/103452493
+JVM栈的数据共享	https://blog.csdn.net/nangeali/article/details/81460824
+数据库常用SQL语句	https://blog.csdn.net/pujping/article/details/70314636
+Spark SQL之External DataSource外部数据源	https://blog.csdn.net/bluejoe2000/article/details/48859351
+送Vcenter数据库导出虚拟机主要信息报表	https://blog.csdn.net/weixin_33858249/article/details/92958467
+安卓实战开发之JNI从小白到伪老白深入了解JNI动态注册native方法及JNI数据使用	https://blog.csdn.net/u013278099/article/details/52003759
+Netty框架学习之(五）：细说数据容器-ByteBuf	https://blog.csdn.net/sun7545526/article/details/80497831
+史上最全“大数据”学习资源整理	https://blog.csdn.net/iteye_21185/article/details/82651900
+史上最全的大数据学习资源(Awesome Big Data)	https://blog.csdn.net/w397090770/article/details/101394517
+自 2017 年发表以来被引用次数最多的论文合集——大数据篇	https://blog.csdn.net/CSDN_bang/article/details/104082126
+大数据常见错误解决方案（转载）	https://blog.csdn.net/defang0693/article/details/102416604
+Spark任务调优（1）——数据本地化	https://blog.csdn.net/xueyao0201/article/details/79670633
+数据基础---Spark SQL 中的结构化数据	https://blog.csdn.net/qingqing7/article/details/79125363
+Spark数据本地性	https://blog.csdn.net/WYpersist/article/details/79711130
+Spark Streaming源码解读之流数据不断接收详解	https://blog.csdn.net/snail_gesture/article/details/51479015
+大数据面试题(九)----Spark面试题	https://blog.csdn.net/silentwolfyh/article/details/103865243
+解决spark中遇到的数据倾斜问题	http://blog.csdn.net/lsshlsw/article/details/52025949
+spark standalone 读取 HDFS 数据本地性异常	http://blog.csdn.net/lsshlsw/article/details/48711519
+Spark不同Cluster Manager下的数据本地性表现	http://blog.csdn.net/lsshlsw/article/details/52215947
+大数据IMF传奇行动绝密课程第72课：Spark SQL UDF和UDAF解密与实战	https://blog.csdn.net/tom_8899_li/article/details/60990301
+【大数据技术栈】从Yarn的OOM去探索未知的奥秘	https://blog.csdn.net/qq_33356083/article/details/105251488
+数据本地性，引起task分配不均executor执行慢	https://blog.csdn.net/young_0609/article/details/105755301
+Spark笔记之数据本地性（data locality）	https://blog.csdn.net/weixin_30399055/article/details/99282203
+Spark 之 Stage划分、数据本地性算法实现	https://blog.csdn.net/LongHai_Zheng/article/details/52276242
+【原】Spark数据本地性	https://blog.csdn.net/weixin_30533797/article/details/98726976
+数据本地性	https://blog.csdn.net/zheng911209/article/details/97753597
+Spark性能调优-数据本地性	https://blog.csdn.net/u013939918/article/details/60897191
+10亿数据量的即席查询 spark 和 kylin的对比	https://blog.csdn.net/weixin_34319999/article/details/92157371
+Spark不同Cluster Manager下的数据本地性表现	https://blog.csdn.net/lsshlsw/article/details/52215947
+spark数据本地性	https://blog.csdn.net/weixin_44024821/article/details/97821289
+spark的数据本地性	https://blog.csdn.net/m0_37582129/article/details/100863749
+解决spark中遇到的数据倾斜问题	https://blog.csdn.net/lsshlsw/article/details/52025949
+【读书笔记】MapReduce之数据本地化	https://blog.csdn.net/eryehong/article/details/79950387
+[spark 面试]Spark解决数据倾斜问题	https://blog.csdn.net/qq_35394891/article/details/82261571
+Spark sql处理数据倾斜方法	https://blog.csdn.net/lulynn/article/details/51498596
+spark优化之数据倾斜	https://blog.csdn.net/qazfeiyu/article/details/77715780
+spark学习-28-Spark数据倾斜问题	https://blog.csdn.net/qq_21383435/article/details/77773018
+Spark数据倾斜的完美解决	https://blog.csdn.net/qq_38247150/article/details/80366769
+sparksql运算调优纪事（三）——repartition数据倾斜处理	https://blog.csdn.net/fzuzhanghao1993/article/details/104377584
+Spark 数据倾斜及其解决方案	https://blog.csdn.net/qq_41946557/article/details/103705705
+SparkSQL中groupby造成的数据倾斜	https://blog.csdn.net/weixin_44840312/article/details/89175341
+数据倾斜及其高效解决方法	https://blog.csdn.net/anshuai_aw1/article/details/84033160
+spark2.2.0：记录一次数据倾斜的解决（扩容join）！	https://blog.csdn.net/lsr40/article/details/80322553
+Spark_SparkSQL / DataFrame 中 groupby 数据倾斜处理方法	https://blog.csdn.net/u010003835/article/details/106436015
+解决 spark 中的数据倾斜问题	https://blog.csdn.net/asd1456732891/article/details/96928389
+第140课： Spark面试经典系列之数据倾斜解决之并行度的深度使用	https://blog.csdn.net/duan_zhihua/article/details/51868313
+Spark性能优化之道——解决Spark数据倾斜（Data Skew）的N种姿势	https://blog.csdn.net/Habren/article/details/60550078
+大数据框架中的数据倾斜总结	https://blog.csdn.net/weixin_43228814/article/details/88883591
+【总结】一不小心的Map端数据倾斜	https://blog.csdn.net/weixin_33717298/article/details/92219383
+大数据spark开发入门教程	https://blog.csdn.net/xx666zz/article/details/79869888
+大数据--Spark简介	https://blog.csdn.net/LV_ZFG/article/details/81901467
+大数据-Spark实例	https://blog.csdn.net/JavaDestiny/article/details/96200915
+大数据学习路径	https://blog.csdn.net/u012316953/article/details/51457562
+海量数据处理算法—Bit-Map	https://blog.csdn.net/iteye_4515/article/details/82402942
+Nifi 数据流整合工具	https://blog.csdn.net/u011489205/article/details/78977691
+大数据实时流式处理引擎比较	https://blog.csdn.net/weixin_34402090/article/details/91407004
+NiFi数据流实例二	https://blog.csdn.net/xwd127429/article/details/105931697
+小象学院大数据全套视频教程	https://blog.csdn.net/lyq268497/article/details/83928297
+Python 使用的部分常用包以及数据分析pandas及工具jupyter使用	https://blog.csdn.net/ba12313/article/details/101701209
+Octave 数据绘制	https://blog.csdn.net/qq_41311604/article/details/83831294
+空间数据挖掘常用方法	http://blog.csdn.net/u012690204/article/details/41853731
+PayPal高级工程总监：读完这100篇论文 就能成大数据高手	https://blog.csdn.net/chengsida111/article/details/46786519
+Flink大数据计算的机遇与挑战	https://blog.csdn.net/weixin_42967833/article/details/82086362
+TensorFlow数据验证(TensorFlow Data Validation)介绍：理解、验证和监控大规模数据	https://blog.csdn.net/mogoweb/article/details/82760953
+Python数据分析——NumPy数值计算基础（一）	https://blog.csdn.net/DTRblank/article/details/106442987
+深度学习原理与TensorFlow实践3：数据读取	https://blog.csdn.net/u012678060/article/details/83934244
+python tensorflow 使用minist数据集实现手写数字识别	https://blog.csdn.net/LN_IOS/article/details/77965378
+大数据面试题整理	https://blog.csdn.net/z1941563559/article/details/106570393
+大数据之Yarn——Capacity调度器概念以及配置	https://blog.csdn.net/weixin_34055910/article/details/85840322
+数据中心的Yarn on Docker集群方案	https://blog.csdn.net/leone911/article/details/74211320
+利用Docker搭建大数据处理集群	https://blog.csdn.net/swebin/article/details/71785599
+大数据常用组件默认端口号	https://blog.csdn.net/qq_35495339/article/details/95939625
+bolt：一个纯Go实现的KV数据库	https://blog.csdn.net/u014029783/article/details/78629041
+【一】storm理论+数据分组策略	https://blog.csdn.net/jy02268879/article/details/80596829
+大数据_Storm_Storm之--配置项详解	https://blog.csdn.net/u010003835/article/details/52182244
+Strom数据流分组解析	https://blog.csdn.net/dlf123321/article/details/51811965
+利用es-head 删除指定查询条件中的数据	https://blog.csdn.net/zeroctu/article/details/50617696
+es5.3【7】获取es索引结构、根据id获取并修改数据	https://blog.csdn.net/weixin_37630333/article/details/90751973
+es索引与数据结构 ，以及其他知识使用	https://blog.csdn.net/ailice001/article/details/79493815
+通过crontab定时删除ES历史数据	https://blog.csdn.net/hitits/article/details/84373858
+大数据工具：IKAnalyzer分词工具介绍与使用	https://blog.csdn.net/maoyuanming0806/article/details/83478071
+es读取和写入数据的工作原理及其默认参数	https://blog.csdn.net/u010398771/article/details/100736709
+ES数据写入流程介绍	https://blog.csdn.net/zc19921215/article/details/105166841
+idea生成对应数据库表的实体类	https://blog.csdn.net/u_my_heart/article/details/94546365
+Idea通过数据库表生成实体类（自定义）	https://blog.csdn.net/weixin_45415885/article/details/100641172
+在Idea中连接数据库并生成实体类	https://blog.csdn.net/qq_27435059/article/details/52494623
+Intellij IDEA 通过数据库表生成带注解的实体类详细步骤	https://blog.csdn.net/qq_34371461/article/details/80571281
+如何使用idea自带的数据库可视化工具	https://blog.csdn.net/CHWB2580/article/details/105281259
+idea生成数据库实体类	https://blog.csdn.net/a1053765496/article/details/106620303
+idea通过Database生成数据库的实体类	https://blog.csdn.net/qq_42795259/article/details/101114780
+IDEA----自动生成数据库实体类	https://blog.csdn.net/daihuimaozideren/article/details/78744480
+IDEA-根据数据库表生成实体类	https://blog.csdn.net/sunrise52java/article/details/104412971
+10款值得收藏的网站数据实时分析工具	https://blog.csdn.net/D1j4robv/article/details/78558814
+Android_GitHub_jsoup(二)数据抽取	https://blog.csdn.net/iwanghang/article/details/51283638
+Jsoup入门：解析html 抽取数据	https://blog.csdn.net/u012989337/article/details/41550489
+Jsoup 使用教程：数据抽取	https://blog.csdn.net/weixin_34206899/article/details/85842066
+知乎人均985？Python爬50W数据，BI做出可视化后，我有了答案	https://blog.csdn.net/yuanziok/article/details/103608979
+python爬取+BI分析5000条内衣数据，发现妹子最爱这款文胸	https://blog.csdn.net/yuanziok/article/details/103592013
+jmeter向kafka推数据（总结）	https://blog.csdn.net/XTY00/article/details/103532911
+JMeter发送数据到Kafka	https://blog.csdn.net/jwcxs_m/article/details/103530869
+Flink可查询状态Queryable State:替换你的数据库	https://blog.csdn.net/javawins/article/details/86673610
+大数据计算引擎，你 pick 哪个？	https://blog.csdn.net/guleileo/article/details/102949110
+大数据压力测试工具HiBench	https://blog.csdn.net/wumiqing1/article/details/85112208
+「企业上云」系列之开源数据库的现状	https://blog.csdn.net/weixin_37098404/article/details/102706069
+NAMENODE工作机制，元数据管理(元数据存储机制、元数据手动查看)、元数据的checkpoint、元数据目录说明（来自学习资料）...	https://blog.csdn.net/weixin_34411563/article/details/90526189
+117道有关大数据面试题解析，希望对你有所帮助	https://blog.csdn.net/chuanmao9486/article/details/100815985
+图数据库 Neo4j简介及增删查操作	https://blog.csdn.net/weixin_42301867/article/details/82853903
+图形数据库Neo4J简介	https://blog.csdn.net/weixin_30346033/article/details/98933240
+大数据领域的Benchmark介绍	https://blog.csdn.net/u012050154/article/details/50729725
+Neo4j介绍及其图数据模型	https://blog.csdn.net/sinat_32675597/article/details/80275718
+neo4j 删除所有数据	https://blog.csdn.net/weixin_43632109/article/details/106438554
+Neo4j删除数据	https://blog.csdn.net/hello_acm/article/details/91397226
+Neo4j清空所有数据	https://blog.csdn.net/WGH100817/article/details/101719403
+开源图数据库neo4j极简教程	https://blog.csdn.net/universsky2015/article/details/105703600
+大数据性能测试工具Dew --转载自李智慧	https://blog.csdn.net/weixin_42898914/article/details/86572617
+Hive----Hive进阶操作(一) 数据类型和视图	https://blog.csdn.net/XiaodunLP/article/details/86760772
+Hive Hive中的数据分桶 以及 使用场景	https://blog.csdn.net/u010003835/article/details/80911215
+数据库分区分表以及读写分离	https://blog.csdn.net/xybelieve1990/article/details/50830908
+Hive 的概念、应用场景、安装部署及使用、数据存储 、table(内部表)和external table(外部表)、partition(分区表)和bucket(分桶表)	https://blog.csdn.net/weixin_41685388/article/details/103332401
+Hive高级应用(视图、索引、数据倾斜)	https://blog.csdn.net/tyhawk/article/details/88856107
+hive数据库的索引解析	https://blog.csdn.net/lds_include/article/details/88798338
+Hive_6. 数据聚合 -- Group By & Grouping_SETS & RollUp & CUBE & Having	https://blog.csdn.net/Mike_H/article/details/50161407
+将hive的元数据存到Oracle里	https://blog.csdn.net/needle2/article/details/5990319
+hive 数据倾斜原因及解决	https://blog.csdn.net/weixin_41734687/article/details/102960661
+使用Sqoop将SQL Server视图中数据导入Hive	https://blog.csdn.net/Dr_Guo/article/details/102823338
+Hive 导入 parquet 格式数据	https://blog.csdn.net/weixin_30411819/article/details/95633463
+数据库SQL优化大总结之 百万级数据库优化方案	https://blog.csdn.net/zhushuai1221/article/details/51740846
+面向程序员的数据库访问性能优化法则	https://blog.csdn.net/sabuhaha/article/details/5992478
+数据库的优化方式（全）	https://blog.csdn.net/DD18203614685/article/details/93198885
+关于数据库SQL优化	https://blog.csdn.net/abc1137377326/article/details/101988304
+数据库sql优化总结之1-百万级数据库优化方案+案例分析	https://blog.csdn.net/shi_hong_fei_hei/article/details/81022161
+数据库SQL调优的几种方式	https://blog.csdn.net/u010520146/article/details/81161762
+数据库和sql优化的几种方式	https://blog.csdn.net/weixin_44504146/article/details/89332406
+监控linux中CPU 内存 磁盘数据的shell脚本(图文)	https://blog.csdn.net/liu_cyu/article/details/41943191
+Django连接外部数据库，并生成models.py	https://blog.csdn.net/weixin_42006568/article/details/85942654
+Django连接远程服务器数据库	https://blog.csdn.net/qq_36853469/article/details/87816655
+django之数据库操作	https://blog.csdn.net/feilzhang/article/details/81070668
+django 链接多个数据库 并使用原生sql	https://blog.csdn.net/qq_37049050/article/details/85131514
+Django框架中models操作数据库方法和原始连接数据库方法比较	https://blog.csdn.net/qq_31551211/article/details/80051838
+Django数据库基本配置	https://blog.csdn.net/weixin_42142216/article/details/91357588
+Django与数据库连接	https://blog.csdn.net/xiaoming0018/article/details/80389091
+Django数据库连接查询	https://blog.csdn.net/weixin_44632941/article/details/87531553
+Django连接远程数据库	https://blog.csdn.net/nghuyong/article/details/54638474
+Django连接SQL Server数据库，亲测成功	https://blog.csdn.net/a1873240204/article/details/94848539
+多线程Django程序耗尽数据库连接的问题	https://blog.csdn.net/lanphaday/article/details/82959426
+使用django连接数据库	https://blog.csdn.net/w_gold_qin/article/details/104168511
+Kubernetes排错：用容器的元数据提供新思路	https://blog.csdn.net/weixin_30713953/article/details/98553756
+Prometheus - 时间序列数据库	https://blog.csdn.net/zhuyu19911016520/article/details/88254978
+Greenplum数据库简介	https://blog.csdn.net/u012564911/article/details/60956210
+greenplum数据库的使用	https://blog.csdn.net/qq_35248268/article/details/81632389
+数据库之路——greenplum数据库学习笔记	https://blog.csdn.net/qq_22770715/article/details/53489227
+mybatis大批量数据批量更新高效率解决办法	https://blog.csdn.net/dragon974539495/article/details/100075524
+mybatis学习之路----批量更新数据两种方法效率对比	https://blog.csdn.net/xu1916659422/article/details/77971696
+mybatis批量更新数据三种方法效率对比	https://blog.csdn.net/q957967519/article/details/88669552
+Mybatis 大数据量的批量update解决方案	https://blog.csdn.net/weixin_43886567/article/details/87940077
+使用SQL语句统计数据时sum和count函数中使用if判断条件	https://blog.csdn.net/qq784515681/article/details/80375494
+PostgreSQL中COUNT的各条件下（1亿条数据）例子	https://blog.csdn.net/weixin_39300480/article/details/99647557
+【数据库基础】联合索引是什么？为什么要用它？用它时要注意什么？	https://blog.csdn.net/nakiri_arisu/article/details/79702461
+开源大数据OLAP引擎对比	https://blog.csdn.net/weixin_34272308/article/details/93018126
+详解几种常用（闭源、开源）关系型数据库的架构和实现原理解读	https://blog.csdn.net/Javajiaojiaozhe/article/details/106021960
+数据库锁分类总结汇总，包含乐观锁、悲观锁、行锁、表锁、共享锁、排它锁、更新锁、活锁、死锁	https://blog.csdn.net/qq_26894727/article/details/88772738
+数据库中乐观锁、悲观锁、共享锁和排它锁的理解	https://blog.csdn.net/weixin_42579642/article/details/84062490
+web开发中的两把锁之数据库锁：（高并发--乐观锁、悲观锁）	https://blog.csdn.net/iteye_11495/article/details/82635852
+数据库表锁，行锁，共享锁，排他锁，悲观锁，乐观锁	https://blog.csdn.net/linjpg/article/details/85646340
+数据库连接异常	https://blog.csdn.net/PotatoAndPotato/article/details/80318117
+Spring Data（二）|Spring Data JDBC实践之使用JDBC访问关系数据	https://blog.csdn.net/qq_32328959/article/details/88345389
+JdbcTemplate查询数据 三种callback之间的区别（转）	https://blog.csdn.net/mazhen_null/article/details/84171812
+SpringBoot重点详解--操作多数据源（JPA+JdbcTemplate）	https://blog.csdn.net/pengjunlee/article/details/80135271
+Spring系列学习之Spring Data JDBC数据访问拓展	https://blog.csdn.net/boonya/article/details/85171329
+Spring Boot 两种多数据源配置：JdbcTemplate、Spring-data-jpa	https://blog.csdn.net/An1090239782/article/details/81061213
+Spring系列学习之Spring Data JDBC数据访问	https://blog.csdn.net/boonya/article/details/85165246
+Spring Boot中使用JdbcTemplate访问数据库	https://blog.csdn.net/weixin_33774615/article/details/90066580
+[kylin]Kylin 快速数据立方算法揭秘	https://blog.csdn.net/SunnyYoona/article/details/52318176
+golang数据类型在函数中传值或传址的整理	https://blog.csdn.net/easy_mind/article/details/52807874
+go语言求素数详解（带详细数据流图解读）	https://blog.csdn.net/buzao6779/article/details/100515677
+使用jQuery AJAX读取二进制数据	https://blog.csdn.net/weixin_30642305/article/details/94846809
+在JS中发送ajax请求，并且解析后台返回的Blob类型数据，将数据转换为文件	https://blog.csdn.net/tuomazhao/article/details/89351073
+「JanusGraph」图形数据库 - 技术选型调研	https://blog.csdn.net/lovebyz/article/details/87980966
+JanusGraph实战笔记·数据写入·查询	https://blog.csdn.net/wzwdcld/article/details/81275923
+图数据库JanusGraph介绍及使用(三)：安装与初步使用	https://blog.csdn.net/gobitan/article/details/81068459
+图数据库JanusGraph介绍及使用(二)：架构	https://blog.csdn.net/gobitan/article/details/80939276
+Spark大数据分析-GraphX：图	https://blog.csdn.net/sword_csdn/article/details/106823712
+图数据库入门教程-深入学习Gremlin（1）：图基本概念与操作	https://blog.csdn.net/javeme/article/details/82501797
+架构设计 —— 系统建模（UML、时序图、数据流图、流程图）	https://blog.csdn.net/lanchunhui/article/details/52273495
+SQL （六） 数据库 创建和删除索引	https://blog.csdn.net/u010009033/article/details/81242948
+数据库 - 索引、基本表创建与删除	https://blog.csdn.net/wangzi11322/article/details/45498919
+架构核心的核心-数据库设计原则（金融行业）	https://blog.csdn.net/Chrisgx/article/details/79483170
+流式大数据实时处理技术、平台及应用	https://blog.csdn.net/u010923921/article/details/77860171
+流式大数据实时处理—技术、平台及应用	https://blog.csdn.net/iteye_19740/article/details/82674819
+Flume自定义拦截器对数据进行脱敏处理	https://blog.csdn.net/qq_33689414/article/details/80047356
+Excel表格数据生成ECharts图表	https://blog.csdn.net/Huay_Li/article/details/88809119
+初学echarts的excel数据导入遇到的小问题	https://blog.csdn.net/u010614372/article/details/44517183
+关于 vue 使用 Handsontable 表格数据导出	https://blog.csdn.net/weixin_30625691/article/details/97224306
+EXCEL导出数据并导出ECharts图片	https://blog.csdn.net/hello_xing/article/details/105444331
+使用 Redux-immutable 统一数据格式	https://blog.csdn.net/purple_lumpy/article/details/88891287
+redux-immutable统一数据格式	https://blog.csdn.net/limingxiaojie/article/details/95359086
+react中redux利用redux-persist数据持久化	https://blog.csdn.net/ling369523246/article/details/84786962
+react 学习笔记之AJAX数据请求和使用	https://blog.csdn.net/cdp19930414/article/details/52937263
+react异步数据如ajax请求应该放在哪个生命周期？	https://blog.csdn.net/gao449812984/article/details/81055883
+React学习(九)-React中发送Ajax请求以及Mock数据	https://blog.csdn.net/wzc_coder/article/details/102952328
+React通过Ajax获取数据	https://blog.csdn.net/uwenhao2008/article/details/79542332
+React 中用jQuery的ajax 和 axios请求数据	https://blog.csdn.net/weixin_34259559/article/details/87954803
+react——获取数据的4种方法ajax()、$.ajax()、fetch()、axios	https://blog.csdn.net/fengqiyunluo/article/details/81195233
+图数据库JanusGraph介绍及使用(一)：简介	https://blog.csdn.net/gobitan/article/details/80939224
+图数据库JanusGraph实战[5]: JanusGraph可视化之Gephi	https://blog.csdn.net/gobitan/article/details/85346356
+JanusGraph 导数据工具	https://blog.csdn.net/qq_32140547/article/details/87646912
+Titan 1.0 批量 数据并行导入示例	https://blog.csdn.net/liliang199/article/details/52577157
+JanusGraph批量导入数据代码总结	https://blog.csdn.net/sun7545526/article/details/90757800
+JanusGraph的schema及数据建模	https://blog.csdn.net/a1752807634/article/details/102320189
+janusgraph批量导入数据-IBM（ janusgraph-utils）的使用	https://blog.csdn.net/dashutiao2014/article/details/101229834
+POI CSV方式处理大数据excel文件	https://blog.csdn.net/xuyelong1/article/details/46928627
+PageHelper 插件。下一页一直有数据 并且是最后的数据	https://blog.csdn.net/qq_38094271/article/details/84719967
+十亿级别数据量的es查询优化	https://blog.csdn.net/qq_26222859/article/details/47684841
+es大数据量分页查询	https://blog.csdn.net/weixin_39298366/article/details/90485874
+es实战之查询大量数据	https://blog.csdn.net/weixin_34318326/article/details/94163845
+es数据库查询API	https://blog.csdn.net/xzpdxz/article/details/98770249
+5种常用数据库对比 & ES数据库的优势所在	https://blog.csdn.net/wx1528159409/article/details/89206735
+SpringBoot下使用Jest访问ES数据库以及访问ES集群	https://blog.csdn.net/z327092292/article/details/84024926
+记Apache POI 导出数据到Excel	https://blog.csdn.net/weixin_40336333/article/details/80618298
+【数据结构】HashMap原理及实现学习总结	https://blog.csdn.net/jianyuerensheng/article/details/51579091
+ecw2c理解元数据：使用BigQuery k-means将4,000个堆栈溢出标签聚类	https://blog.csdn.net/cunehu1722/article/details/104928781
+大数据平台多租户管理实现（理论篇）	https://blog.csdn.net/jintian910625/article/details/87931638
+大数据平台下多租户架构研究	https://blog.csdn.net/u013407595/article/details/37677985
+spring mvc 多数据源配置 利用AOP手动切换	https://blog.csdn.net/qqfo24/article/details/81383887
+数据分布算法（hash算法 VS 一致性hash算法 VS hash slot算法）	https://blog.csdn.net/LO_YUN/article/details/104558592
+RocketMQ的数据存储及消息持久化	https://blog.csdn.net/LO_YUN/article/details/104033853
+EasyExcel从指定位置开始读数据	https://blog.csdn.net/zhangleiyes123/article/details/106670561
+数据导出excel报No 'Access-Control-Allow-Origin' header is present on the requested resource. 跨域问题！	https://blog.csdn.net/zhangleiyes123/article/details/101382749
+数据和安全③Https协议分析	https://blog.csdn.net/Zzhou1990/article/details/107234299
+数据和安全②HTTPS单向和双向认证	https://blog.csdn.net/Zzhou1990/article/details/107212097
+数据和安全①加解密理论概述	https://blog.csdn.net/Zzhou1990/article/details/107202006
+数据结构和算法基本概念	https://blog.csdn.net/Zzhou1990/article/details/106177525
+ZipkinServer存储Cassandra数据分析	https://blog.csdn.net/Zzhou1990/article/details/106340064
+通过Utgard读取Opc数据	https://blog.csdn.net/Zzhou1990/article/details/102961854
+Thingsboard 时序数据和属性数据	https://blog.csdn.net/Zzhou1990/article/details/100098697
+hystrix-dashboard+turbine以及hystrix.stream数据问题	https://blog.csdn.net/Zzhou1990/article/details/79098814
+数据和安全②HTTPS单向和双向认证	https://blog.csdn.net/zzhou1990/article/details/107212097#comments
+数据结构之线性表【C语言】	https://blog.csdn.net/python_LC_nohtyp/article/details/105550370
+Tensorflow2.0之自定义数据集	https://blog.csdn.net/python_LC_nohtyp/article/details/104685251
+Python使用Pandas对csv文件进行数据处理	https://blog.csdn.net/lpwmm/article/details/79933057
+数据库分库分表的应用场景及解决方案	https://blog.csdn.net/sunhuiliang85/article/details/78418546
+数据库分库分表的应用场景及方法分析	https://blog.csdn.net/sunhuiliang85/article/details/78418004
+Vue--将页面中数据导出excel文件（导出table表格数据）	https://blog.csdn.net/weixin_43650254/article/details/99234760
+61、链路追踪：zipkin客户端向rabbitmq中发送数据并测试	https://blog.csdn.net/qq_41347385/article/details/106681513
+59、链路追踪：zipkin通过消息中间件进行数据收集的思路分析	https://blog.csdn.net/qq_41347385/article/details/106676598
+sql查询某个时间段内的数据（包括开始时间，结束时间）！	https://blog.csdn.net/qq_41347385/article/details/102720350
+【数据结构】顺序表的插入和删除（C语言）	https://blog.csdn.net/love_3000_times/article/details/106334017
+数据结构理论基础-7—树、森林与二叉树的转换	https://blog.csdn.net/weixin_37697191/article/details/86614595
+数据结构C语言实现-6—图	https://blog.csdn.net/weixin_37697191/article/details/84673802
+数据结构理论基础-6—图	https://blog.csdn.net/weixin_37697191/article/details/84613560
+数据结构C语言实现-5—树	https://blog.csdn.net/weixin_37697191/article/details/84611719
+mendeley实现迁移数据到新电脑	https://blog.csdn.net/a358463121/article/details/89308007
+Python数据相关教程资料整理	https://blog.csdn.net/a358463121/article/details/79591643
+不平衡数据分类算法介绍与比较	https://blog.csdn.net/a358463121/article/details/52304670
+探索性数据分析	https://blog.csdn.net/a358463121/article/details/55003356
+CutMix数据增强学习	https://blog.csdn.net/u013066730/article/details/106354846
+【YOLACT】训练自己数据集	https://blog.csdn.net/u013066730/article/details/103720215#comments
+c语言数据排序的三种方法	https://blog.csdn.net/weixin_41946004/article/details/85566508
+大数据学习记录	https://blog.csdn.net/wuhe671767/article/details/88685098
+数据挖掘 日期转换表	https://blog.csdn.net/wuhe671767/article/details/77971433
+数据结构与算法总结	https://blog.csdn.net/wuhe671767/article/details/78026927
+【DSP】获取F28335各种数据类型所占的字节数的方法	https://blog.csdn.net/baidu_37973494/article/details/100125363
+【机器学习】从本地加载MNIST以及FashionMNIST数据	https://blog.csdn.net/baidu_37973494/article/details/93041998
+数据存储单位的换算单位	https://blog.csdn.net/weixin_43822878/article/details/103506278
+postgresql数据库应用查询语句	https://blog.csdn.net/weixin_43822878/article/details/102952070
+PostgreSQL数据库设置登录数据库密码	https://blog.csdn.net/weixin_43822878/article/details/99304564
+时序性数据库Prometheus	https://blog.csdn.net/educast/article/details/100889096
+数据库事务的特点与隔离级别	https://blog.csdn.net/zht666/article/details/51691958
+PLSQL Developer使用oracle_instantclient_basic连接Oracle数据库	https://blog.csdn.net/zht666/article/details/50528492
+数据库触发联合索引的几个条件	https://blog.csdn.net/zht666/article/details/46695697
+Oracle数据库无法使用localhost和127.0.0.1访问	https://blog.csdn.net/zht666/article/details/41116641
+Oracle数据库的ROWID与ROWNUM	https://blog.csdn.net/zht666/article/details/40829863
+Oracle数据类型	https://blog.csdn.net/zht666/article/details/40821207
+数据库尽量不要存储较大的二进制数据，如图片、视频、文件等	https://blog.csdn.net/zht666/article/details/34825743
+数据库分页方法总结	https://blog.csdn.net/zht666/article/details/29369363
+DB2使用命令行连接远程数据库（+使用CoolSQL连接DB2）	https://blog.csdn.net/zht666/article/details/8781332#comments
+漫谈数据中心CLOS网络架构	https://blog.csdn.net/a936676463/article/details/50082395
+Linux下iptables端口转发实现跳转访问数据库应用场景：假设有A、B、C三台设备，A＜	https://blog.csdn.net/zhuyisheng/article/details/50915673
+Django rest-framework框架-请求数据校验	https://blog.csdn.net/dlm520947/article/details/102112972
+kubernetes 集群内部访问外部的数据库endpoint	https://blog.csdn.net/dlm520947/article/details/102112952
+python 机械学习之sklearn的数据正规化	https://blog.csdn.net/dlm520947/article/details/102113143
+利用iptables丢弃某ip数据包	https://blog.csdn.net/zj0910/article/details/25337589
+数据仓库ODS、DW和DM概念区分	https://blog.csdn.net/JacksonKing/article/details/106496029
+数据仓库基础知识	https://blog.csdn.net/JacksonKing/article/details/106381240
+计算机网络-基本概念（1）【网络层】-ARP协议以及数据传输过程	https://blog.csdn.net/vincent_duan/article/details/106599882
+计算机网络-思维导图（3）数据链路层	https://blog.csdn.net/vincent_duan/article/details/106589559
+使用sed修改最后一行数据	https://blog.csdn.net/vincent_duan/article/details/106193968
+Apache Flink 读取本地文件，处理数据，导入ES	https://blog.csdn.net/vincent_duan/article/details/101678674
+Greenplum批量操作，数据库里面作删除更新速度最快	https://blog.csdn.net/limingcai168/article/details/103719320
+List使用Stream 分组求和groupingBy， collect、reduce方法流数据处理	https://blog.csdn.net/limingcai168/article/details/103430464
+kafka定时任务拉取数据	https://blog.csdn.net/limingcai168/article/details/103394041
+Spring Boot + Sharding-JDBC快速简单实现数据库读写分离	https://blog.csdn.net/limingcai168/article/details/88061170
+ES6新增数据类型set和map	https://blog.csdn.net/superlover_/article/details/82253830
+ ES学习笔记(14)--map数据结构	https://blog.csdn.net/weixin_33788244/article/details/88723825
+ES6入门(三)：数据类型	https://blog.csdn.net/a15157126928/article/details/78175488
+es 数据类型keyword和text区别	https://blog.csdn.net/sxf_123456/article/details/82155344
+ES数据类型及不同类型映射的参数	https://blog.csdn.net/sinat_14913533/article/details/83243503
+数据结构与算法基础	https://blog.csdn.net/qq_32635069/article/details/81161740
+C语言的普通数据类型所占字节（sizeof）	https://blog.csdn.net/qq_32635069/article/details/80274044
+kafka2.0系列之(6) Kafka客户端API实现数据生产消费	https://blog.csdn.net/tengxing007/article/details/91960484
+kafka2.0系列之(4) Kafka Connect导入/导出数据	https://blog.csdn.net/tengxing007/article/details/91356281
+数据库被劫持	https://blog.csdn.net/tengxing007/article/details/90170907
+Tensorflow之构建自己的图片数据集TFrecords(精)	https://blog.csdn.net/tengxing007/article/details/56847828
+数据一致性-分区可用性-性能——多副本强同步数据库系统实现之我见	https://blog.csdn.net/sd4015700/article/details/51192325
+利用vmstat命令监控Linux资源使用并将数据通过图形化方式显示	https://blog.csdn.net/sd4015700/article/details/50516856
+海量数据迁移之误操作和防范建议	https://blog.csdn.net/sd4015700/article/details/50516809
+通过vmstat的简单分析数据库操作	https://blog.csdn.net/sd4015700/article/details/50516802
+逻辑数据库设计 - 需要ID(谈主键Id)	https://blog.csdn.net/sd4015700/article/details/50498401
+逻辑数据库设计 - 无视约束(谈外键)	https://blog.csdn.net/sd4015700/article/details/50498294
+数据库并发访问、事务与锁、脏读、不可重复读、幻影读	https://blog.csdn.net/sd4015700/article/details/41113147#comments
+es 搜索多个index和多个type下的数据	https://blog.csdn.net/keyuquan/article/details/82111346
+63.es中的type数据类型	https://blog.csdn.net/anlanmo0960/article/details/102015870
+idea导出Oracle表结构和数据	https://blog.csdn.net/F7ANTY/article/details/106813790
+表数据多级删除	https://blog.csdn.net/F7ANTY/article/details/103044119
+使用P6Spy监控你的Spring boot数据库操作	https://blog.csdn.net/F7ANTY/article/details/104187325
+解析ES的document核心元数据：_index，_type，_id，_source	https://blog.csdn.net/liyuling52011/article/details/83044542
+关于fielddata数据占用内存过大的解决方法	https://blog.csdn.net/xtjsxtj/article/details/50511338
+ES--nested嵌套结构数据查询	https://blog.csdn.net/yong1xin/article/details/97895131
+kafka添加 partion导致 spark 实时任务数据减少	https://blog.csdn.net/keyuquan/article/details/77978758
+hive源数据服务启动错误	https://blog.csdn.net/keyuquan/article/details/73379899
+ES中实现分页查询数据并返回想要的字段	https://blog.csdn.net/qq_34291242/article/details/100583058
+es聚合查询并且返回对应组的数据	https://blog.csdn.net/ywdhzxf/article/details/84878760
+laravel 通过迁移文件改变数据表某字段类型	https://blog.csdn.net/tclzsn7456/article/details/88887865
+laravel5.6 belongsTo和hasOne连接不同数据库的表	https://blog.csdn.net/tclzsn7456/article/details/86581359
+InfluxDB 数据备份及数据恢复	https://blog.csdn.net/zx711166/article/details/103918485
+InfluxDB 数据保存策略（Retention Policies）	https://blog.csdn.net/zx711166/article/details/103919732
+ES查询某个字段没有值的数据	https://blog.csdn.net/qq_39539575/article/details/100529950
+【ES】ES 根据数据的某个字段进行条件删除	https://blog.csdn.net/qq_21383435/article/details/106640434
+bit类型数据，是1=false 还是0＝false	https://blog.csdn.net/weixin_33853794/article/details/94303978
+SQLite数据库查询优化	https://blog.csdn.net/weixin_33853794/article/details/93766967
+es查询对应索引下的数据结果	https://blog.csdn.net/u012976879/article/details/96434780
+kafka数据同步/镜像工具 kafka mirror maker	https://blog.csdn.net/u012307002/article/details/77935996
+Spark将数据压缩存储	https://blog.csdn.net/u012307002/article/details/73650340
+通过url删除ES中的数据	https://blog.csdn.net/u012307002/article/details/72466323
+spark stream冷启动处理kafka中积压的数据	https://blog.csdn.net/u012307002/article/details/69388242
+解决还原SqlServer数据库时，报错：“备份集中的数据库备份与现有的数据库不同 3154”	https://blog.csdn.net/u013692049/article/details/84658671
+POI生成excel数据量大时内存溢出解决	https://blog.csdn.net/u013692049/article/details/61674491
+android-lite-http处理http异常返回时的content数据读取	https://blog.csdn.net/u013692049/article/details/53310624
+数据结构之什么是数据结构	https://blog.csdn.net/weixin_43908849/article/details/101031206
+jsp 中使用jQuery或者js遍历json数据	https://blog.csdn.net/gaochen519/article/details/53419289
+使用百度ueditor时提交表单获取不到数据	https://blog.csdn.net/u014307349/article/details/74937045
+紧急事件，记一次系统数据从丢失到恢复的案例	https://blog.csdn.net/xianniu_master/article/details/106070791
+我为什么既支持又反对接口用Map来传输数据？	https://blog.csdn.net/weixin_46940514/article/details/106071914
+我花了一夜用数据结构给女朋友写个H5走迷宫游戏	https://blog.csdn.net/qq_40693171/article/details/100716766
+JDBC数据库连接池connection关闭后Statement和ResultSet未关闭的问题	https://blog.csdn.net/m0_37732829/article/details/103640945
+数据库-自由编程	https://blog.csdn.net/m0_37732829/article/details/103640366
+PLSQL Developer连接Oracle11g 64位数据库配置详解（转）	https://blog.csdn.net/ywb201314/article/details/80498383
+记录一下线上数据cpu100%的问题	https://blog.csdn.net/qq_38796327/article/details/107236113
+记录一下改写mybatis-plus租户插件，实现多个字段来确定一个租户，实现租户数据隔离	https://blog.csdn.net/qq_38796327/article/details/104630812
+Linux shell 脚本数据库备份！！！	https://blog.csdn.net/adorablewolf/article/details/90066900
+linux 定时每天备份数据库脚本！！！	https://blog.csdn.net/adorablewolf/article/details/89217061
+Yii数据库操作增删改查-[增加\查询\更新\删除 AR模式]	https://blog.csdn.net/adorablewolf/article/details/88947478
+数据库字段转换成驼峰命名	https://blog.csdn.net/hjlyffsina/article/details/94463077
+强烈推荐 10 本我私藏的数据库书单，附读书方法	https://blog.csdn.net/qing_gee/article/details/106881216
+SLQ left join副表中有重复数据时，连接后的结果会出现重复	https://blog.csdn.net/linyoucheng/article/details/84610366
+POI单元格数据类型匹配	https://blog.csdn.net/linyoucheng/article/details/84542339
+大数据面试问题2018.01.08常见问题	https://blog.csdn.net/weixin_41462230/article/details/79006818
+Hortonworks-Data-Platform-大数据开发环境的使用	https://blog.csdn.net/geek6/article/details/104222547
+Spark连接外部数据源解读	https://blog.csdn.net/bluishglc/article/details/52882250
+Spark createTempView数据存哪了？	https://blog.csdn.net/Android_xue/article/details/104047830
+单个字段中根据条件剔除数据	https://blog.csdn.net/Android_xue/article/details/103376615
+不同条件剔除数据	https://blog.csdn.net/Android_xue/article/details/103375977
+大数据就业前景	https://blog.csdn.net/Android_xue/article/details/79776484
+算法与实战 - (3) 常见数据分析项目类型	https://blog.csdn.net/qq_36153312/article/details/105870101
+算法与实战 - 常见的数据处理技巧	https://blog.csdn.net/qq_36153312/article/details/105771884
+《Spark快速大数据分析》- 根据简单例子理解RDD	https://blog.csdn.net/qq_36153312/article/details/105242353
+《Spark快速大数据分析》- Spark应用运行原理	https://blog.csdn.net/qq_36153312/article/details/105263588
+常用数据库的种类与特点	https://blog.csdn.net/qq_36153312/article/details/88067583
+wechat针对后台返回base64数据，前台报数据超过最大长度限制问题	https://blog.csdn.net/weixin_34302798/article/details/93532912
+1本值得阅读的书，Python如何实现数据可视化？	https://blog.csdn.net/weixin_34302798/article/details/86739255#comments
+科比退役原因-数据分析	https://blog.csdn.net/humanity11/article/details/78836242
+大数据可视化-绘制景点热力图	https://blog.csdn.net/humanity11/article/details/78151119
+国庆去哪人少，大数据来告诉你	https://blog.csdn.net/humanity11/article/details/78150932
+spark将数据写入phoenix	https://blog.csdn.net/Yuan_CSDF/article/details/97264624
+Kafka 是如何保证数据可靠性和一致性	https://blog.csdn.net/weixin_43823423/article/details/103299070
+Hive如何解析Json数据	https://blog.csdn.net/weixin_43823423/article/details/101444819
+Vertica数据库介绍	https://blog.csdn.net/weixin_43823423/article/details/87688961
+Netty源码(十一)：写数据	https://blog.csdn.net/qq_35688140/article/details/105535868
+Netty源码(九)：接收数据	https://blog.csdn.net/qq_35688140/article/details/105532907
+大数据入门（一）之集群部署	https://blog.csdn.net/u014736152/article/details/85226999
+数据团队规划布局感悟（三）	https://blog.csdn.net/allwefantasy/article/details/105942358
+可以【移动数据】而不是【移动计算】了	https://blog.csdn.net/allwefantasy/article/details/105898200
+数据湖Delta Lake 深入解析&专栏介绍	https://blog.csdn.net/allwefantasy/article/details/103790395
+大数据计算引擎们是该有个统一的标准了，闲聊Linkis	https://blog.csdn.net/allwefantasy/article/details/103790394
+超小企业的大数据与AI之路该怎么走	https://blog.csdn.net/allwefantasy/article/details/89921558
+MLSQL数据源开发指南	https://blog.csdn.net/allwefantasy/article/details/88889184
+再谈数据中台是什么以及MLSQL为什么可以作为数据中台	https://blog.csdn.net/allwefantasy/article/details/88889933
+数据部门起步阶段需要建立数仓么？	https://blog.csdn.net/allwefantasy/article/details/88888472
+MongoDB ODM 框架MongoMongo-简化你的数据存储	https://blog.csdn.net/allwefantasy/article/details/8647536
+用大数据思维做运维监控	https://blog.csdn.net/allwefantasy/article/details/50447720
+图书管理数据库系统	https://blog.csdn.net/lingchen336/article/details/104109265
+数据治理（Data Governance）	https://blog.csdn.net/ooobenooo/article/details/106398322
+主数据管理(Master Data Management)	https://blog.csdn.net/ooobenooo/article/details/106327410
+数据仓库 - 树形结构的维表开发实践	https://blog.csdn.net/ooobenooo/article/details/106121080
+数据仓库 - 事实表开发实践（IoT场景）	https://blog.csdn.net/ooobenooo/article/details/106076156
+Flink 利用KeyedProcessFunction处理数据超时没有流入问题	https://blog.csdn.net/ooobenooo/article/details/102630517
+数据仓库 - 拉链表开发实践	https://blog.csdn.net/ooobenooo/article/details/106055248
+python 数据分析学习 - 股票数据（一）	https://blog.csdn.net/ooobenooo/article/details/103728374
+Spark SQL操作多种数据源	https://blog.csdn.net/qq_25948717/article/details/83716489
+Spark SQL操作多数据源	https://blog.csdn.net/qq_37142346/article/details/80725183
+Spark SQL之数据源(Data Source)与保存模式(Save Modes)	https://blog.csdn.net/Thomson617/article/details/87876298
+SparkSQL2.x的数据源jdbc	https://blog.csdn.net/wwwzydcom/article/details/99709587
+SparkSQLDemo初尝－－SparkSession链接数据库	https://blog.csdn.net/u012373815/article/details/53327983
+SparkSQL自定义外部数据源源码分析及案例实现	https://blog.csdn.net/kzw11/article/details/103411919
+spark 自定义数据源	https://blog.csdn.net/zp1220/article/details/105806833
+官网：wiki消息实现timewindow的例子，及消息数据到kafka的例子	https://blog.csdn.net/weinierzui/article/details/84857874
+scala编写的数据库连接池	https://blog.csdn.net/weinierzui/article/details/72867329
+数据库锁机制	https://blog.csdn.net/weinierzui/article/details/71104626
+常见面试题整理--数据库篇（每位开发者必备）	https://blog.csdn.net/weinierzui/article/details/71054964
+数据回滚:基于时间的查询（AS OF TIMESTAMP）和（AS OF ACN）	https://blog.csdn.net/weinierzui/article/details/52884521
+多维数据库&关系型数据库详细介绍	https://blog.csdn.net/weinierzui/article/details/62236381
+spark连接hive数据库	https://blog.csdn.net/dianhe8193/article/details/101878461
+pyspark访问hive数据实战	https://blog.csdn.net/weixin_34293246/article/details/90396742
+Scala远程访问Hive数据仓库	https://blog.csdn.net/kakaluoteyy/article/details/80084089
+scala jdbc远程访问hive数据仓库	https://blog.csdn.net/weixin_42181917/article/details/82842707
+《数据蜂巢架构演进之路》---阅读	https://blog.csdn.net/dimiaofan3981/article/details/102040397
+《阿里如何实现秒级百万TPS？搜索离线大数据平台架构解读》--阅读	https://blog.csdn.net/dimiaofan3981/article/details/102040389
+hive数据库从文件插入数据得到结果NULL？	https://blog.csdn.net/dimiaofan3981/article/details/102040253
+c#窗体之登录页（已连接数据库）	https://blog.csdn.net/dimiaofan3981/article/details/102040362
+高阶数据结构：SSTable	https://blog.csdn.net/qq_21125183/article/details/103915326
+大数据采集技术综述	https://blog.csdn.net/qq_21125183/article/details/80584561
+Spark 2.2.1 + Hive 案例之不使用现有的Hive环境；使用现有的Hive数据仓库；UDF自定义函数	https://blog.csdn.net/duan_zhihua/article/details/79335625
+Spark SQL来读取现有Hive中的数据	https://blog.csdn.net/qq_36330643/article/details/72722390
+Python：爬取疫情每日数据	https://blog.csdn.net/weixin_42029733/article/details/104152686
+大数据技术与原理--大数据概述	https://blog.csdn.net/qq_43279637/article/details/92692625
+数据库四种隔离和七种传播机制	https://blog.csdn.net/qq_43279637/article/details/85217977
+JVM运行时数据区域、直接内存	https://blog.csdn.net/clover_lily/article/details/80087162
+数据库---经典SQL语句大全	https://blog.csdn.net/weixin_42504145/article/details/84780144
+数据库--sql优化问题(百万级数据优化方案)	https://blog.csdn.net/weixin_42504145/article/details/84680237
+MyBatis, MyBatis-Spring 常用访问数据库的方式	https://blog.csdn.net/u012099869/article/details/52690482
+MongoDB学习笔记(四) 用MongoDB的文档结构描述数据关系	https://blog.csdn.net/weixin_33991418/article/details/93800081
+第六章 关系数据理论（上）数据依赖+码+范式	https://blog.csdn.net/pre_tender/article/details/103560977
+第十章 数据库恢复技术	https://blog.csdn.net/pre_tender/article/details/103668095
+数据结构-树的简介	https://blog.csdn.net/pre_tender/article/details/102571063
+数据结构-二叉搜索树/二叉排序树/二叉查找树	https://blog.csdn.net/pre_tender/article/details/102585066
+数据结构-平衡二叉树(AVL)	https://blog.csdn.net/pre_tender/article/details/102588827
+数据结构-红黑树	https://blog.csdn.net/pre_tender/article/details/102640824
+spark：sparkstreaming 0.08版本 从 kafka 采集数据，并调用HTTP接口传参	https://blog.csdn.net/weixin_38750084/article/details/106852323
+Spark 大数据 JVM调优 调节executor堆外内存与连接等待时长	https://blog.csdn.net/chixushuchu/article/details/85052861
+数据库——sql优化（百万数据优化方案）	https://blog.csdn.net/qq_36470686/article/details/84778875
+数据库——SQL Server基础之存储过程	https://blog.csdn.net/qq_36470686/article/details/84781821
+海量数据排序算法	https://blog.csdn.net/qq_36470686/article/details/84259952
+大数据 和 docker	https://blog.csdn.net/zheng0518/article/details/80720568
+关于数据库集群的详细理解	https://blog.csdn.net/Ch_en_x/article/details/87093040
+架构设计之「数据库集群方案」	https://blog.csdn.net/weixin_30266829/article/details/98148662
+数据库集群的搭建	https://blog.csdn.net/lz1170063911/article/details/80313526
+PageAdmin CMS 建站软件Sql Server2008 R2数据库安装教程	https://blog.csdn.net/Reswall/article/details/88545982?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608619195264502913%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608619195264502913&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-8-88545982.pc_v2_rank_blog_v1&utm_term=SQL
+【sqlserver】数据库主从搭建	https://blog.csdn.net/qq_36036735/article/details/103049178?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608619195264502913%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608619195264502913&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-10-103049178.pc_v2_rank_blog_v1&utm_term=SQL
+如何安装配置PL/SQL Developer 远程连接数据库	https://blog.csdn.net/ljh_23159/article/details/81260088?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608619195264502913%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608619195264502913&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-12-81260088.pc_v2_rank_blog_v1&utm_term=SQL
+storm里snappy数据压缩应用	https://blog.csdn.net/qq_21153619/article/details/82426998
+CenOS7下CM&CDH大数据平台搭建	https://blog.csdn.net/qq_21153619/article/details/81556702#comments
+最方便的docker数据目录迁移教程	https://blog.csdn.net/laogouhuli/article/details/92831024
+《Python机器学习及实践》----无监督学习之数据聚类	https://blog.csdn.net/wangshuang1631/article/details/77947018
+《利用Python进行数据分析》笔记---第11章金融和经济数据应用	https://blog.csdn.net/wangshuang1631/article/details/77094787
+《利用Python进行数据分析》笔记---第10章时间序列	https://blog.csdn.net/wangshuang1631/article/details/77056112
+《利用Python进行数据分析》笔记---第9章数据聚合与分组运算	https://blog.csdn.net/wangshuang1631/article/details/77050760
+《利用Python进行数据分析》笔记---第8章绘图和可视化	https://blog.csdn.net/wangshuang1631/article/details/77007814
+《利用Python进行数据分析》笔记---第6章数据加载、存储与文件格式	https://blog.csdn.net/wangshuang1631/article/details/76900682
+《利用Python进行数据分析》笔记---第7章数据规整化：清理、转换、合并、重塑	https://blog.csdn.net/wangshuang1631/article/details/76998738
+《利用Python进行数据分析》笔记---第5章pandas入门	https://blog.csdn.net/wangshuang1631/article/details/76854455
+《利用Python进行数据分析》笔记---第4章NumPy基础：数组和矢量计算	https://blog.csdn.net/wangshuang1631/article/details/76595384
+《利用Python进行数据分析》笔记---第2章--1880-2010年间全美婴儿姓名	https://blog.csdn.net/wangshuang1631/article/details/76502961
+《利用Python进行数据分析》笔记---第2章--MovieLens 1M数据集	https://blog.csdn.net/wangshuang1631/article/details/76502502
+《利用Python进行数据分析》笔记---第2章--来自bit.ly的1.usa.gov数据	https://blog.csdn.net/wangshuang1631/article/details/76502242
+数据库连接池----Druid配置详解	https://blog.csdn.net/wangshuang1631/article/details/76186317
+SpringBoot数据库密码动态配置	https://blog.csdn.net/wangshuang1631/article/details/72903783
+金蝶K3系统数据库群集部署方案	https://blog.csdn.net/hzfw2008/article/details/77731713
+图解！24张图彻底弄懂九大常见数据结构！	https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/107273458
+最新最全大数据图谱，请拿走不谢！	https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/107147936
+时序数据库	https://blog.csdn.net/English0523/article/details/90720282
+【vue】渲染大量数据时性能优化	https://blog.csdn.net/weixin_30512043/article/details/99787246
+ELK日志分析平台（L） logstash数据采集	https://blog.csdn.net/thermal_life/article/details/106691207
+Docker -- 数据卷的管理和卷插件	https://blog.csdn.net/thermal_life/article/details/106363327
+基于mycat高可用方案——数据库负载	https://blog.csdn.net/dhptkq9465/article/details/101503703
+基于Spring Boot 动态主从数据库路由	https://blog.csdn.net/kingice1014/article/details/84285402
+当当开源sharding-jdbc，轻量级数据库分库分表中间件	https://blog.csdn.net/kingice1014/article/details/78281541
+淘宝海量数据产品的技术架构	https://blog.csdn.net/kingice1014/article/details/76143547
+数据库集群浅谈（一）	https://blog.csdn.net/zhangzijiejiayou/article/details/50674769
+时序数据库influxdb简介	https://blog.csdn.net/gjc592/article/details/106066742
+sqlserver数据库坏块修复	https://blog.csdn.net/gjc592/article/details/106543119
+解决 Slave_SQL_Running: NO 问题（方案：数据库的备份）	https://blog.csdn.net/lilygg/article/details/98187015
+JS格式化/压缩JSON数据	https://blog.csdn.net/macwhirr123/article/details/50686841
+IIS7.5中对所有请求响应的JSON数据进行GZIP编码	https://blog.csdn.net/dream_ll/article/details/52996540
+【我的Android进阶之旅】如何压缩Json格式数据，减少Json数据的体积？	https://blog.csdn.net/qq446282412/article/details/84945059
+cjson数据格式使用详解	https://blog.csdn.net/nihaocaofei/article/details/82953144
+android接口中json数据的传输中使用gzip压缩	https://blog.csdn.net/yijianpiaoxue2014/article/details/49097717
+关于Post请求流处理中的gzip格式的json数据处理	https://blog.csdn.net/lidongpeng111/article/details/81070785
+pako.js对数据进行gzip压缩传递到后台解析，解决数据量大的请求问题	https://blog.csdn.net/JodenHe/article/details/70983781
+在web端和android端通过JSON格式实现数据交互	https://blog.csdn.net/u013189665/article/details/32732365
+iOS 基本数据类型 和 指针 特点	https://blog.csdn.net/weixin_33696822/article/details/94538132
+mybatis入门篇（一）：通过SqlSession.selectList进行数据查询	https://blog.csdn.net/weixin_33696822/article/details/92427495
+【Excle】两个表格多列数据对比，找出差异	https://blog.csdn.net/weixin_33696822/article/details/85976421
+ZLIB 压缩的数据格式规范	https://blog.csdn.net/mshgocn/article/details/87687714
+GZIP 对文件和响应数据 都能压缩	https://blog.csdn.net/wanhonghui/article/details/7994943
+(转）不格式化硬盘 机密数据也能安全清除 -- 有待机会测试	https://blog.csdn.net/weixin_30878361/article/details/101955396
+关于Oracle数据库同义词的讲解	https://blog.csdn.net/zhaoyunfei1/article/details/102893150
+oracle导入excel和txt数据	https://blog.csdn.net/zhaoyunfei1/article/details/101220653
+数据库中的删除有多少种方式，分别是什么，各有什么不同？	https://blog.csdn.net/zhaoyunfei1/article/details/99573368
+C# 压缩及解压数据方法	https://blog.csdn.net/leoclock/article/details/8639991
+JSON 数据优化方案	https://blog.csdn.net/qq_37203082/article/details/106660058
+后台返回大量数据（百万级）页面接收问题	https://blog.csdn.net/baidu_16250655/article/details/88688299
+前后台传输数据	https://blog.csdn.net/weixin_43105949/article/details/88182560
+Pako.js压缩解压,vue压缩解压,前后端之间高效数据传输	https://blog.csdn.net/weixin_30294709/article/details/101986619
+手机端后台向前台传输数据的二进制压缩方法	https://blog.csdn.net/zjhclx/article/details/84229818
+前端数据处理 方法	https://blog.csdn.net/qq_42208291/article/details/106719401
+如何用String字符串生成JSONObject和JSONArray数据	https://blog.csdn.net/u014260748/article/details/44227359
+如何生成json数据	https://blog.csdn.net/feixiang_gao/article/details/52793065
+前端后台——4种数据交互方式	https://blog.csdn.net/qq_36140085/article/details/81566902
+前端Ajax传递Json数据，后端处理两种方式	https://blog.csdn.net/Architect_CSDN/article/details/89299492
+前端传递数据Springboot后端的几种接收方式	https://blog.csdn.net/weixin_41453111/article/details/104898180
+后端获取前端数据三种方式	https://blog.csdn.net/qq_43610304/article/details/103426203
+后端使用json格式将数据返回给前端的三种方式的实现	https://blog.csdn.net/qq_41063141/article/details/93379021
+前端向后端传递json数据	https://blog.csdn.net/weixin_43182689/article/details/98168092
+后端给前端传不同类型的json数据	https://blog.csdn.net/Attention_0/article/details/103106874
+如何优雅的返回前端想要的数据以及状态码	https://blog.csdn.net/hzz_321/article/details/83894410
+前后端数据传递与接收	https://blog.csdn.net/weixin_40575726/article/details/89082684
+后台返回的json数据，前台需要修改对象的键值名，重新修改数据格式	https://blog.csdn.net/yijiupingfan0914/article/details/84581053
+SpringMVC参数绑定学习总结【前后端数据参数传递】	https://blog.csdn.net/qq_44543508/article/details/100997134
+是时候觉悟了！一篇文章让你明白数据结构与算法分析有多重要	https://blog.csdn.net/qq_44543508/article/details/100011172
+如何正确学习数据结构、算法这门课？	https://blog.csdn.net/qq_44543508/article/details/100551467
+【从今天开始好好学数据结构01】数组	https://blog.csdn.net/qq_44543508/article/details/100033998
+【数据结构02】栈与队列	https://blog.csdn.net/qq_44543508/article/details/100515630
+【从今天开始好好学数据结构03】链表	https://blog.csdn.net/qq_44543508/article/details/100522120
+recycleview复用导致数据错乱解决的3种方法	https://blog.csdn.net/qq_33330887/article/details/80076665
+安卓recycleview有数据但是不显示的2种情况！分分钟解决	https://blog.csdn.net/qq_33330887/article/details/78676161
+json数据转换为list集合	https://blog.csdn.net/zz_1111/article/details/80846296
+json数组对象相同数据合并，不同数据叠加	https://blog.csdn.net/mr_tangshuai/article/details/99304226
+python之数据类型&变量传递	https://blog.csdn.net/shufangreal/article/details/107327541
+Hive数据类型支持以及Hive CLI、Beeline CLI使用	https://blog.csdn.net/shufangreal/article/details/106699259
+SparkStreaming2.4.0的kafka2.0.0数据源&其他基本数据源的深入讲解	https://blog.csdn.net/shufangreal/article/details/106219983
+大数据踩过的坑（一）hive union	https://blog.csdn.net/zll_1234/article/details/106241034
+初创大数据部门搭建数据仓库的过程1----业务调研	https://blog.csdn.net/zll_1234/article/details/88868186
+hive 数据压缩与存储格式选择	https://blog.csdn.net/wjl7813/article/details/79285542
+将json数据保存并生成到TXT文件中	https://blog.csdn.net/weixin_45353401/article/details/103869093
+json数据导出为txt文件	https://blog.csdn.net/xxxxxxxxYZ/article/details/94572687
+数据库的索引和锁到底是怎么回事	https://blog.csdn.net/qq_16605855/article/details/96472736
+无须建表，实现线上数据库导入外部数据	https://blog.csdn.net/qq_16605855/article/details/93026035
+数据库设计之概念结构设计---------E-R图详解 （各种各样的实例）	https://blog.csdn.net/qq_16605855/article/details/76020293
+left join 会增多数据条数的(比左边表数据多了)	https://blog.csdn.net/xuehuagongzi000/article/details/90379891
+left join 右表多条数据只取一条	https://blog.csdn.net/qq_42455280/article/details/89234662
+join 一对多的时候查询重复数据问题	https://blog.csdn.net/qq_26249609/article/details/84968491
+left join主表中的数据一条变两条	https://blog.csdn.net/qq_34775102/article/details/85050618
+left join 时数据反而会比左边表数据条数多	https://blog.csdn.net/yangfan_sh/article/details/82017269
+left join 时从右表的多条数据中取1条	https://blog.csdn.net/liyujia6636/article/details/86365013
+SQL lEFT JOIN 右表多条数据只取一条解决方法	https://blog.csdn.net/qq_36757173/article/details/88125620
+Flink处理数据库中的业务数据——将主表、从表做关联（Left Out Join）	https://blog.csdn.net/u010271601/article/details/104897585
+多表left join出现的重复数据问题	https://blog.csdn.net/weixin_33681778/article/details/94469058
+统计学中数据分布的偏度(skewness)和峰度(kurtosis）	https://blog.csdn.net/weixin_30298497/article/details/97219587
+left join出现重复数据解决方法	https://blog.csdn.net/qq_38667881/article/details/80583973
+sql左连接出现重复数据	https://blog.csdn.net/weixin_30550081/article/details/97800543
+左外连接去掉重复的数据	https://blog.csdn.net/siashuayongsheng/article/details/83403342
+SQL两个表连接查询去掉重复数据的方法	https://blog.csdn.net/qq_35624642/article/details/65445316
+EXCEL跨两张表插入查询数据	https://blog.csdn.net/alzhuzhu/article/details/77943668
+两个系统之间数据同步	https://blog.csdn.net/weixin_38860565/article/details/106306845
+left join 一对多时, 把需要的子表数据 拼到主表,一行显示	https://blog.csdn.net/dll_2016/article/details/95623584
+导出excel，数据为map格式	https://blog.csdn.net/weixin_41796956/article/details/104814676
+树形结构数据生成树	https://blog.csdn.net/weixin_41796956/article/details/103817877
+spring +mybatis实现数据库主从复制	https://blog.csdn.net/weixin_41796956/article/details/94161145
+一个普通数据挖掘工程师的成长之路摘要	https://blog.csdn.net/zhouhaiqing0905/article/details/49663223
+SQL删除数据总结	https://blog.csdn.net/zhouhaiqing0905/article/details/48379779
+学数据库钱途怎么样？ 学什么数据库好呢？	https://blog.csdn.net/zhouhaiqing0905/article/details/47704143
+数据库高可用：企业数据库高可用性架构设计	https://blog.csdn.net/zhouhaiqing0905/article/details/47611109
+数据库备份与恢复：冷备和热备	https://blog.csdn.net/zhouhaiqing0905/article/details/47611087
+数据库备份与恢复：数据量大的库怎么考虑设计备份策略？	https://blog.csdn.net/zhouhaiqing0905/article/details/47611027
+SequoiaDB（巨杉数据库）成为国内首家Spark认证数据库	https://blog.csdn.net/zhouhaiqing0905/article/details/47377071
+数据仓库搭建全过程解析--通俗易懂	https://blog.csdn.net/zhouhaiqing0905/article/details/47274419
+left join 得到的数据量超出左表的数据量	https://blog.csdn.net/Oa_aV/article/details/93625975
+left join 的一些问题，不一定以左表为准，数据行数减少或者数据增多	https://blog.csdn.net/u013009809/article/details/83756388
+SQL--LEFT JOIN 右表多条数据解决方案	https://blog.csdn.net/BtWangZhi/article/details/80960522
+多个左连接对得到的数据有什么影响	https://blog.csdn.net/cuijingwei0924/article/details/100481364
+数据库事务的简单介绍	https://blog.csdn.net/WeiLanooo/article/details/102898911
+数据库常用的三个存储引擎	https://blog.csdn.net/WeiLanooo/article/details/102899096
+python面试宝典之数据库	https://blog.csdn.net/WeiLanooo/article/details/102886533
+数据库优化法	https://blog.csdn.net/WeiLanooo/article/details/102880856
+数据库索引的简单介绍	https://blog.csdn.net/WeiLanooo/article/details/102880601
+数据库设计思路	https://blog.csdn.net/WeiLanooo/article/details/102838782
+关于大数据T+1执行流程	https://blog.csdn.net/weixin_30338461/article/details/101969469
+mybatis使用 datamap作为返回的数据，返回的结果存在既有大写又有小写的问题	https://blog.csdn.net/huqingxiang11/article/details/107053481
+left join 右表多条数据重复	https://blog.csdn.net/educast/article/details/7676586
+ThinkPHP去除重复数据 合并重复字段	https://blog.csdn.net/u010957293/article/details/50601475
+SQL数据查询以及使用left join出现重复情况以及解决方法	https://blog.csdn.net/Z_houZhou/article/details/91046251
+sql server left join 重复数据原因图	https://blog.csdn.net/weixin_33766805/article/details/86176467
+left join、right join、inner join关联查询时出现重复数据	https://blog.csdn.net/weixin_42289383/article/details/89095485
+SQLServer left join 出现比左表多的数据	https://blog.csdn.net/svygh123/article/details/103409529
+使用sklearn不同方法在digits手写数字数据集上聚类并用matplotlib呈现	https://blog.csdn.net/weixin_43943977/article/details/102686131
+信息检索与数据挖掘——倒排索引3	https://blog.csdn.net/weixin_43943977/article/details/102643259
+信息检索与数据挖掘——倒排索引2	https://blog.csdn.net/weixin_43943977/article/details/102621363
+信息检索与数据挖掘——倒排索引	https://blog.csdn.net/weixin_43943977/article/details/102297275
+oracle left join 分页数据重复问题	https://blog.csdn.net/qq_36012117/article/details/53195282
+play! with scala oracle数据库驱动	https://blog.csdn.net/ruisheng_412/article/details/8570940
+Spring单元测试，SQL数据准备	https://blog.csdn.net/ruisheng_412/article/details/7994340
+C#测试数据库连接是否成功	https://blog.csdn.net/weixin_34238633/article/details/86058972
+多表联合查询导致的数据重复问题	https://blog.csdn.net/SAN_YUN/article/details/84243977
+mybatis三表连接查询数据重复问题	https://blog.csdn.net/SVDJASFHIAU/article/details/52870104
+left join 左边有数据，右边无数据，查询结果出现inner join的情况（and 和 where 的区别）	https://blog.csdn.net/chenjianandiyi/article/details/52402011
+Python操作三大主流数据库	https://blog.csdn.net/qq_20597149/article/details/104788150
+sql很慢,Range checked for each record (index map: 0x2)。最大数据表5000多条数据	https://blog.csdn.net/qq_20597149/article/details/103281952
+######业务尽可能用sql实现(缩短后台响应时间)：最近都在优化之前的代码：发现每个模块的index页都需要优化(很多都在循环里操作数据库：菜！初级！)	https://blog.csdn.net/qq_20597149/article/details/81289688
+oracle左连接查询出现数据重复	https://blog.csdn.net/wqb910726/article/details/9010931
+check_mk自定义监控增加性能数据图形展示	https://blog.csdn.net/weixin_34238633/article/details/94314293
+存储过程调用不同数据库的数据	https://blog.csdn.net/weixin_34238633/article/details/93930194
+SQL小技巧－关联表重复数据清除处理办法	https://blog.csdn.net/huangying2124/article/details/79310949
+sql server sql中使用LEFT JOIN 查询后数据重复	https://blog.csdn.net/pandaclose/article/details/99679173#comments
+left join 关联查询 一对多 重复数据处理	https://blog.csdn.net/qq_38407462/article/details/106644633
+kafka源码阅读--元数据管理	https://blog.csdn.net/weixin_40650734/article/details/106802114
+数据库三种连接PooledConnection,XAConnection,Connection(连接三剑客)	https://blog.csdn.net/turkeyzhou/article/details/3071683
+深入理解Python中的基本数据类型	https://blog.csdn.net/a2011480169/article/details/71435114
+python六大数据类型详解	https://blog.csdn.net/Jarrodche/article/details/102537999
+小白学 Python（2）：基础数据类型（上）	https://blog.csdn.net/meteor_93/article/details/102656840
+python 数据类型 之 数字类型	https://blog.csdn.net/zhao_zi_ming_lc/article/details/78566284
+跟我一起学python（三），python基本数据类型和函数	https://blog.csdn.net/u010608352/article/details/52785807
+7天入门Python 3 — Python对象属性及核心数据类型	https://blog.csdn.net/chenxuegui123/article/details/102228385
+学习Python开发数据恢复工具(1)	https://blog.csdn.net/nevertotl/article/details/82021988
+python数据(6种)与结构(4种)类型	https://blog.csdn.net/qq_33897358/article/details/84901424
+跟我一起学python（二），python基本数据类型	https://blog.csdn.net/u010608352/article/details/52774440
+python自学之路(二):数据类型	https://blog.csdn.net/weixin_43699716/article/details/97633064
+大数据时代--windows下spark的安装与配置教程	https://blog.csdn.net/nxw_tsp/article/details/78281533
+大数据综合实验的踩坑总结（林子雨）	https://blog.csdn.net/lendsomething/article/details/106804146
+Hive配置元数据库为PostgreSQL	https://blog.csdn.net/kongxx/article/details/79418977
+hive配置元数据库为postgresql小结	https://blog.csdn.net/yeruby/article/details/49255061
+Hive映射结构化数据	https://blog.csdn.net/weixin_42418158/article/details/90480477
+Hive映射结构化数据经验小结	https://blog.csdn.net/weixin_42418158/article/details/90483733
+【数据库】关于日期的处理（以greenplum和postgresql和hive为例）	https://blog.csdn.net/lsr40/article/details/82734248
+Hortonworks中修改Hive使用postgresql数据库	https://blog.csdn.net/kongxx/article/details/82991360
+hive数据导入到pgsql分隔符问题	https://blog.csdn.net/zahuali/article/details/102923026
+使用Sqoop从Postgresql中导入数据到Hive中	https://blog.csdn.net/kongxx/article/details/86257383
+PostgreSQL自学笔记:3 数据库的基本操作	https://blog.csdn.net/weixin_30439067/article/details/97678596
+Postgresql学习笔记之——逻辑结构管理之数据库操作	https://blog.csdn.net/qq_32838955/article/details/104587089
+PostgreSQL 超大表数据操作	https://blog.csdn.net/lovejuan1314/article/details/83265056
+PostgreSQL11安装以及修改数据路径	https://blog.csdn.net/love_lixr/article/details/83989111
+PostgreSql数据库学习（一）	https://blog.csdn.net/cpluss/article/details/86470569
+python3框架Django使用postgreSQL数据库简单实践	https://blog.csdn.net/yinzeqiang/article/details/53931720
+postgresql数据库常用命令	https://blog.csdn.net/zhoujunyi/article/details/1545120
+centos7 yum成功配置安装Mariadb数据库（使用国内Mariadb源）	https://blog.csdn.net/qq_39719589/article/details/81835330
+centos7安装数据库MariaDB	https://blog.csdn.net/u013042928/article/details/79183687
+CentOS安装MariaDB数据库详细过程	https://blog.csdn.net/zwl18210851801/article/details/80796849
+Linux下载并安装mariaDB数据库步骤	https://blog.csdn.net/yan_kai/article/details/79443484
+大数据实战项目--中国移动运行分析	https://blog.csdn.net/weixin_35353187/article/details/83338265
+Python脚本消费kafka数据	https://blog.csdn.net/qq_41262248/article/details/80790918
+kafka消费从分区任意位置、分区开头、分区末尾开始消费数据 完整版	https://blog.csdn.net/wangshuminjava/article/details/80280601
+kafka生产的数据没有消费（已解决）	https://blog.csdn.net/a1165117473/article/details/83791106
+JTS 空间数据关系分析	https://blog.csdn.net/YYZZHC999/article/details/103891265
+使用geotools和jts进行GIS数据生成	https://blog.csdn.net/dazhi_1314/article/details/77982484
+海量数据处理 - 10亿个数中找出最大的10000个数（top K问题）	https://blog.csdn.net/zyq522376829/article/details/47686867
+【数据结构/堆排序】从大批量数据中快速查找前N个最大值	https://blog.csdn.net/zhoubao_z/article/details/83589117
+TOP-K排序算法，从海量不重复数据中找出最大/小的K个数	https://blog.csdn.net/u014403897/article/details/45219965
+怎么在海量数据中找出重复次数最多的一个	https://blog.csdn.net/u010601183/article/details/56481868
+从大量数据中取得前100个最大的算法	https://blog.csdn.net/u012877418/article/details/16806149
+利用堆排序从大数据中挑选最小k个数据元素	https://blog.csdn.net/weixin_40823740/article/details/99694875
+从海量数据中寻找出topK的最优算法代码	https://blog.csdn.net/randy_01/article/details/88407494
+google protobuf数据类型	https://blog.csdn.net/yxwb1253587469/article/details/78200464
+protobuf数据类型	https://blog.csdn.net/weiqubo/article/details/16797763
+Protobuf数据定义	https://blog.csdn.net/xeseo/article/details/12832963
+protobuf中数据格式与类型	https://blog.csdn.net/qq_30505673/article/details/84865439
+解决ViewPager动画异常（数据刷新、padding、pageMargin）	https://blog.csdn.net/wurensen/article/details/81544776
+ViewPager源码分析（发现刷新数据的正确使用姿势）	https://blog.csdn.net/wurensen/article/details/81390641
+数据库原理 - 序列7 - Binlog与主从复制	https://blog.csdn.net/chunlongyu/article/details/89329116
+数据库原理 - 序列5 - 事务是如何实现的？ - Undo Log解析	https://blog.csdn.net/chunlongyu/article/details/89307084
+数据库原理 - 序列3 - 事务是如何实现的？ - Redo Log解析	https://blog.csdn.net/chunlongyu/article/details/89203813
+数据库原理 - 序列4 - 事务是如何实现的？ - Redo Log解析（续）	https://blog.csdn.net/chunlongyu/article/details/89228176
+数据库原理剖析 - 序列1 - B+树	https://blog.csdn.net/chunlongyu/article/details/89175045
+数据库原理剖析 - 序列2 - 事务隔离级别和死锁检测	https://blog.csdn.net/chunlongyu/article/details/89177525
+第9课 比特币钱包和现实中的钱包有什么本质差别？ -- Transaction数据结构、UTXO、钱包 -- 详解	https://blog.csdn.net/chunlongyu/article/details/80290293
+Kafka源码深度解析－序列2 －Producer －Metadata的数据结构与读取、更新策略	https://blog.csdn.net/chunlongyu/article/details/52622422
+批量数据执行接口完成进度查看实现AtomicInteger	https://blog.csdn.net/lijinqing39/article/details/106122389
+数据库中间件tddl与mycat使用总结	https://blog.csdn.net/chengzhang1989/article/details/83189388
+假如让你来设计数据库中间件	https://blog.csdn.net/chengzhang1989/article/details/83662671
+转-学会用数据库的方式思考 SQL 是如何执行的	https://blog.csdn.net/xiaoxufox/article/details/94717149
+基于注解的spring多数据源配置和使用	https://blog.csdn.net/xiaoxufox/article/details/78174063
+数据库查询某个数据库中某个表的所有字段名、字段类型和注释	https://blog.csdn.net/zcswl7961/article/details/102620938
+Apache Griffin 开源的数据质量分析工具	https://blog.csdn.net/zcswl7961/article/details/101479637#comments
+数据库存储之表分区-操作	https://blog.csdn.net/XinhuaShuDiao/article/details/105686986
+数据库存储之表分区	https://blog.csdn.net/XinhuaShuDiao/article/details/105658675
+使用Disurptor一个生产者多个消费者不重复消费数据与BlockingQueue性能对比	https://blog.csdn.net/XinhuaShuDiao/article/details/84910385
+httpclient模拟post请求封装表单数据、json数据	https://blog.csdn.net/qq_39276448/article/details/100522340

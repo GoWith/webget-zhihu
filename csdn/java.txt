@@ -1,0 +1,1727 @@
+Spring Cloud Feign java实现postman中form-data传参 文件上传下载	https://blog.csdn.net/ZYC88888/article/details/104815304
+java class常用反编译操作	https://blog.csdn.net/ZYC88888/article/details/105288434
+整理最新java面试宝典2019	https://blog.csdn.net/ZYC88888/article/details/104194327
+java lambda表达式 常见使用技巧	https://blog.csdn.net/ZYC88888/article/details/103265255
+优秀java程序员常用注释标记--如何写好Java代码注释。	https://blog.csdn.net/ZYC88888/article/details/103172113
+idea java EclipseFormatter代码格式化模板	https://blog.csdn.net/ZYC88888/article/details/102858213
+java基础对象浅复制和深复制(基础知识)	https://blog.csdn.net/ZYC88888/article/details/102768802
+Java处理Excel文件工具包-easyexcel使用详解	https://blog.csdn.net/ZYC88888/article/details/87989649
+Java注解处理器使用详解	https://blog.csdn.net/ZYC88888/article/details/86687268
+Java的自动拆装箱	https://blog.csdn.net/ZYC88888/article/details/83755928
+JVM内存结构、Java内存模型以及Java对象模型之间的区别	https://blog.csdn.net/ZYC88888/article/details/83756364
+Java中 VO、 PO、DO、DTO、 BO、 QO、DAO、POJO之dozer mapper使用	https://blog.csdn.net/ZYC88888/article/details/83505251
+Java常用类库	https://blog.csdn.net/ZYC88888/article/details/83506488
+Java HashMap, Hashtable, TreeMap, WeakHashMap总结	https://blog.csdn.net/ZYC88888/article/details/82985021
+Java JNI调用本地动态库使用详解	https://blog.csdn.net/ZYC88888/article/details/82909205
+java开发调试定位分析工具大全	https://blog.csdn.net/ZYC88888/article/details/82905357
+Java 多线程并发编程详解及CompletionService、Future使用技巧	https://blog.csdn.net/ZYC88888/article/details/87706725
+java jdk基础包说明	https://blog.csdn.net/ZYC88888/article/details/90246526
+java8 stream flatMap流的扁平化操作	https://blog.csdn.net/ZYC88888/article/details/90377010
+java 基础单例模式实现的几种方式对比	https://blog.csdn.net/ZYC88888/article/details/90078361
+深入理解Java 8 Lambda	https://blog.csdn.net/ZYC88888/article/details/82624889
+Java魔法类：sun.misc.Unsafe	https://blog.csdn.net/ZYC88888/article/details/80002574
+Java 内存模型之堆内存管理	https://blog.csdn.net/ZYC88888/article/details/80050641
+Java的四种引用方式	https://blog.csdn.net/ZYC88888/article/details/79978127
+三大Java 虚拟机垃圾回收机制的比较（HotSpot, JRockit, IBM JVM）	https://blog.csdn.net/ZYC88888/article/details/70918799
+ES 分组排序java实现	https://blog.csdn.net/ZYC88888/article/details/90052125
+idea数据表生成java代码	https://blog.csdn.net/ZYC88888/article/details/82257552
+IDEA Java变量显示为Val，get, set方法隐藏	https://blog.csdn.net/ZYC88888/article/details/87348086
+spring集成Java性能监控调优工具-Javamelody	https://blog.csdn.net/ZYC88888/article/details/84028475
+java ThreadLocal 使用	https://blog.csdn.net/ZYC88888/article/details/81239094
+Java基础 Annotation使用	https://blog.csdn.net/ZYC88888/article/details/81237722
+Java关键字之native，strictfp，transient ，volatile	https://blog.csdn.net/ZYC88888/article/details/80989374
+java线程池使用详解	https://blog.csdn.net/ZYC88888/article/details/80487515
+java transients基本使用	https://blog.csdn.net/ZYC88888/article/details/80886974
+Java8新特性简明教程	https://blog.csdn.net/ZYC88888/article/details/80310963
+Java多线程系列之“JUC锁”详解	https://blog.csdn.net/ZYC88888/article/details/80019202
+Java开源框架推荐	https://blog.csdn.net/ZYC88888/article/details/80001898
+Java多线程系列之“JUC集合“详解	https://blog.csdn.net/ZYC88888/article/details/80018239
+Java对象的生命周期与垃圾回收以及四种引用	https://blog.csdn.net/ZYC88888/article/details/79985769
+Java的四种引用方式使用详解	https://blog.csdn.net/ZYC88888/article/details/79984938
+JAVA GC 常见错误处理方法	https://blog.csdn.net/ZYC88888/article/details/64905578
+java.IO层次体系操作详解	https://blog.csdn.net/ZYC88888/article/details/79977503
+JAVA GC 常见错误处理方法	https://blog.csdn.net/ZYC88888/article/details/64905526
+10 个最难回答的 Java 问题	https://blog.csdn.net/aaa13268/article/details/102406465
+NIO详解（六）：Java堆外内存	https://blog.csdn.net/qq_21125183/article/details/88701156
+后端---java中堆外内存详解	https://blog.csdn.net/weixin_42504145/article/details/84592453
+JAVA堆内内存、堆外内存	https://blog.csdn.net/a_ust/article/details/81056985
+Java学习的正确打开方式	https://blog.csdn.net/qq_44543508/article/details/102651841
+java mongo驱动，连接池在哪里	https://blog.csdn.net/jc18510682557/article/details/98506145
+Java之 HashMap源码分析	https://blog.csdn.net/jc18510682557/article/details/96317307
+使用Java开发一个自己的区块链产品、联盟链	https://blog.csdn.net/tianyaleixiaowu/article/details/79899529
+Java中使用etcd，包括基本的set、get、超时设置，watch监听等	https://blog.csdn.net/tianyaleixiaowu/article/details/103511230
+Java简单实现滑动窗口	https://blog.csdn.net/tianyaleixiaowu/article/details/102861254
+高级开发必须理解的Java中SPI机制	https://blog.csdn.net/tianyaleixiaowu/article/details/102743739
+Window下将.proto文件便以为.Java文件	https://blog.csdn.net/QQB67G8COM/article/details/95535518
+ProtoBuf使用指南Java基础篇-Proto3	https://blog.csdn.net/QQB67G8COM/article/details/95357597
+Java之并发包TimeUnit工具全API解析	https://blog.csdn.net/QQB67G8COM/article/details/89714634
+Java之RandomAccess接口	https://blog.csdn.net/QQB67G8COM/article/details/89707961
+Java之wait()和notify()实例讲解	https://blog.csdn.net/QQB67G8COM/article/details/89647969
+Java之volatile关键字实例	https://blog.csdn.net/QQB67G8COM/article/details/89635238
+Java之同步锁synchronized实例讲解	https://blog.csdn.net/QQB67G8COM/article/details/89632424
+Java自定义栈	https://blog.csdn.net/QQB67G8COM/article/details/89463023
+Java的前世今生	https://blog.csdn.net/QQB67G8COM/article/details/89355371
+Java普通快排和高级快排	https://blog.csdn.net/QQB67G8COM/article/details/89340372
+Java的getGenericInterfaces()与getInterfaces()	https://blog.csdn.net/QQB67G8COM/article/details/89298694
+十二、Hive之JavaAPI操作(Test Record)	https://blog.csdn.net/QQB67G8COM/article/details/86500458
+Java之volatile关键字实例	https://blog.csdn.net/qqb67g8com/article/details/89635238#comments
+从0学习java混乱的日志体系-第一天	https://blog.csdn.net/weixin_42002747/article/details/103702141
+Java 接入 ALS & LR 为用户推荐商户	https://blog.csdn.net/weixin_33669968/article/details/106804032
+Java 接入 canal	https://blog.csdn.net/weixin_33669968/article/details/106759283
+JAVA中的运算符 （二）	https://blog.csdn.net/qq_23034755/article/details/94170828
+JAVA中的运算符 （一）	https://blog.csdn.net/qq_23034755/article/details/94169052
+JAVA中的值传递	https://blog.csdn.net/qq_23034755/article/details/85210564
+基于java的开源的全文搜索技术	https://blog.csdn.net/qq_23034755/article/details/84900461
+基于springcloud Finchley版本整合Eureka,Ribbon踩坑记录java.net.UnknownHostException	https://blog.csdn.net/qq_23034755/article/details/81698463
+Leetcode做题日记：74. 搜索二维矩阵(java)	https://blog.csdn.net/weixin_42312342/article/details/106201717
+com.alibaba.fastjson.JSONObject cannot be cast to java.lang.String	https://blog.csdn.net/weixin_42312342/article/details/102729668
+【Java面试题】List如何一边遍历，一边删除？	https://blog.csdn.net/zwwhnly/article/details/104987143
+Java基础优胜客APP下载包装类 System类 异常）	https://blog.csdn.net/li123128/article/details/107072307
+Java 中队列同步器 AQS（AbstractQueuedSynchronizer）实现原理	https://blog.csdn.net/li123128/article/details/106698144
+静态方法:关于Java8中的日期时间API，你需要掌握这些！！	https://blog.csdn.net/li123128/article/details/106486255
+800+Java后端经典面试题！	https://blog.csdn.net/li123128/article/details/106157113
+java 线程池	https://blog.csdn.net/mawming/article/details/78265011
+java中各种Queue	https://blog.csdn.net/mawming/article/details/52522644
+java的(PO,VO,TO,BO,DAO,POJO)解释	https://blog.csdn.net/mawming/article/details/52457512
+Java单例模式之双重检锁-优	https://blog.csdn.net/mawming/article/details/52456268
+javaBean对象与Map对象互转	https://blog.csdn.net/mawming/article/details/52456226
+Java 之EnumSet与EnumMap	https://blog.csdn.net/mawming/article/details/52438387
+Java 内部类与静态类	https://blog.csdn.net/mawming/article/details/52413775
+Coroutine in Java - Quasar Fiber实现-优	https://blog.csdn.net/mawming/article/details/52385569
+java信号量Semaphore介绍	https://blog.csdn.net/mawming/article/details/52311774
+JAVA线程间通信-优	https://blog.csdn.net/mawming/article/details/52311396
+Java并发包中的同步队列SynchronousQueue在不用JDK版本中实现方式	https://blog.csdn.net/mawming/article/details/52311139
+java 8大happen-before原则超全面详解	https://blog.csdn.net/java1993666/article/details/78967829
+Java 开发必须掌握的线上问题排查命令	https://blog.csdn.net/java1993666/article/details/79932195
+java让2个线程交替执行，每个线程执行1秒	https://blog.csdn.net/java1993666/article/details/78258255
+Java类加载机制与Tomcat类加载器架构	https://blog.csdn.net/java1993666/article/details/78130756
+Java8内存模型—永久代(PermGen)和元空间(Metaspace)	https://blog.csdn.net/java1993666/article/details/55805037
+go并发编程之美（一）、go与java并发编程对比	https://blog.csdn.net/weixin_37910453/article/details/88123978
+Java动态追踪技术探究	https://blog.csdn.net/weixin_37910453/article/details/88082204
+Java通过反射获取一个类里的静态常量	https://blog.csdn.net/weixin_36098377/article/details/107119727
+java中CAS原理详解	https://blog.csdn.net/weixin_36098377/article/details/106482561
+Java消息队列--JMS概述	https://blog.csdn.net/weixin_36098377/article/details/106450593
+java写文件到execl中	https://blog.csdn.net/weixin_36098377/article/details/106364216
+Java enum常见的用法	https://blog.csdn.net/weixin_36098377/article/details/106364156
+JConsole观察分析Java程序的运行	https://blog.csdn.net/weixin_36098377/article/details/106248410
+Java实现两个线程交替打印问题的不同写法	https://blog.csdn.net/weixin_36098377/article/details/83105821
+java 并发编程的思考	https://blog.csdn.net/wjandy0211/article/details/105767810
+java IO	https://blog.csdn.net/wjandy0211/article/details/105341695
+java 文件系统	https://blog.csdn.net/wjandy0211/article/details/105223804
+Java远程执行Shell命令	https://blog.csdn.net/wjandy0211/article/details/103903457
+Java上机实验报告（4）	https://blog.csdn.net/weixin_34295316/article/details/94527234
+C Programming vs. Java Programming	https://blog.csdn.net/weixin_34295316/article/details/94493786
+怎样学Java才是硬道理	https://blog.csdn.net/weixin_34295316/article/details/94069033
+Java多线程 - 阻塞队列详解	https://blog.csdn.net/weixin_34295316/article/details/93181314
+Java基础学习总结（7）——Object类	https://blog.csdn.net/weixin_34295316/article/details/92654218
+Java基础学习总结（16）——Java制作证书的工具keytool用法总结	https://blog.csdn.net/weixin_34295316/article/details/92650269
+Java基础学习总结（8）——super关键字	https://blog.csdn.net/weixin_34295316/article/details/92652305
+构建高性能服务（二）java高并发锁的3种实现	https://blog.csdn.net/iteye_15264/article/details/82357650
+构建高性能服务（一）ConcurrentSkipListMap和链表构建高性能Java Memcached	https://blog.csdn.net/iteye_15264/article/details/82341755
+排查Java线上服务故障的方法和实例分析	https://blog.csdn.net/iteye_15264/article/details/82306414
+高吞吐高并发Java NIO服务的架构（NIO架构及应用之一）	https://blog.csdn.net/iteye_15264/article/details/82121934
+构建高性能高并发Java系统	https://blog.csdn.net/iteye_15264/article/details/82104933
+windows一键部署java项目	https://blog.csdn.net/qq_19558705/article/details/80968807
+Java编程配置思路详解	https://blog.csdn.net/qq_19558705/article/details/79752476
+Java 常用List集合使用场景分析	https://blog.csdn.net/qq_19558705/article/details/79311480
+无锁环形缓冲RingBuffer的原理及Java实现	https://blog.csdn.net/jkqwd1222/article/details/82194305
+Java的循环队列(环形缓冲、RingBuffer)	https://blog.csdn.net/sidihuo/article/details/44928843
+Java 环形缓冲器（Ring Buffer）	https://blog.csdn.net/qq_34834846/article/details/89890962
+来，带你鸟瞰 Java 中4款常用的并发框架！	https://blog.csdn.net/weixin_43770982/article/details/88823117
+Java虚拟机 - JVM是什么？	https://blog.csdn.net/Su_Levi_Wei/article/details/80239654
+Java网络编程（11） - NIOEventLoopGroup源码解读，Netty内存管理机制是怎么样的？BytBuf特点是什么？	https://blog.csdn.net/Su_Levi_Wei/article/details/106739958
+Java网络编程（10） - Netty网络编程常见问题与疑问	https://blog.csdn.net/Su_Levi_Wei/article/details/106739921
+Java网络编程（8） - 怎么样使用NettyUDP协议通信？怎么样使用Netty的WebSocket通信案例？	https://blog.csdn.net/Su_Levi_Wei/article/details/106739822
+Java网络编程（9） - Netty怎么做数据通信？Netty的心跳检测怎么实现？Netty怎么用Http协议通信？	https://blog.csdn.net/Su_Levi_Wei/article/details/106739899
+Java网络编程（6） - Netty高性能体现，Netty为什么快？高性能的三大要素？Netty的高能性在什么地方？Netty的线程模型？Netty的零拷贝技术是怎么样？Netty内存池是怎么样的？	https://blog.csdn.net/Su_Levi_Wei/article/details/106739373
+Java网络编程（7） - 什么是TCP粘包、拆包和解决？什么Netty编解码技术？主流的序列化框架有哪些？Netty的JBOSS的Marshalling详解案例？	https://blog.csdn.net/Su_Levi_Wei/article/details/106739520
+Java网络编程（5） - Netty入门，什么是Netty？Java NIO存在的常见问题，Netty总体架构，Netty服务端工作过程，Netty模块组件，Netty常见应用场景	https://blog.csdn.net/Su_Levi_Wei/article/details/106739188
+Java网络编程（4） - BIO、NIO、AIO的区别，阻塞、非阻塞、同步、异步的区别，什么是NIO同步非阻塞详解？什么是AIO异步非阻塞？NIO的三大组件是什么？	https://blog.csdn.net/Su_Levi_Wei/article/details/106739108
+Java网络编程（3） - 什么是Socket网络编程？网络编程Socket详解、传统Socket的问题、Socket伪异步实现与模拟	https://blog.csdn.net/Su_Levi_Wei/article/details/106739012
+Java网络编程（2） - TCP网络Socket编程、UDP网络Socket编程、UDP丢包模拟、TCP与UDP对比、网络编程TCP协议模拟图片服务器	https://blog.csdn.net/Su_Levi_Wei/article/details/106738938
+Java网络编程（1） - 什么是网络编程？什么是Web编程？域名与DNS服务是什么？IP地址分类？网络编程要素是什么？	https://blog.csdn.net/Su_Levi_Wei/article/details/106738890
+Java设计模式（4） - 多线程并发设计模式 - Master-Worker设计模式	https://blog.csdn.net/Su_Levi_Wei/article/details/106479960
+Java多线程（11） - 多线程 - 锁详解：重入锁、公平锁、非公平锁、读写锁、不可重入锁、自旋锁、独享锁、共享锁、互斥锁、悲观锁、乐观锁、分段锁、偏向锁、轻量级锁、重量级锁、CAS算法原理	https://blog.csdn.net/Su_Levi_Wei/article/details/106421499
+Java多线程（10） - 多线程 - CountDownLatch、CyclicBarrier、Semaphore使用示例详解	https://blog.csdn.net/Su_Levi_Wei/article/details/106421422
+Java多线程（9） - 多线程 - 线程池详解与使用示例	https://blog.csdn.net/Su_Levi_Wei/article/details/106421380
+Java设计模式（5） - 多线程并发设计模式 - 生产者-消费者设计模式多种写法	https://blog.csdn.net/Su_Levi_Wei/article/details/106393568
+JavaScript 正则表达式	https://blog.csdn.net/weixin_30724853/article/details/95435929
+2020最新大厂（阿里头条百度快手美团滴滴猿辅导陌陌）Java开发岗位社招面试干货分享总结	https://blog.csdn.net/qq_25827845/article/details/106033403
+PostMan之提交from-data方式请求的java代码	https://blog.csdn.net/YouAreMy_Sunshine/article/details/104715802
+java实现postman中form-data传参方式	https://blog.csdn.net/qq_33479841/article/details/90517270
+java 如何取出传参数格式为form-data中的值	https://blog.csdn.net/weixin_41162263/article/details/81208948
+java post请求调用参数格式为form-data的接口	https://blog.csdn.net/lee_master/article/details/91966759
+java发送httpPost请求，使用multipart/form-data的方式传递参数，可实现文件上传功能	https://blog.csdn.net/Icywind1/article/details/85628099
+java MultipartFile Postman上传文件	https://blog.csdn.net/qq_31424825/article/details/90752089
+java的class文件批量反编译成java	https://blog.csdn.net/qq_19714505/article/details/80309968
+把java的class文件转成java文件	https://blog.csdn.net/DGH2430284817/article/details/82861058
+java .class 反编译工具推荐	https://blog.csdn.net/chenhuang2370/article/details/100840364
+如何.class文件反编译成为.java文件	https://blog.csdn.net/JacaCao/article/details/99629285
+java 的.class 反编译软件	https://blog.csdn.net/xinyuandu/article/details/82422663
+Java加密Jar包和Class文件防止反编译的方法	https://blog.csdn.net/fanglei517/article/details/73198419
+.java编译成.class 与 .class反编译成.java	https://blog.csdn.net/csdnliuxin123524/article/details/80608438
+最新支持java8的Java反编译工具汇总（大全）！！	https://blog.csdn.net/qq_38097573/article/details/84068751
+7款开源Java反编译工具	https://blog.csdn.net/weixin_30387799/article/details/95237240
+Java基础知识面试题（2020最新版）	https://blog.csdn.net/ThinkWon/article/details/104390612
+JDK8: java.lang.IllegalStateException: Duplicate key 1	https://blog.csdn.net/weixin_37645838/article/details/83269633
+java8 对象转 Map 时重复 key Duplicate key xxxx	https://blog.csdn.net/Dongguabai/article/details/98397784
+Java面试宝典2010版	https://blog.csdn.net/cnham/article/details/6611075
+2019Java面试整理——集合	https://blog.csdn.net/qq_36174081/article/details/90736298
+2019最新java面试葵花宝典	https://blog.csdn.net/weixin_38405770/article/details/86657613
+Java 最全面的面试题675道	https://blog.csdn.net/weixin_43062870/article/details/86568420
+java ThreadLocal(应用场景及使用方式及原理)	https://blog.csdn.net/weixin_34128501/article/details/86245024
+Java面试题及答案2019版（下）	https://blog.csdn.net/qq_41701956/article/details/86699263
+2019最新整理JAVA面试题附答案	https://blog.csdn.net/weixin_43660856/article/details/102459448
+2018、2019年java技术面试题整理	https://blog.csdn.net/qq_35661171/article/details/79320000
+Java中ThreadLocal类的作用以及实现原理	https://blog.csdn.net/scyatcs/article/details/9458573
+java面试宝典	https://blog.csdn.net/cpongo3/article/details/89326910
+面试多家大厂，三年java经验面试总结	https://blog.csdn.net/weixin_34125592/article/details/91686497
+Java笔试面试题整理第八波	https://blog.csdn.net/shakespeare001/article/details/51669476
+java.lang.ThreadLocal实现原理分析	https://blog.csdn.net/abc123lzf/article/details/81978210
+Java（面试必备）：面试中的 ThreadLocal 原理和使用场景	https://blog.csdn.net/Mrs_chens/article/details/90694392
+java高级面试题_java面试题大全带答案_线程面试题_java面试宝典2019	https://blog.csdn.net/weixin_44626952/article/details/90494193
+Java guava中的异步事件处理方案 eventBus	https://blog.csdn.net/guohao_1/article/details/103236813
+谷歌Java开发工具包Guava之EventBus事件总线	https://blog.csdn.net/Message_lx/article/details/79296259
+java8 快速实现List转map 、分组、过滤等操作	https://blog.csdn.net/lu930124/article/details/77595585
+关于java中Lambda表达式的使用（粗解）	https://blog.csdn.net/u011043551/article/details/72689165
+java中lambda表达式的使用案例技巧	https://blog.csdn.net/qq_36336332/article/details/106455729
+JAVA8自定义Lambda表达式的常见使用方法	https://blog.csdn.net/goodsave/article/details/76889609
+java8 lambda使用汇总	https://blog.csdn.net/qq_27603235/article/details/83508927
+Java练习>Lambda表达式使用方法>>有参有返回值的练习	https://blog.csdn.net/qq_36050720/article/details/98975859
+Java Lambda表达式	https://blog.csdn.net/qq_14876133/article/details/103477697
+Java8 Lambda 表达式有何用处？如何使用？	https://blog.csdn.net/weixin_33957648/article/details/93718533
+Java lambda表达式的常见用法	https://blog.csdn.net/ClareQi/article/details/101061587
+ 深入浅出 Java 8 Lambda 表达式	https://blog.csdn.net/weixin_34242331/article/details/89450223
+java8 Lambda表达式使用 以及变量的使用限制 方法引用	https://blog.csdn.net/chixushuchu/article/details/101476909
+JAVA Lambda表达式使用方法引用优化	https://blog.csdn.net/weixin_43838446/article/details/104958019
+Java调用微信支付	https://blog.csdn.net/haiyanghan/article/details/106792920
+java 操作es 实现俩个字段之间进行比对	https://blog.csdn.net/weixin_37757233/article/details/81162308
+Java特殊的代码注释XXX、TODO、FIXME以及自定义代码注释	https://blog.csdn.net/qq_22771739/article/details/86763744
+JAVA代码注释规范	https://blog.csdn.net/zwwlxf/article/details/80502556
+优秀的java程序员怎么写注释的	https://blog.csdn.net/belalds/article/details/81604765
+javadoc注释模板设置及详解	https://blog.csdn.net/projectNo/article/details/76499374
+Java高亮关键字	https://blog.csdn.net/lmlover/article/details/5294317
+Java代码注释规范_动力节点Java学院整理	https://blog.csdn.net/f5465245/article/details/77934673
+java编程中的几种注释	https://blog.csdn.net/kanaijidaan/article/details/21991811
+Java 注释技巧	https://blog.csdn.net/chenjianjk/article/details/37610071
+Java编码规范（常用重点）	https://blog.csdn.net/u013249965/article/details/51812711
+如何在java代码中添加注释?	https://blog.csdn.net/weixin_42204641/article/details/80968267
+如何写Java文档注释(Java Doc Comments)	https://blog.csdn.net/dicui3114/article/details/101206155
+{@link}与@see的简单使用以及区别--如何写好Java代码注释。	https://blog.csdn.net/qq_27093465/article/details/59121608
+Java注释中的方法文档标记	https://blog.csdn.net/qq_36451496/article/details/87165631
+JAVA文档注释小结 	https://blog.csdn.net/colbybobo/article/details/84276295
+关于Java代码中注释的使用	https://blog.csdn.net/qq_35606175/article/details/80860509
+java实现代码高亮	https://blog.csdn.net/weixin_30477797/article/details/96209869
+Java 开发之 Lombok 必知必会	https://blog.csdn.net/wanghao112956/article/details/90753872
+Java代码优化：使用构造函数和使用一个个setter的效率差别	https://blog.csdn.net/weifubin/article/details/97375789
+Java 代码优化：使用构造函数和使用一个个setter的效率差别	https://blog.csdn.net/qq_27093465/article/details/92763548
+Java 代码精简之道	https://blog.csdn.net/liuchangjie0112/article/details/105982381
+java-mybaits-011-mybatis-Interceptor-拦截器原理、统一赋值、计算耗时	https://blog.csdn.net/dilv4062/article/details/101597381
+阿里巴巴Java编码指南 Alibaba Java Coding Guidelines	https://blog.csdn.net/weixin_40611659/article/details/96002813
+IntelliJ IDEA 阿里巴巴Java开发规约插件-安装及设置	https://blog.csdn.net/wljk506/article/details/78269635
+Android开发之获取APP的应用程序名称以及版本名称信息java工具类	https://blog.csdn.net/qq_21376985/article/details/84774301
+java常用的加密解密方法	https://blog.csdn.net/iteye_9584/article/details/82573156
+Java中常用的加密方法(JDK)	https://blog.csdn.net/hapfish/article/details/84175161
+javassist，不反编译也可以破解class 	https://blog.csdn.net/zhongdaiqi/article/details/83326269
+Java 重大升级马上来了：JDK 11 新特性了解一下	https://blog.csdn.net/weixin_33994429/article/details/92422560
+面试：第十六章：Java中级开发	https://blog.csdn.net/java_wxid/article/details/105087259
+关于将Java项目从JDK 8更新到JDK 11的报告	https://blog.csdn.net/cunxiedian8614/article/details/105698540
+Java 11和IntelliJ IDEA——有趣的搭配	https://blog.csdn.net/qq_37939251/article/details/83145480
+IDEA配置JAVA11	https://blog.csdn.net/qq_42322548/article/details/89504281
+JDK11 在 IDEA 中配置 JavaFX	https://blog.csdn.net/qq_38132283/article/details/106339289
+Intellij idea使用eclipse的java代码格式化文件	https://blog.csdn.net/otyTaiYang/article/details/18654745
+Idea 设置java代码格式化，代码注释，类注释	https://blog.csdn.net/lijiwang666/article/details/95044652
+Idea java代码格式化注释设计	https://blog.csdn.net/lingfeian/article/details/95206013
+java中的浅拷贝与深拷贝详解	https://blog.csdn.net/baidu_38609744/article/details/82219563
+（转）Java中对象的深复制（深克隆）和浅复制（浅克隆）	https://blog.csdn.net/zengzhaoshuai/article/details/83976177
+Java基础常见笔试题总结	https://blog.csdn.net/qq_16633405/article/details/79211002
+java基础之对象的深复制和浅复制	https://blog.csdn.net/Richard_666/article/details/86837650
+Java基础知识思维导图	https://blog.csdn.net/jackfrued/article/details/41576837
+java基础知识总结大全	https://blog.csdn.net/hao19980724/article/details/83792516
+Java基础知识总结	https://blog.csdn.net/qingruan000/article/details/68063890
+Java基础知识点面试手册	https://blog.csdn.net/weixin_34342905/article/details/88065757
+Java基础知识点回顾	https://blog.csdn.net/hbhgyu/article/details/89367790
+【Java面试考点汇集 一】Java基础知识	https://blog.csdn.net/sinat_33087001/article/details/73883929
+Java基础知识大全	https://blog.csdn.net/xingkonglfs/article/details/54695622
+Java面试知识点汇总	https://blog.csdn.net/qq_33945246/article/details/89922244
+java知识体系整理(一)基础知识	https://blog.csdn.net/wthfeng/article/details/88946210
+java面试基础知识总结（一）	https://blog.csdn.net/xinyu2015/article/details/51182981
+Java基础知识之笔记总结分享（超详细）	https://blog.csdn.net/weixin_44873106/article/details/89787021
+java基础之深复制与浅复制	https://blog.csdn.net/moudaen/article/details/9055135
+我的java基础知识总结ppt	https://blog.csdn.net/jjfly999/article/details/50947898
+《Java 2 图形设计卷Ⅱ- SWING》第12章 轻量容器	https://blog.csdn.net/dongzhumao86/article/details/69947189
+《Java 2 图形设计卷Ⅱ- SWING》第11章 进度条、滑杆和分隔条	https://blog.csdn.net/dongzhumao86/article/details/69947176
+《Java 2 图形设计卷Ⅱ- SWING》第9章 反转按钮、复选框和单选框	https://blog.csdn.net/dongzhumao86/article/details/69947146
+《Java 2 图形设计卷Ⅱ- SWING》第10章 菜单和工具条	https://blog.csdn.net/dongzhumao86/article/details/69947164
+《Java 2 图形设计卷Ⅱ- SWING》第8章 标签与按钮	https://blog.csdn.net/dongzhumao86/article/details/69947134
+《Java 2 图形设计卷Ⅱ- SWING》第7章 插入式界面样式	https://blog.csdn.net/dongzhumao86/article/details/69947125
+《Java 2 图形设计卷Ⅱ- SWING》第6章 实用工具	https://blog.csdn.net/dongzhumao86/article/details/69947109
+《Java 2 图形设计卷Ⅱ- SWING》第4章 JComponent类	https://blog.csdn.net/dongzhumao86/article/details/69947092
+《Java 2 图形设计卷Ⅱ- SWING》第5章 边框、图标和动作	https://blog.csdn.net/dongzhumao86/article/details/69947101
+《Java 2 图形设计卷Ⅱ- SWING》第2章 Swing的基本知识	https://blog.csdn.net/dongzhumao86/article/details/69947063
+《Java 2 图形设计卷Ⅱ- SWING》第1章 简　介	https://blog.csdn.net/dongzhumao86/article/details/69947032
+《Java 2 图形设计卷Ⅱ- SWING》第3章 Swing组件的体系结构	https://blog.csdn.net/dongzhumao86/article/details/69947082
+JAVA WEB 浏览器兼容问题汇总	https://blog.csdn.net/dongzhumao86/article/details/17915557
+Java EE 8和GlassFish 5.0发布	https://blog.csdn.net/qiansg123/article/details/80131871#comments
+12个非常有用的JavaScript技巧	https://blog.csdn.net/qiansg123/article/details/80129420#comments
+难道 Java 就玩不了爬虫？文末惊喜～	https://blog.csdn.net/j3T9Z7H/article/details/103470498
+java知识点——数据库JDBC相关	https://blog.csdn.net/weixin_34293059/article/details/93600937
+JavaScript 学习（一）：onclick() 和onclientclick() 事件	https://blog.csdn.net/weixin_34293059/article/details/93566847
+Java基础学习总结（5）——多态	https://blog.csdn.net/weixin_34293059/article/details/92658721
+java ee , java se, java me 怎么区分	https://blog.csdn.net/yangchunlu0101/article/details/80173502
+Java经典设计模式之七大结构型模式（附实例和详解）	https://blog.csdn.net/yangchunlu0101/article/details/75210741
+Java垃圾收集学习笔记	https://blog.csdn.net/yangchunlu0101/article/details/75210919
+Java内存管理	https://blog.csdn.net/yangchunlu0101/article/details/75210765
+Java经典设计模式之十一种行为型模式（附实例和详解）	https://blog.csdn.net/yangchunlu0101/article/details/75210752
+Java校招入职华为，半年后我跑路了	https://blog.csdn.net/qq_33589510/article/details/104057498
+java IO框架分析	https://blog.csdn.net/weixin_33670713/article/details/94698816
+JavaScript实现startWith、endWith效果函数	https://blog.csdn.net/weixin_33670713/article/details/94494060
+Java学习之旅系列	https://blog.csdn.net/weixin_33670713/article/details/93901811
+JavaScript系列之变量对象	https://blog.csdn.net/weixin_33670713/article/details/93183764
+JavaScript中使用bind()方法	https://blog.csdn.net/bluejoe2000/article/details/79602603
+javascript中两种类方法的定义	https://blog.csdn.net/bluejoe2000/article/details/79080296
+Javacc入门笔记	https://blog.csdn.net/u012692537/article/details/102791481
+Java lambda表达式	https://blog.csdn.net/u012692537/article/details/101486126
+Java入门笔记	https://blog.csdn.net/u012692537/article/details/86587593
+JAVA 性能调优相关命令	https://blog.csdn.net/maxi1234/article/details/105035485
+java-虚拟机类加载机制	https://blog.csdn.net/Ancony_/article/details/106013956
+Java替换所有的字符串	https://blog.csdn.net/Ancony_/article/details/82933724
+Java RMI（远程方法调用）	https://blog.csdn.net/Ancony_/article/details/80777540
+使用Java Mail API实现邮件的发送和接收详解	https://blog.csdn.net/Ancony_/article/details/80428976
+java关键字之volatile	https://blog.csdn.net/Ancony_/article/details/80398860
+Java之异常和泛型	https://blog.csdn.net/Ancony_/article/details/80357260
+Java之类与对象、访问权限	https://blog.csdn.net/Ancony_/article/details/80303647
+Java之继承	https://blog.csdn.net/Ancony_/article/details/80288749
+Java之多线程	https://blog.csdn.net/Ancony_/article/details/80288138
+Java8之Lambda表达式	https://blog.csdn.net/Ancony_/article/details/80115224
+Java8快速入门	https://blog.csdn.net/Ancony_/article/details/80114073
+java判断字符串是否为空	https://blog.csdn.net/weixin_34414196/article/details/94698181
+JavaScript闭包的应用案例——让Onclick事件都能正确的弹出相应的参数	https://blog.csdn.net/weixin_34414196/article/details/93058581
+Java单元测试之JUnit4详解	https://blog.csdn.net/weixin_34414196/article/details/92662342
+一文读懂JAVA多线程	https://blog.csdn.net/gao2175/article/details/106374551
+Serializable详解（1）：代码验证Java序列化与反序列化	https://blog.csdn.net/gao2175/article/details/104794213
+关于Java序列化的问题你真的会吗？	https://blog.csdn.net/gao2175/article/details/104771923
+如何利用缓存机制实现JAVA类反射性能提升30倍	https://blog.csdn.net/gao2175/article/details/103045600
+Java集合中List,Set以及Map等集合体系详解(史上最全)	https://blog.csdn.net/y666666y/article/details/107013671
+前台到后台Java时data日期类型的转化，java到数据库data日期格式转化	https://blog.csdn.net/y666666y/article/details/70212886
+使用retrofit2和rxjava封装的网络框架RNet：（二）RNet的源码解析	https://blog.csdn.net/u011791526/article/details/73733024
+Java堆栈全解	https://blog.csdn.net/u011791526/article/details/73526753
+使用retrofit2和rxjava封装网络框架RNet：（一）RNet的使用	https://blog.csdn.net/u011791526/article/details/73321495
+将java项目导出为jar包+导出第三方jar包+使用命令行调用+传参	https://blog.csdn.net/u011791526/article/details/52523724
+javascript —— 高阶函数	https://blog.csdn.net/huzhenv5/article/details/105120798
+深究：javascript中var、let、const的区别	https://blog.csdn.net/huzhenv5/article/details/104738695
+javascript中，声明变量和函数的时候加var和不加var的区别	https://blog.csdn.net/huzhenv5/article/details/104742514
+牛客网在线编程——javascript_v8语言输入输出总结及常用知识点总结	https://blog.csdn.net/huzhenv5/article/details/104690919
+java 加密解密时间戳	https://blog.csdn.net/huzhenv5/article/details/77601614
+网页抓取JAVASCRIPT处理	https://blog.csdn.net/weixin_33994444/article/details/94101595
+Java核心技术第4章笔记	https://blog.csdn.net/weixin_33994444/article/details/94534229
+java面试-Java内存模型（JMM）	https://blog.csdn.net/weixin_33994444/article/details/94149698
+JAVA中获取当前系统时间	https://blog.csdn.net/weixin_34234823/article/details/93656961
+使用Rxjava的compose()操作符	https://blog.csdn.net/u013378580/article/details/51607677
+java.lang.IllegalStateException异常产生的原因及解决办法	https://blog.csdn.net/superdog007/article/details/20036977
+Springboot整合Shiro分离资源打包运行出现 java.lang.ClassNotFoundException	https://blog.csdn.net/Feihongxiansen/article/details/103703055
+在JavaScript中使用Thymeleaf框架的语法获取后台数据	https://blog.csdn.net/Feihongxiansen/article/details/88373256
+【Linux之旅-10】Linux（Centos6.8）安装Java环境（JDK）	https://blog.csdn.net/Feihongxiansen/article/details/83241226
+在JavaScript中使用Thymeleaf框架的语法获取后台数据	https://blog.csdn.net/feihongxiansen/article/details/88373256#comments
+Java工作4年来应聘要16K最后没要,细节如下。。。	https://blog.csdn.net/HarderXin/article/details/103971493
+java 泛型基础学习	https://blog.csdn.net/qq_45295475/article/details/106613937
+javaweb概念速览	https://blog.csdn.net/qq_45295475/article/details/106769228
+java 多线程并发JUC编程详解	https://blog.csdn.net/qq_45295475/article/details/105365685
+java重载时泛型遇见Object类型时报错both methods have same erasu	https://blog.csdn.net/qq_45295475/article/details/106626241
+java泛型参数和Object参数的区别	https://blog.csdn.net/qq_45295475/article/details/106625895
+java 外部类继承内部类、内部类继承外部类以及内部类继承内部类	https://blog.csdn.net/qq_45295475/article/details/106499993
+java数组体系详解	https://blog.csdn.net/qq_45295475/article/details/106565739
+java 初始化的顺序详解	https://blog.csdn.net/qq_45295475/article/details/106460943
+java jvm简单了解	https://blog.csdn.net/qq_45295475/article/details/106239114
+使用java语言实现哈夫曼编码系统	https://blog.csdn.net/qq_45295475/article/details/106156250
+java io流体系详解	https://blog.csdn.net/qq_45295475/article/details/105387547
+java 反射体系详解	https://blog.csdn.net/qq_45295475/article/details/105367422
+java 异常处理体系详解	https://blog.csdn.net/qq_45295475/article/details/105307977
+java 最简要强大的容器操作体系(详)	https://blog.csdn.net/qq_45295475/article/details/105265432
+java 最好用的字符串体系（正则表达式、pattern、matcher、包装类、Arrays以及String类）（详）	https://blog.csdn.net/qq_45295475/article/details/105276419
+java基础学习	https://blog.csdn.net/qq_45295475/article/details/105122981
+Exercise thinking in java	https://blog.csdn.net/Allen_Infosys/article/details/50828039
+java中Collections.sort() 排序函数的用法	https://blog.csdn.net/Allen_Infosys/article/details/50821321
+JavaReflect	https://blog.csdn.net/Allen_Infosys/article/details/50821325
+java中的关键字super	https://blog.csdn.net/Allen_Infosys/article/details/50821315
+java块	https://blog.csdn.net/Allen_Infosys/article/details/50821312
+IO_ Java文件操作大全	https://blog.csdn.net/Allen_Infosys/article/details/50821268
+java.lang.ClassCastException	https://blog.csdn.net/Allen_Infosys/article/details/50821226
+java的前期绑定和后期绑定使用示例	https://blog.csdn.net/Allen_Infosys/article/details/50350456
+Java中static作用详解	https://blog.csdn.net/Allen_Infosys/article/details/50495700
+java向前引用	https://blog.csdn.net/Allen_Infosys/article/details/50454565
+maven快速入门番外篇——使用maven整合SSH报错：java.lang.IllegalStateException: Cannot convert value of type...	https://blog.csdn.net/yerenyuan_pku/article/details/103731483
+Java基本数据（short和int的转换问题）	https://blog.csdn.net/qq_41999455/article/details/103127719
+浅谈JAVA线程的生命周期，以及实现线程创建的八种方式	https://blog.csdn.net/jiaqingShareing/article/details/103275457
+JAVA使用脚本引擎执行JS代码	https://blog.csdn.net/jiaqingShareing/article/details/103262333
+Java8的新特性	https://blog.csdn.net/jiaqingShareing/article/details/103149638
+Java并发编程总结图谱（超详细）	https://blog.csdn.net/jiaqingShareing/article/details/90072925
+Java并发编程系列学习_原子操作类Atomic	https://blog.csdn.net/jiaqingShareing/article/details/89144877
+Java并发编程系列学习_并发容器ThreadLocal	https://blog.csdn.net/jiaqingShareing/article/details/89108096
+Java并发编程系列学习_volatile关键字	https://blog.csdn.net/jiaqingShareing/article/details/89147593
+Java并发编程系列学习_并发容器CopyOnWriteArrayList	https://blog.csdn.net/jiaqingShareing/article/details/89087584
+Java并发编程系列学习_invokeAny()方法与invokeAll()方法	https://blog.csdn.net/jiaqingShareing/article/details/89076052
+Java并发编程系列学习_Future和Callable接口的使用	https://blog.csdn.net/jiaqingShareing/article/details/89069711
+Java并发编程系列学习_CountDownLatch倒计时器&CyclicBarrier循环栅栏	https://blog.csdn.net/jiaqingShareing/article/details/88944051
+List流式操作，排序、最大、最小值等各种操作工具类（java8 ）	https://blog.csdn.net/Carrots_vegetables/article/details/105208377
+Java 面试题看这些就够了	https://blog.csdn.net/Carrots_vegetables/article/details/105714065
+java.lang.IllegalArgumentException:（springboot项目请求出现非法字符问题）	https://blog.csdn.net/Carrots_vegetables/article/details/102921296
+JAVA——苹果IAP内购JAVA服务器验证	https://blog.csdn.net/Carrots_vegetables/article/details/89642556
+Java 12 新特性	https://blog.csdn.net/Carrots_vegetables/article/details/88682094
+后端（java）获取multipart/form-data传的文件及参数	https://blog.csdn.net/Carrots_vegetables/article/details/86595243
+List流式操作，排序、最大、最小值等各种操作工具类（java8 ）	https://blog.csdn.net/carrots_vegetables/article/details/105208377#comments
+java 定时任务之——cron表达式详解	https://blog.csdn.net/Carrots_vegetables/article/details/81204647
+Java猴子吃桃解析	https://blog.csdn.net/m13120331539/article/details/48339331
+Java二维码编写	https://blog.csdn.net/m13120331539/article/details/48339361
+从开源代码学习JAVA基础之继承体系	https://blog.csdn.net/yunlong34574/article/details/85848856
+Java Unsafe and volatile	https://blog.csdn.net/yunlong34574/article/details/80793325
+Java锁的分类	https://blog.csdn.net/zyxwvuuvwxyz/article/details/104886382
+IDEA中maven引入了jar，但项目中Java文件依然报错问题	https://blog.csdn.net/zyxwvuuvwxyz/article/details/83418815#comments
+Java基础学习总结（19）——Java环境变量配置	https://blog.csdn.net/weixin_33762130/article/details/92656982
+Java基础学习总结（5）——多态	https://blog.csdn.net/weixin_33762130/article/details/92653064
+专门为了面试而学的 Java	https://blog.csdn.net/xiangbq/article/details/52366970
+Java资源大全中文版	https://blog.csdn.net/xiangbq/article/details/52276701
+Java入门学习路线目录索引（持续更新中）	https://blog.csdn.net/One_L_Star/article/details/102394373
+java8之list转map	https://blog.csdn.net/lukabruce/article/details/105627866
+Java系统学习	https://blog.csdn.net/lukabruce/article/details/104991255
+org.yaml.snakeyaml.error.YAMLException: java.nio.charset.MalformedInputException: Input length = 2	https://blog.csdn.net/lukabruce/article/details/104769227
+java.lang.ClassNotFoundException: org.apache.spark.sql.internal.StaticSQLConf$	https://blog.csdn.net/lukabruce/article/details/103288391
+Java中的时间与时区__java	https://blog.csdn.net/aa5305123/article/details/86299950
+Java RMI:rmi Connection refused to host: 127.0.0.1异常解决	https://blog.csdn.net/aa5305123/article/details/85054292
+监控你的java程序服务	https://blog.csdn.net/aa5305123/article/details/84581063
+Java Reference	https://blog.csdn.net/yanlinwang/article/details/46461553
+Java自旋锁	https://blog.csdn.net/yanlinwang/article/details/41216629
+java线程同步之CountDownLatch	https://blog.csdn.net/yanlinwang/article/details/18666105
+最新Java技术	https://blog.csdn.net/zmx729618/article/details/90441207
+Java下利用Jackson进行JSON解析和序列化	https://blog.csdn.net/zmx729618/article/details/52161069
+Java绝对/相对路径获取与getResourceAsStream()方法	https://blog.csdn.net/zmx729618/article/details/51144588
+轻松掌握java读写锁(ReentrantReadWriteLock)的实现原理	https://blog.csdn.net/yanyan19880509/article/details/52435135
+Java中的锁——ReentrantReadWriteLock(读写锁)	https://blog.csdn.net/u010723709/article/details/50369841
+Java多线程系列--“JUC锁”08之 共享锁和ReentrantReadWriteLock	https://blog.csdn.net/liupeifeng3514/article/details/80292343
+Java读写锁源码解析	https://blog.csdn.net/zhaocuit/article/details/89604641
+【基本功】不可不说的Java“锁”事	https://blog.csdn.net/MeituanTech/article/details/98744751
+【JavaSE】多线程（8）_ReentrantLock、公平与非公平锁、读写锁的获取和释放	https://blog.csdn.net/Hannah_Hsq/article/details/98729489
+Java 和 数据库进行加锁方式	https://blog.csdn.net/qq_30509055/article/details/85340954
+Java Web学习总结（3）——Servlet详解	https://blog.csdn.net/weixin_34355559/article/details/92661130
+Java基础学习总结（2）——接口	https://blog.csdn.net/weixin_34355559/article/details/92649478
+Java Design Pattern	https://blog.csdn.net/weixin_34355559/article/details/93271084
+Java点滴	https://blog.csdn.net/Su_wei_peng/article/details/78057927
+Java web SSM框架配置	https://blog.csdn.net/L_yangliu/article/details/102626205
+完整java开发中JDBC连接数据库代码和步骤	https://blog.csdn.net/csgyl/article/details/48289927
+Java出现No enclosing instance of type E is accessible. Must qualify the allocation with an enclosing	https://blog.csdn.net/csgyl/article/details/48289915
+20060507: 视频教程：写一个简单“Hello, world”的Java程序	https://blog.csdn.net/weixin_34121304/article/details/94467276
+javascript中的对象查找	https://blog.csdn.net/weixin_34121304/article/details/94278318
+Java多线程总结（二）锁、线程池	https://blog.csdn.net/weixin_34121304/article/details/94151770
+【转】JS 和 java 交互	https://blog.csdn.net/weixin_34121304/article/details/93778454
+Java基础学习总结（22）——异常处理	https://blog.csdn.net/weixin_34121304/article/details/92648157
+hutool Java工具类	https://blog.csdn.net/u012796085/article/details/104068911
+java oshi查看cpu信息	https://blog.csdn.net/u012796085/article/details/104068769
+Java开发神器Lombok使用详解	https://blog.csdn.net/u012796085/article/details/103978619
+JAVA 文件类File操作	https://blog.csdn.net/u012796085/article/details/103978365
+JAVA获取定位	https://blog.csdn.net/u012796085/article/details/74906408
+Java异常处理	https://blog.csdn.net/weixin_34275734/article/details/94515448
+java.lang.OutOfMemoryError: Java heap space 解决方法转测试可用	https://blog.csdn.net/weixin_34275734/article/details/94029584
+史上最全Java面试192题：JVM+多线程+算法+缓存	https://blog.csdn.net/weixin_34275734/article/details/93172311
+Java实现随机生成车牌号	https://blog.csdn.net/weixin_34342578/article/details/85944281
+Javascript——Object.prototype.hasOwnProperty()	https://blog.csdn.net/mr_wuch/article/details/70318818
+javascript获取剪切板数据	https://blog.csdn.net/lebron3v/article/details/97981305
+定位Caused by: java.util.zip.ZipException: invalid LOC header (bad signature)错误	https://blog.csdn.net/lebron3v/article/details/97137141
+关于java-web项目发布时，tomcat意外退出的总结	https://blog.csdn.net/lebron3v/article/details/96997693
+javaweb播放视频通过断点续传拖动滚动条	https://blog.csdn.net/lebron3v/article/details/93615662
+java支持html5视频流技术Pseudostreaming	https://blog.csdn.net/lebron3v/article/details/93616802
+JAVA使用easyexcel操作Excel	https://blog.csdn.net/jianggujin/article/details/80200400
+求职与面试(一):Java必备	https://blog.csdn.net/dd864140130/article/details/55833087
+走进JavaWeb技术世界17：web安全攻防详解	https://blog.csdn.net/a724888/article/details/79596360
+阿里java高级工程师面试题	https://blog.csdn.net/weixin_34403693/article/details/89776749
+阿里java高级工程师面试100题	https://blog.csdn.net/zhanjianshinian/article/details/77073723
+华为初面+综合面试（Java技术面）附上面试题	https://blog.csdn.net/sinat_37903468/article/details/104610975
+Java Json 数据下划线与驼峰格式进行相互转换	https://blog.csdn.net/wtopps/article/details/81087157
+Java——》fastjson之SerializerFeature详解	https://blog.csdn.net/weixin_43453386/article/details/83659467
+Java解析excel工具easyexcel 助你快速简单避免OOM	https://blog.csdn.net/jiangjiandecsd/article/details/81115622
+java读取Excel的方法,解析xlsx(内含所需jar包)	https://blog.csdn.net/a379850992/article/details/79044676
+java实现excel的生成，利用poi jar包实现excel的生成	https://blog.csdn.net/echohuangshihuxue/article/details/81837771
+JAVA基于jxl包读写Excel文件（一）	https://blog.csdn.net/touziss/article/details/82591670
+【EasyExcel】Java使用EasyExcel操作Excel文档	https://blog.csdn.net/Carson_Chu/article/details/104105152
+java实现excel打压缩包下载	https://blog.csdn.net/qq_35986866/article/details/83575271
+Java实现导出多个excel表打包到zip文件中->供客户端下载	https://blog.csdn.net/lp15203883326/article/details/83781007
+Java注解解析-搭建自己的注解处理器（CLASS注解使用篇）	https://blog.csdn.net/weixin_33858485/article/details/87984287
+在Spring中创建切面，通过切面引入新功能-使用JAVA注解方式	https://blog.csdn.net/Waterkong/article/details/86600871
+Java枚举和注解	https://blog.csdn.net/HUXU981598436/article/details/43273753
+由全局异常处理引发的Java注解的原理思考	https://blog.csdn.net/singgel/article/details/81504330
+Java注解处理器	https://blog.csdn.net/avclk66666/article/details/101667908
+Java自定义注解	https://blog.csdn.net/qq_37893505/article/details/95496580
+手撕Java注解，从此面向注解编程！	https://blog.csdn.net/Ahahaha0303/article/details/105330423
+史上最全的java spring注解，没有之一	https://blog.csdn.net/achenyuan/article/details/72786759
+Java 运行时（RUNTIME）注解详解	https://blog.csdn.net/ffj0721/article/details/82492911
+java自定义校验注解	https://blog.csdn.net/qq_39839075/article/details/88930593
+Spring中加载 .properties 文件在java注解中使用及xml的el表达式使用	https://blog.csdn.net/yhj19920417/article/details/75480920
+java部分常用注解	https://blog.csdn.net/young_zeu/article/details/89638392
+Java面试题全集（上）	https://blog.csdn.net/jackfrued/article/details/44921941
+Java基于注解的通用EXCEL导出	https://blog.csdn.net/Dreamer_By/article/details/100014006
+使用Java8的函数式接口@FunctionalInterface实现简单异步调用	https://blog.csdn.net/u012901117/article/details/77585002
+JAVA8新特性：函数式接口@FunctionalInterface的使用说明	https://blog.csdn.net/weixin_42140580/article/details/86538217
+java8学习总结——函数式接口@FunctionalInterface	https://blog.csdn.net/qq_36372507/article/details/78757811
+Java中的自动拆装箱、装箱缓存	https://blog.csdn.net/qq_33619378/article/details/90477895
+深入理解Java中的自动拆装箱	https://blog.csdn.net/weixin_34095889/article/details/91518581
+java拆装箱	https://blog.csdn.net/qq_27922171/article/details/100070480
+Java的装箱与拆箱机制	https://blog.csdn.net/yuhongye110/article/details/84610363
+java中的自动拆装箱	https://blog.csdn.net/Null_hc/article/details/80019343
+java-自动拆装箱和手动拆装箱	https://blog.csdn.net/weixin_44823457/article/details/90046661
+java.自动拆装箱	https://blog.csdn.net/qq_45239139/article/details/104065167
+Java自动拆装箱问题整理	https://blog.csdn.net/weixin_38228386/article/details/87972611
+JAVA自动拆装箱、equals与==比较	https://blog.csdn.net/weixin_38004638/article/details/82931736
+Java拆装箱/增强for循环	https://blog.csdn.net/AdrainHuang/article/details/49205737
+java 自动拆装箱	https://blog.csdn.net/lnluo_21/article/details/8161620
+Java自动拆/装箱	https://blog.csdn.net/quniandongtian/article/details/81977313
+JVM内存结构、Java内存模型、Java对象模型之间的区别	https://blog.csdn.net/dazou1/article/details/89636091
+JAVA内存模型与JVM内存模型的区别	https://blog.csdn.net/qq_37019196/article/details/81666631
+JVM内存结构 VS Java内存模型 VS Java对象模型	https://blog.csdn.net/wangzibai/article/details/102690840
+面试问题：你了解Java内存模型么（Java7、8、9内存模型的区别）	https://blog.csdn.net/weixin_30888027/article/details/96721753
+快速带你分清java内存结构，java内存模型，java对象模型和jvm内存结构！	https://blog.csdn.net/sinat_33921105/article/details/82819435
+报错 java.lang.IllegalArgumentException: Not a managed type: class com.yzf.cloud.model.User	https://blog.csdn.net/qiunian144084/article/details/77504362
+Java HotSpot(TM) Client VM 与 server VM 的配置	https://blog.csdn.net/weixin_30687811/article/details/95849439
+java虚拟机02-垃圾收集与对象的引用	https://blog.csdn.net/weixin_34242658/article/details/94293358
+java对象内存模型	https://blog.csdn.net/wangweiyan89/article/details/51234367
+Android 面试之java 篇	https://blog.csdn.net/qq_28334473/article/details/88016208
+对java的理解一：一次编译，到处运行	https://blog.csdn.net/qq_37368968/article/details/90049205
+Java基础：JVM	https://blog.csdn.net/qq_34966446/article/details/105095592
+java运行时的数据区域	https://blog.csdn.net/qq_37612755/article/details/103873015
+java反射+注解+动态代理实现Entity与Dto的相互转换	https://blog.csdn.net/weixin_42773382/article/details/105784906
+Java深入了解DTO及如何使用DTO	https://blog.csdn.net/visant/article/details/53282322
+java中DTO与DO转换工具类	https://blog.csdn.net/qq_35137375/article/details/104021137
+java 几种对象po,pojo,vo,dto 区别和联系	https://blog.csdn.net/qq_37130969/article/details/81112238
+Java常用类库与技巧	https://blog.csdn.net/qq_37128049/article/details/90097438
+Java开发人员必知必会的20种常用类库和API	https://blog.csdn.net/u011001084/article/details/79216958
+Java常用类库..【Pnoter】	https://blog.csdn.net/Pnoter/article/details/43203651
+java常用类库	https://blog.csdn.net/yingshukun/article/details/44180053
+Java 常用类库	https://blog.csdn.net/qq_32445337/article/details/104785230
+JAVA se 常用类库（一）笔记	https://blog.csdn.net/qq_44899249/article/details/89474619
+Java(1)之常用类库总结	https://blog.csdn.net/jokeMqc/article/details/87774796
+Java需要掌握的常用类库	https://blog.csdn.net/izhouxiaofei/article/details/76473493
+Java开发人员20种常用类库和API	https://blog.csdn.net/weixin_34062329/article/details/92858750
+Java集合-1.HashMap，HashTable，ConcurrentHashMap，TreeMap,LinkHashMap,HashSet，TreeSet，LinkedHashSet	https://blog.csdn.net/weixin_35885196/article/details/99595440
+一、java集合(3)Map--HashMap/HashTable/TreeMap/LinkedHashMap	https://blog.csdn.net/M_azed/article/details/93499627
+java面试整理（四）—— HashMap、LinkedHashMap、TreeMap、Hashtable、HashSet和ConcurrentHashMap区别	https://blog.csdn.net/qq_33206732/article/details/80338354
+Java基础——HashMap、HashTable和TreeMap的区别	https://blog.csdn.net/qq_34869143/article/details/72885710
+Java中HashTable、HashMap、WeakHashMap的区别及用法小结	https://blog.csdn.net/m_LeonWANG/article/details/8511097
+java集合(ArrayList/Vector/LinkedList/HashSet/TreeSet/ArrayDeque/PriorityQueue/HashMap/HashTable/TreeM)	https://blog.csdn.net/u014138443/article/details/89848744
+java native关键字	http://blog.csdn.net/youjianbo_han_87/article/details/2586375
+JAVA之JNI从头完整实例	https://blog.csdn.net/chiya6982/article/details/100610639
+java native方法	http://blog.csdn.net/heqingrong623/article/details/3906350
+Java中JNI的使用（上）	https://blog.csdn.net/weixin_34122548/article/details/92729803
+Java JNI实现原理初探	https://blog.csdn.net/hackooo/article/details/48395765
+【JAVA_其他】JNI的简单使用	https://blog.csdn.net/Angry_Caveman/article/details/84253546
+Java使用JNI入门For Windows7	https://blog.csdn.net/xxkalychen/article/details/82470183
+在java中调用jni程序的过程	https://blog.csdn.net/wlfbitfc/article/details/81357736
+Java小知识：怎么调用dll&so动态库？	https://blog.csdn.net/weixin_43945983/article/details/84791981
+JNI基础之java调用jni函数	https://blog.csdn.net/u011598031/article/details/85048731
+Java JNI 实例 Demo	https://blog.csdn.net/nikaihua008/article/details/72628136
+java调用本地方法--jni简介	https://blog.csdn.net/w1992wishes/article/details/80283403
+Java通过JNI调用C的一个小DEMO	https://blog.csdn.net/cl05300629/article/details/39050703
+java调用dll动态库文件的一般总结	https://blog.csdn.net/kahhy/article/details/55505499
+在Windows中实现Java本地方法(JNI)	https://blog.csdn.net/chen_hh2/article/details/503903
+java JNI简介	https://blog.csdn.net/weixin_39687783/article/details/81055154
+Java中使用JNI调用本地动态库的方法	https://blog.csdn.net/qq_34173549/article/details/79605498
+java调用C++ 动态库方法	https://blog.csdn.net/qq_38025219/article/details/89211506
+javah命令(C Header and Stub File Generator)	http://blog.csdn.net/fenglibing/archive/2011/05/11/6411924.aspx
+jps命令(Java Virtual Machine Process Status Tool)	http://blog.csdn.net/fenglibing/archive/2011/05/11/6411932.aspx
+jstack命令(Java Stack Trace)	http://blog.csdn.net/fenglibing/archive/2011/05/11/6411940.aspx
+jstat命令(Java Virtual Machine Statistics Monitoring Tool)	http://blog.csdn.net/fenglibing/archive/2011/05/11/6411951.aspx
+jmap命令(Java Memory Map)	http://blog.csdn.net/fenglibing/archive/2011/05/11/6411953.aspx
+jinfo命令(Java Configuration Info)	http://blog.csdn.net/fenglibing/archive/2011/05/11/6411958.aspx
+jconsole命令(Java Monitoring and Management Console)	http://blog.csdn.net/fenglibing/archive/2011/05/11/6411965.aspx
+jvisualvm命令(Java Virtual Machine Monitoring, Troubleshooting, and Profiling Tool)	http://blog.csdn.net/fenglibing/archive/2011/05/11/6411969.aspx
+jhat命令(Java Heap Analyse Tool)	http://blog.csdn.net/fenglibing/archive/2011/05/11/6411971.aspx
+Jdb命令(The Java Debugger)	http://blog.csdn.net/fenglibing/archive/2011/05/11/6411974.aspx
+java jdb 命令行调试程序	http://blog.csdn.net/arkblue/article/details/39718947
+九大Java性能调试工具，必备至少一款	https://blog.csdn.net/yethyeth/article/details/73266455
+java debug调试怎么用？	https://blog.csdn.net/qq_37591637/article/details/83338438
+java常用的分析工具	https://blog.csdn.net/liubowin/article/details/77967432
+【JAVA教程分享】可提高Java开发性能的5款调试工具-潭州JAVA	https://blog.csdn.net/tanzhouxueyuan/article/details/46414789
+Java学习之一：断点调试	https://blog.csdn.net/qq_40930598/article/details/79684742
+Java 问题定位方法和工具	https://blog.csdn.net/soledadzz/article/details/105283201
+Java程序栈信息文件中的秘密（一）	https://blog.csdn.net/babyblue_963/article/details/8546541
+java分析工具	https://blog.csdn.net/daqi1983/article/details/87212569
+Java程序调试工具——jdb	https://blog.csdn.net/tbc123tbc/article/details/78830291
+java常用性能监控或调试工具一览	https://blog.csdn.net/jizhu4873/article/details/83586969
+java 调试工具，命令行工具，性能工具，可视化工具	https://blog.csdn.net/chenchaofuck1/article/details/51228690
+java的在线调试工具	https://blog.csdn.net/guoxiuye/article/details/48194937
+Java应用的方法调用链分析插件	https://blog.csdn.net/qq_38504890/article/details/86767709
+java调试利器：arthas	https://blog.csdn.net/qq_32523587/article/details/100022200
+java代码分析及分析工具	https://blog.csdn.net/jeff06143132/article/details/7940294
+Java并发编程八CountDownLatch、CyclicBarrier、Semaphore和Exchanger	https://blog.csdn.net/qq_36094018/article/details/90581194
+Java并发工具类：CountDownLatch、Semaphore、CyclicBarrier、Exchanger、Phaser(未完成)	https://blog.csdn.net/lzb348110175/article/details/105861991
+Java并发工具类详解：CountDownLatch、CyclicBarrier、Semaphore和Exchanger	https://blog.csdn.net/l18848956739/article/details/97676534
+【java多线程设计架构模式】之【latch设计模式】	https://blog.csdn.net/Kangyucheng/article/details/87282312
+Java并发编程：CountDownLatch、CyclicBarrier、Semaphore、Phaser	https://blog.csdn.net/xiajingsong/article/details/84703141
+Java并发编程工具类：CountDownLatch、CyclicBarrier、Semaphore	https://blog.csdn.net/itcats_cn/article/details/81297777
+Java多线程（八）之Semaphore、CountDownLatch、CyclicBarrier、Exchanger	https://blog.csdn.net/iteye_3619/article/details/82448195
+Java并发：同步工具类详解（CountDownLatch、CyclicBarrier、Semaphore）	https://blog.csdn.net/v123411739/article/details/79182285
+Java并发编程之CountDownLatch，CyclicBarrier实现一组线程相互等待、唤醒	https://blog.csdn.net/tianyaleixiaowu/article/details/75234600
+Java多线程:ThreadPoolExecutor详解	http://blog.csdn.net/java2000_wl/article/details/22097059
+Java线程池架构原理和源码解析(ThreadPoolExecutor)	http://blog.csdn.net/xieyuooo/article/details/8718741
+Java并发编程系列之二十八：CompletionService	https://blog.csdn.net/u011116672/article/details/51113769
+Java中的Atomic包使用指南	https://blog.csdn.net/wisgood/article/details/41450069
+Java8新特性整理之CompletableFuture：组合式、异步编程（七）	https://blog.csdn.net/u011726984/article/details/79320004
+java8新特性（九）：CompletableFuture多线程并发异步编程	https://blog.csdn.net/sunjin9418/article/details/53321818
+Java 并发编程（八）Future和Callable，CompletionService的使用	https://blog.csdn.net/hongguo_cheng/article/details/78235180
+java判断文件类型	https://blog.csdn.net/pangliang_csdn/article/details/90641424
+java mina的使用	https://blog.csdn.net/qq_35061865/article/details/70948782
+【关键字】Javascript js 身份证号码 检测 规则 18位 15位	https://blog.csdn.net/weixin_34080903/article/details/94685909
+java.util包详解	http://blog.csdn.net/abeetle/article/details/1497706
+Java IO最详解	http://blog.csdn.net/yczz/article/details/38761237
+Java基础--awt详解以及简单应用	http://blog.csdn.net/u013147587/article/details/49815031
+java jdk1.8.0_221 安装步骤	https://blog.csdn.net/u010058695/article/details/100983213
+java常用五大包	https://blog.csdn.net/weixin_30342827/article/details/95076056
+Java中常用的类，包，接口	https://blog.csdn.net/weixin_37766296/article/details/80425867
+Java JDK下载与安装	https://blog.csdn.net/OjBk_vv/article/details/91045283
+java基础jar包	https://blog.csdn.net/lxw23333/article/details/81280777
+java JDK中的包及其基本功能	https://blog.csdn.net/guanmao4322/article/details/84313591
+Java JDK 说明与安装配置	https://blog.csdn.net/finger_sand/article/details/9249763
+Java jdk中的常用包和类	https://blog.csdn.net/P_Doraemon/article/details/81251651
+java IO体系的学习总结	https://blog.csdn.net/nightcurtis/article/details/51324105
+Java入门	https://blog.csdn.net/Yuan_Xiao_Mu/article/details/106961440
+java入门基础--加密JDK自带的包	https://blog.csdn.net/sinat_27639721/article/details/70666163
+java.lang基础类库	https://blog.csdn.net/chimoren0700/article/details/100797233
+Java 8 中所有的包列表及介绍	https://blog.csdn.net/ayanami001/article/details/48103835
+Java8 Stream使用flatMap合并List	https://blog.csdn.net/weixin_41835612/article/details/83713891
+JAVA之jdk5简单介绍	https://blog.csdn.net/qq_41910103/article/details/83242183
+Java 8实战-Stream map VS flatMap	https://blog.csdn.net/zangdaiyang1991/article/details/83784233
+java 8 Stream中flatMap方法	https://blog.csdn.net/dengjili/article/details/90557392
+JAVA8 Stream接口流式方法 map操作 filter操作以及flatMap操作	https://blog.csdn.net/limingcai168/article/details/85265089
+java8 flatmap的使用	https://blog.csdn.net/enthan809882/article/details/104705387
+java8 .stream().map().collect()用法	https://blog.csdn.net/shine_guo_star/article/details/94383319
+JAVA8 Stream接口，map操作，filter操作，flatMap操作	https://blog.csdn.net/qq_28410283/article/details/80642786
+Java8新特性之stream、map和reduce	https://blog.csdn.net/zl_StepByStep/article/details/82729657
+Java8中Stream的map与flatmap区别	https://blog.csdn.net/lamfang/article/details/89174893
+Java 8 flatMap示例	https://blog.csdn.net/Hatsune_Miku_/article/details/73435618
+java8 stream中map与flatMap的区别	https://blog.csdn.net/xlb744868186/article/details/88368269
+一看就懂系列：java8流的扁平化/什么是扁平化流（图解）	https://blog.csdn.net/reggergdsg/article/details/104055022
+java单例模式五种实现方式	https://blog.csdn.net/JQ_AK47/article/details/54894793
+Java实现单例模式的9种方法	https://blog.csdn.net/weixin_33892359/article/details/86258629
+JAVA零碎要点008---tomcat启动的时候报错了严重: End event threw exception java.lang.reflect.InvocationTargetExcepti	https://blog.csdn.net/lidew521/article/details/70038211
+JAVA项目直接触之新手遇到的问题：org.apache.tomcat.util.digester.	https://blog.csdn.net/weixin_34050389/article/details/91953389
+java调用webservice WSDL形式接口之apache axis方式调用（一）	https://blog.csdn.net/evilcry2012/article/details/54601181
+Java测试方法控制执行顺序@FixMethodOrder	https://blog.csdn.net/a597097186/article/details/101188251
+Java单元测试初体验(JUnit4)	https://blog.csdn.net/weixin_33695450/article/details/86115161
+Java的JUnit单元测试	https://blog.csdn.net/weixin_44613063/article/details/90388657
+深入了解数据校验：Java Bean Validation 2.0（JSR303、JSR349、JSR380）Hibernate-Validation 6.x使用案例【享学Java】	https://blog.csdn.net/f641385712/article/details/96638596
+《剖析缓存系列》—— 熟悉JSR-107 JAVA缓存规范	https://blog.csdn.net/GG_and_DD/article/details/100030023
+[翻译]JSR 133 (Java Memory Model) FAQ	https://blog.csdn.net/novelly/article/details/21473527
+java面试刷题------SSM	https://blog.csdn.net/xy3233/article/details/97003863
+Java Lambda表达式入门	http://blog.csdn.net/renfufei/article/details/24600507
+Java8 Lambda表达式教程	https://blog.csdn.net/ioriogami/article/details/12782141
+Java8 新特性Lambda表达式之入门与探索	https://blog.csdn.net/qq_31150503/article/details/89522980
+Java8新特性（一）-Lambda表达式	https://blog.csdn.net/hhq12/article/details/81168959
+40个高质量Java开发者博客	https://blog.csdn.net/net19880504/article/details/20807403
+100个高质量Java开发者博客	https://blog.csdn.net/weixin_30781775/article/details/95553342
+转:100个高质量Java开发者博客	https://blog.csdn.net/weixin_30898109/article/details/94794235
+推荐几个比较高质量的java学习博客	https://blog.csdn.net/wistbean/article/details/80964377
+100个高质量java开发者博客	https://blog.csdn.net/yiqitony/article/details/17077093
+JAVA8 Lambda 使用实例	https://blog.csdn.net/qq_37176126/article/details/81273195
+java lambda 详解	https://blog.csdn.net/zy1471162851/article/details/93615281
+深入理解Java 8 Lambda（语言篇——lambda，方法引用，目标类型和默认方法）	https://blog.csdn.net/huatx/article/details/52986354
+Java8 lambda表达式	https://blog.csdn.net/hebeind100/article/details/84741695
+java lambda 实际使用总结	https://blog.csdn.net/intelrain/article/details/82993858
+java8(lambda、streamApi、Optional) 在实际开发中的应用	https://blog.csdn.net/qq_34561243/article/details/91441620
+Java8揭秘(二)Java 8中的 Lambda表达式	https://blog.csdn.net/wwwsssaaaddd/article/details/24212693
+Java 8 新特性：Lambda 表达式	https://blog.csdn.net/Sun_2134/article/details/51121205
+深入理解 Java Lambda	https://blog.csdn.net/qq_34438958/article/details/82733253
+Java8 Lambda	https://blog.csdn.net/dhwu43996/article/details/101354862
+Java_ Java8 的 lambda 表达式	https://blog.csdn.net/u010003835/article/details/76833247
+使用Java8的Lambda实现的一个简单案例	https://blog.csdn.net/kongbaidepao/article/details/49801047
+Java通过lambda表达式修改List对象中的属性。	https://blog.csdn.net/m0_46322620/article/details/104938872
+Java 常见内存溢出异常与代码实现	https://blog.csdn.net/majianxin1/article/details/102603468
+深入理解OSGI：Java模块化之路	https://blog.csdn.net/weixin_34250434/article/details/85854240
+Java8中@Contended和伪共享	https://blog.csdn.net/hxg117/article/details/78064632#u7F13_u5B58_u884C
+Java8中用sun.misc.Contended避免伪共享(false sharing)	https://blog.csdn.net/working_brain/article/details/41518369
+Java8的伪共享和缓存行填充--@Contended注释	https://blog.csdn.net/weixin_34337265/article/details/86054966
+IntelliJ IDEA中使用Java8的@sun.misc.Contended注解避免伪内存共享	https://blog.csdn.net/u011386173/article/details/106446677
+Java8使用@sun.misc.Contended避免伪共享	https://blog.csdn.net/yangguosb/article/details/79645476
+Java8的@sun.misc.Contended注解	https://blog.csdn.net/dianyan5139/article/details/101529934
+简单易懂的现代魔法：Java sun.misc.Unsafe类探秘	https://blog.csdn.net/nazeniwaresakini/article/details/104220325
+Java Magic. Part 4: sun.misc.Unsafe	https://blog.csdn.net/weixin_34392906/article/details/94657910
+二刷Java多线程：Java魔法类Unsafe与CAS	https://blog.csdn.net/qq_40378034/article/details/101831909
+JAVA中神奇的双刃剑--Unsafe	https://blog.csdn.net/weixin_30628077/article/details/99083723
+【基本功】Java魔法类：Unsafe应用解析	https://blog.csdn.net/MeituanTech/article/details/98566848
+Java Unsafe类 学习	https://blog.csdn.net/xiaojin21cen/article/details/89880627
+Java魔法类Unsafe详解	https://blog.csdn.net/ly_os/article/details/105786142
+Java-sun.misc.Unsafe	https://blog.csdn.net/wolf_love666/article/details/93619613
+Spark 之 sql解析异常java.lang.StackOverflowError处理	https://blog.csdn.net/weixin_36630761/article/details/75444473
+mat工具MemoryAnalyzer进行分析java内存溢出hprof文件	https://blog.csdn.net/reblue520/article/details/80553503
+java.lang.UnsupportedOperationException at java.util.AbstractList.add(Unknown Source)异常	https://blog.csdn.net/weixin_43596418/article/details/105348426
+JAVA_OPTS参数说明与配置	https://blog.csdn.net/rgq562248600/article/details/8211700
+jvm(四)--java内存区域之直接内存	https://blog.csdn.net/qq_25940921/article/details/86238755
+Java内存溢出	https://blog.csdn.net/liyancheng984807972/article/details/9704533
+Java堆外内存泄露分析	https://blog.csdn.net/unix21/article/details/79161250
+Java的内存分配和管理	https://blog.csdn.net/lin20044140410/article/details/79060053
+Java之内存模型之堆内存（Heap）	https://blog.csdn.net/iteye_3352/article/details/82678068
+Java 内存模型中堆与栈的区别	https://blog.csdn.net/weixin_42449534/article/details/98043281
+java 堆内存与JVM参数	https://blog.csdn.net/zljjava/article/details/20463765
+Java8内存模型（关于永久区、元数据Metaspace、老年代、新生代）	https://blog.csdn.net/kdy527/article/details/86511693
+java内存管理（堆、栈、方法区）	https://blog.csdn.net/hd12370/article/details/82811208
+JAVA虚拟机内存结构	https://blog.csdn.net/u012475669/article/details/79135941
+深入理解Java虚拟机JVM高级特性与最佳实践阅读总结—— 第十二章 Java内存模型与线程	https://blog.csdn.net/sagwsagw/article/details/59147073
+使用Memory Analyzer tool分析JAVA虚拟机的内存溢出问题	https://blog.csdn.net/tjjzs/article/details/40048773
+翻译Java虚拟机的结构	https://blog.csdn.net/weixin_33729196/article/details/86127578
+MS系列：JavaVM--内存结构及内存溢出	https://blog.csdn.net/qq_26182553/article/details/79930374
+Java虚拟机内存基础、垃圾收集算法及JVM优化	https://blog.csdn.net/weixin_30767921/article/details/95599065
+实战java虚拟机01- 认识java虚拟机的基本结构	https://blog.csdn.net/it_freshman/article/details/80388866
+深入理解Java虚拟机（四）——JVM性能调优监控工具	https://blog.csdn.net/z785495295/article/details/83473307
+JAVA四种引用方式	http://blog.csdn.net/u014086926/article/details/52106589#
+Android NDK开发之Jni调用Java对象	https://blog.csdn.net/AndroidLiuBin/article/details/11518189
+Java String类详解	https://blog.csdn.net/fengyuzhengfan/article/details/38468365
+代码审计[java安全编程]	https://blog.csdn.net/qq_39325340/article/details/80829661
+Java程序的输入与输出 	https://blog.csdn.net/jadesun/article/details/1335562
+《JAVA语言程序设计》期末考试试题及答案	https://blog.csdn.net/Miracle1203/article/details/103726640
+Java工程师成神之路	https://blog.csdn.net/kongjiea/article/details/50262321
+深入理解 Java G1 垃圾收集器--转	https://blog.csdn.net/aebdm757009/article/details/101496705
+JAVA实现商品信息管理系统	https://blog.csdn.net/vegetable_haker/article/details/102556311
+Java中的逃逸分析和TLAB以及Java对象分配	https://blog.csdn.net/yangzl2008/article/details/43202969#
+实战JAVA虚拟机：在TLAB上分配对象	https://blog.csdn.net/xunzaosiyecao/article/details/83338207
+JVM 之 Java对象	https://blog.csdn.net/weixin_40792878/article/details/87900428
+Java堆——Tlab分析，介绍	https://blog.csdn.net/WeiJiFeng_/article/details/82054277
+Java_JVM_逃逸分析技术_栈上分配_标量替换	https://blog.csdn.net/fantaxy025025/article/details/84242133
+ Java对象分配简要流程	https://blog.csdn.net/weixin_33858485/article/details/89444210
+Java 堆内存(Heap)	https://blog.csdn.net/jack86312031/article/details/84473089
+深入理解java虚拟机-3 内存分配与回收策略	https://blog.csdn.net/bigcaicai1995/article/details/47250553
+Java 内存 新生代老年代占比	https://blog.csdn.net/jinjianghai/article/details/93894827
+java内存查看与分析	https://blog.csdn.net/iteye_13353/article/details/81900405
+【JVM】初识JAVA工具JMC，java mission control，飞行记录器（黑匣子），IBM heapAnalyzer使用	https://blog.csdn.net/chiweitree/article/details/52922887
+深入理解Java枚举类型(enum)	http://blog.csdn.net/javazejian/article/details/71333103
+深入理解Java类型信息(Class对象)与反射机制	http://blog.csdn.net/javazejian/article/details/70768369
+【Java线程】Java内存模型总结	http://blog.csdn.net/vking_wang/article/details/8574376
+深入理解Java注解类型(@Annotation)	http://blog.csdn.net/javazejian/article/details/71860633
+深入理解Java并发之synchronized实现原理	http://blog.csdn.net/javazejian/article/details/72828483
+深入理解Java类加载器(ClassLoader)	http://blog.csdn.net/javazejian/article/details/73413292
+Java并发编程-无锁CAS与Unsafe类及其并发包Atomic	http://blog.csdn.net/javazejian/article/details/72772470
+全面理解Java内存模型(JMM)及volatile关键字	http://blog.csdn.net/javazejian/article/details/72772461
+全面理解Java内存模型(JMM)及volatile关键字	https://blog.csdn.net/javazejian/article/details/72772461#%E7%90%86%E8%A7%A3java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F%E4%B8%8Ejava%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B
+深入剖析java并发之阻塞队列LinkedBlockingQueue与ArrayBlockingQueue	http://blog.csdn.net/javazejian/article/details/77410889
+全面理解Java内存模型	https://blog.csdn.net/weixin_33895516/article/details/90590931
+Java多线程 -- 深入理解JMM（Java内存模型） --（一）基础	https://blog.csdn.net/fw0124/article/details/6650483
+java内存模型(JMM)	https://blog.csdn.net/wandoubi/article/details/80147858
+【Java】JMM内存模型和JVM内存结构	https://blog.csdn.net/weixin_30421525/article/details/96647554
+JVM内存模型和JMM(Java内存模型)的异同小结	https://blog.csdn.net/libafei/article/details/80385208
+Java内存模型JMM	https://blog.csdn.net/qq_39707130/article/details/93915667
+JVM成神之路-Java内存模型（JMM）	https://blog.csdn.net/w372426096/article/details/80898407
+浅析Java中的内存机制	https://blog.csdn.net/weixin_33847182/article/details/94021497
+Java内存回收机制--Java引用的种类（强引用、弱引用、软引用、虚引用）	https://blog.csdn.net/daijin888888/article/details/49949283
+idea插件篇之java内存分析工具(JProfiler)	https://blog.csdn.net/qq_22194659/article/details/83829891
+Java JVM（十一）：MAT 工具的使用	https://blog.csdn.net/u014077165/article/details/48492353
+4类 JavaScript 内存泄露及如何避免	https://blog.csdn.net/aijia1857/article/details/101134819
+java内存泄漏分析	https://blog.csdn.net/wflh323/article/details/87883235
+一次JAVA内存泄漏的定位分析过程	https://blog.csdn.net/moshenglv/article/details/82216240
+Docker环境下Java应用的堆内存控制	https://blog.csdn.net/kimylrong/article/details/52448589
+Docker安装与java-DockerFile的创建	https://blog.csdn.net/yueaini10000/article/details/84589392
+tomcat内存溢出设置JAVA_OPTS	https://blog.csdn.net/cynhafa/article/details/84159956
+Docker环境下Java应用的最大内存和堆内存的设置	https://blog.csdn.net/J_bean/article/details/79943004
+deepin（Ubuntu）jdk 出现Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=gasp	https://blog.csdn.net/huaxin_sky/article/details/84642035
+使用docker-compose定制Javaweb环境	https://blog.csdn.net/weixin_34060741/article/details/92515886
+Docker-Compose安装Java Web实例	https://blog.csdn.net/weixin_34395205/article/details/92515868
+之前不是说在java8的时候要将HotSpot与JRockit整合吗？	https://blog.csdn.net/John_Java/article/details/84701901
+JVM(一) ：Java内存区域和HotSpot介绍	https://blog.csdn.net/dtlscsl/article/details/94184493
+java jvm IBM J9 VM / Oracle Sun HotSpot VM /Oracle Bea JRockit VM /JBuilder VM	https://blog.csdn.net/siemens800/article/details/83285132
+如何利用 JConsole观察分析Java程序的运行，进行排错调优	https://blog.csdn.net/iteye_15136/article/details/81961638
+使用jvisualvm监控JAVA程序，注意对程序性能的影响	https://blog.csdn.net/ssergsw/article/details/9934719
+Java 性能分析工具	https://blog.csdn.net/iteye_16264/article/details/82163867
+Jvisualvm--JAVA性能分析工具	https://blog.csdn.net/weixin_34138521/article/details/93072503
+《深入理解java虚拟机+JVM高级特性和最佳实践》 读书笔记	https://blog.csdn.net/shangguanwuxi/article/details/37933737
+深入理解JVM—JVM内存模型（很经典） （部分摘自 深入JAVA虚拟机 周志明著）	https://blog.csdn.net/liupeng900605/article/details/7826573
+深入理解Java虚拟机：JVM高级特性与最佳实践（第2版）PDF 下载	https://blog.csdn.net/turodog/article/details/88076762
+java.util包下的常用类和方法（工具包）	https://blog.csdn.net/qq_41799291/article/details/88410025
+java.lang.OutOfMemoryError: Java heap space错误及处理办法(收集整理、转)	https://blog.csdn.net/jxzxm1_2/article/details/2499751
+java.lang.OutOfMemoryError:Java heap space的解决方法	https://blog.csdn.net/puqutogether/article/details/44151601
+java生成json时产生栈溢出错误问题的解决	https://blog.csdn.net/dongdong9223/article/details/52460691
+Java性能优化攻略详解	http://blog.csdn.net/hj7jay/article/details/51451624
+jps命令(Java Virtual Machine Process Status Tool)	http://blog.csdn.net/fenglibing/article/details/6411932
+java 8 JVM性能优化	https://blog.csdn.net/ronon77/article/details/84710541
+介绍Java GC种类，并更换 调优GC	https://blog.csdn.net/roland101/article/details/2203461
+tomcat 启动参数 Xms, Xmx, XX:MaxNewSize, XX:PermSize, -XX:MaxPermSize, Djava.awt.headless	https://blog.csdn.net/weixin_34405925/article/details/85709917
+java-xx参数介绍及调优总结	https://blog.csdn.net/weixin_39407066/article/details/84582380
+java面试之JVM参数调优详解	https://blog.csdn.net/AReallyMan/article/details/99889580
+[Java虚拟机][优化实战][使用VisualVM监控和加速Intellij Idea启动]	https://blog.csdn.net/u011863951/article/details/81589423
+一篇文章教你弄懂java CMS垃圾回收日志	https://blog.csdn.net/TreeShu321/article/details/106173507
+Java garbage collection探索	https://blog.csdn.net/buzhidaolvtu/article/details/72917882
+Java资源大全中文版	https://blog.csdn.net/wh211212/article/details/75196675
+awesome-java	https://blog.csdn.net/daqiang012/article/details/92839627
+scala学习 --------java实现并发编程（理解）	https://blog.csdn.net/Z_Date/article/details/84349435
+IDEA上Spark——Java、Scala的本地测试版与集群运行版	https://blog.csdn.net/HaixWang/article/details/78608756
+Java岗开发3年，公司临时抽查算法，离职后这几题我记一辈子	https://blog.csdn.net/EnjoyEDU/article/details/105252061
+Spark1.4.1 编程指南 (Scala/Java/Python)	https://blog.csdn.net/u011414200/article/details/48239521
+java8下spark-streaming结合kafka编程（spark 2.3 kafka 0.10）	https://blog.csdn.net/qq_24084925/article/details/80842534
+Java Yarn 获取集群队列负载	https://blog.csdn.net/banana1006034246/article/details/91986878
+【转】几种任务调度的 Java 实现方法与比较	https://blog.csdn.net/little_bill/article/details/84015889
+RestHighLevelClient封装使用，Java调用ES客户端 [支持ES6.x]	https://blog.csdn.net/AirTrioa/article/details/99741983
+【ES】Java High Level REST Client 使用示例（增加修改）	https://blog.csdn.net/dingligu1834/article/details/101272308
+ES Java High Level REST Client 聚合返回值解析总结	https://blog.csdn.net/woaitingting1985/article/details/105816726
+Java High Level REST Client 使用教程	https://blog.csdn.net/shenbururen/article/details/105986347
+es java 聚合方法——stats基本统计 count、max、min、avg和sum	https://blog.csdn.net/qq_34624315/article/details/81737515
+es Java 聚合方法——多字段聚合后输出聚合count	https://blog.csdn.net/qq_34624315/article/details/81018125
+es java 聚合方法——cardinality基数统计	https://blog.csdn.net/qq_34624315/article/details/81736139
+Java解析ES查询结果的聚合JSONObject	https://blog.csdn.net/u010858605/article/details/88355821
+关于java.lang.NoClassDefFoundError: org/apache/lucene/analysis/Analyzer错误的追查	https://blog.csdn.net/qwe3642/article/details/81284576
+JAVA多线程之UncaughtExceptionHandler——处理非正常的线程中止	https://blog.csdn.net/u013256816/article/details/50417822
+Java安全——安全管理器、访问控制器和类装载器	https://blog.csdn.net/wwwdc1012/article/details/82287474
+es Java 聚合方法——单个字段去重并输出部分字段信息	https://blog.csdn.net/qq_34624315/article/details/81017661
+idea通过数据库生成java实体类（lombok版）	https://blog.csdn.net/lp2388163/article/details/86480480
+使用idea根据数据库表生成java model类，基于hibernate	https://blog.csdn.net/tianyaleixiaowu/article/details/78204453
+代码质量管理 阿里Java插件 + Upsource	https://blog.csdn.net/qijiqiguai/article/details/78321498
+java内存工具VisualVM的简单使用以及与Idea集成	https://blog.csdn.net/KingBoyWorld/article/details/75579606
+java-jsoup解析html页面的内容	https://blog.csdn.net/q383965374/article/details/10071307
+IDEA Java变量显示为Val类型，get, set方法隐藏	https://blog.csdn.net/SuiXin_123/article/details/85014300
+java 如何解析后台返回的key和value都未知的json	https://blog.csdn.net/chaoyangsun/article/details/79683407
+JAVA前台往后台传值出现乱码解决办法	https://blog.csdn.net/qq_36973850/article/details/80227418
+java后台中文编码问题	https://blog.csdn.net/qq_32847235/article/details/79119174
+java前后台 后台之间转码	https://blog.csdn.net/qq_42257983/article/details/83104367
+java写后台接口时出现乱码的解决方式	https://blog.csdn.net/qq_34698126/article/details/53009412
+gRPC Java代码生成	https://blog.csdn.net/lyjshen/article/details/52300212
+如何在IDEA上编写Spark程序?(本地+集群+java三种模式书写代码)	https://blog.csdn.net/weixin_44318830/article/details/104422603
+idea环境下基于Gradle的Kotlin/Java的工程和代码互转	https://blog.csdn.net/ytfunnysite/article/details/78712235
+java后台中文乱码	https://blog.csdn.net/qq_38726370/article/details/95998208
+idea java	https://blog.csdn.net/weixin_30731287/article/details/97131398
+java 依赖包冲突，使用maven的Shade方式解决	https://blog.csdn.net/u011250186/article/details/100105068
+使用maven插件对java工程进行打包	https://blog.csdn.net/chenzhou123520/article/details/84340273
+BAT 大厂Java 面试题集锦之核心篇附参考答案	https://blog.csdn.net/universsky2015/article/details/102927806
+JavaEE面试题	https://blog.csdn.net/wudinaniya/article/details/76207237
+kafkaUtils提示User class threw exception: java.lang.AbstractMethodError	https://blog.csdn.net/lvtula/article/details/97937847
+Java网络爬虫crawler4j学习笔记 IdleConnectionMonitorThread类	https://blog.csdn.net/woshiwanghao_hi/article/details/53121436
+java使用HttpClient线程池支持大量并发发起http请求	https://blog.csdn.net/liqi_q/article/details/78064480
+Java httpClient 使用连接池支持多线程高并发	https://blog.csdn.net/qzqanzc/article/details/84344655
+Java堆外内存溢出问题排查，top命令下java服务res值上升	https://blog.csdn.net/PioneerX_x/article/details/81489702
+JAVA时区	https://blog.csdn.net/dmw412724/article/details/80284740
+java 之OLAP引擎Mondrian	https://blog.csdn.net/goustzhu/article/details/5859412
+java开源的OLAP引擎--mondrian 	https://blog.csdn.net/angelseyes/article/details/3110624
+java开源的OLAP引擎--mondrian	https://blog.csdn.net/iteye_8301/article/details/81659004
+首发-java配置CORSFilter过滤器实现跨域	https://blog.csdn.net/javawangp/article/details/98970868
+JAVA面试题：Spring中bean的生命周期	https://blog.csdn.net/weixin_34174105/article/details/85739351
+Java单元测试(Junit+Mock+代码覆盖率)	https://blog.csdn.net/iteye_14419/article/details/82473085
+java.sql.SQLNonTransientConnectionException: Cannot load connection class because of underlying exce...	https://blog.csdn.net/weixin_30748995/article/details/95963328
+[解决]java.sql.SQLNonTransientConnectionException: Cannot load connection class because of underlying	https://blog.csdn.net/weixin_43460251/article/details/104349668
+IntelliJ IDEA 14.0.2 Maven项目为什么不能右键新建Java文件的解决办法！！！偶然发现...	https://blog.csdn.net/weixin_30338461/article/details/99589884
+Neo4j - 原生Java API	https://blog.csdn.net/zoubf/article/details/54910748
+java -jar -Dspring.config.location=conf/application.properties noah.jar	https://blog.csdn.net/huaweitman/article/details/77711871
+ymal、json通过swagger-codegen反向生成java 接口代码	https://blog.csdn.net/yunmengmin/article/details/84662994
+swagger-codegen-cli 生成springboot、java、springmvc代码	https://blog.csdn.net/yl_hahha/article/details/80294033
+框架：java数据持久化方式[jdbc,mybatis,hibernate,springjdbc]优缺点	https://blog.csdn.net/lgh1019/article/details/94037886
+Java RMI与RPC的区别	https://blog.csdn.net/a631278993/article/details/102259415
+Java打造RPC框架(二):11个类实现简单Java RPC	https://blog.csdn.net/we_phone/article/details/78949856
+JAVA实现简单的RPC框架	https://blog.csdn.net/beyond_qjm/article/details/79083126
+利用java实现简单的RPC服务调用	https://blog.csdn.net/qq_31514235/article/details/84964981
+RPC原理及JAVA实现	https://blog.csdn.net/u011350550/article/details/80582837
+JAVA中几种常用的RPC框架介绍	https://blog.csdn.net/zhaowen25/article/details/45443951
+java实现 远程调用例子 rpc	https://blog.csdn.net/u011389515/article/details/80549659
+BTC比特币虚拟货币java通过rpc调用钱包	https://blog.csdn.net/liu1765686161/article/details/79446959
+编写自己rpc框架——Java RPC的实现	https://blog.csdn.net/qq_18860653/article/details/77417880
+非常有用：简单的RPC java实现	https://blog.csdn.net/mawanli4544405/article/details/8440276
+kafka（十一）：Kafka Java Consumer的实现	https://blog.csdn.net/u010886217/article/details/83154986
+博主在阿里笔试中拿了0分，竟是因为分不清楚 Java 输入类 nextLine 与 next 两个方法的区别	https://blog.csdn.net/Geffin/article/details/105253700
+【Spark】Graphx开发环境搭建（Java）	https://blog.csdn.net/qq_27466159/article/details/103827066
+java 连接gremlin 简单的操作	https://blog.csdn.net/weixin_41907245/article/details/80115797
+阿里Java工程师招聘，“编码规范认证”成加分项	https://blog.csdn.net/chiyazui5047/article/details/100799787
+Java利器之UML类图详解	https://blog.csdn.net/xiehuimx/article/details/53427452
+java进阶之UML类图和时序图	https://blog.csdn.net/a15723207292/article/details/94546155
+java 时序图	https://blog.csdn.net/c_z_w/article/details/81634652
+零基础入门学习Java，这几本经典的Java学习书籍，可以推荐你看下，绝对受益匪浅！	https://blog.csdn.net/allweak/article/details/92798819
+学java反射，看这篇就够了	https://blog.csdn.net/Java_programmer_liao/article/details/106013181
+空间数据索引RTree（R树）完全解析及Java实现	https://blog.csdn.net/weixin_34343308/article/details/94752051
+JavaScript ES6中export及export default的区别	https://blog.csdn.net/qq_35844177/article/details/78281509
+2018年阿里巴巴关于java重要开源项目汇总	https://blog.csdn.net/qq_26676207/article/details/86222804
+Java格式化SQL语句	https://blog.csdn.net/kanpiaoxue/article/details/84808420
+从入门到精通，Java学习路线导航（附学习资源）	https://blog.csdn.net/java_sha/article/details/100895297
+javascript新特性let,function*,yield,promise	https://blog.csdn.net/pusongyang/article/details/40502237
+Java三大主流开源工作流引擎技术分析	https://blog.csdn.net/CHJ_20160630/article/details/101248039
+深入理解javascript之this	http://blog.csdn.net/mevicky/article/details/46659273
+JavaScript --Array 对象常用方法	https://blog.csdn.net/zz410675629/article/details/38948559
+JavaScript数组方法总结	https://blog.csdn.net/Letasian/article/details/78481037
+重新认识javascript--Array遍历方法	https://blog.csdn.net/qq_34223816/article/details/79573045
+JAVA使用easyexcel easypoi 操作Excel	https://blog.csdn.net/lijinzhou2017/article/details/83108550
+POI及EasyExcel(Java 操作 Excel)	https://blog.csdn.net/weixin_42998267/article/details/105704303
+【Spring Boot】使用Spring Boot来搭建Java web项目以及开发过程	https://blog.csdn.net/hui008/article/details/81134437
+java中使用activiti（工作流）	https://blog.csdn.net/Jxq_IT/article/details/85228609
+java工作流Activity、flowable	https://blog.csdn.net/LONG_Yi_1994/article/details/83902521
+java项目使用pageHelper做分页	https://blog.csdn.net/keepd/article/details/71602025
+mybatis错误——java.io.IOException: Could not find resource com/xxx/xxxMapper.xml	https://blog.csdn.net/u010648555/article/details/70880425
+Java - Error: Attribute value must be constant	https://blog.csdn.net/u012515223/article/details/43614547
+学习笔记:微服务-25 spring boot 项目中使用JavaMelody监控	https://blog.csdn.net/oLinBSoft/article/details/104911593
+Java项目性能监控和调优工具-Javamelody	https://blog.csdn.net/iteye_11495/article/details/82546755
+五大最佳开源java性能监控工具	https://blog.csdn.net/javasvip/article/details/78004527
+Springboot整合javamelody	https://blog.csdn.net/yuppy/article/details/80645667
+Java应用程序监控JavaMelody	https://blog.csdn.net/weixin_43301156/article/details/89326974
+JavaMelody、prob系统监控工具使用配置	https://blog.csdn.net/lifuxiangcaohui/article/details/24364853
+JavaMelody 开源的系统监控工具～	https://blog.csdn.net/nirvana_blanks/article/details/83763323
+SpringBoot 集成 JavaMelody实现 性能监控	https://blog.csdn.net/weixin_38319645/article/details/85039909
+JavaMelody监控Spring Service层和Spring Controller层	https://blog.csdn.net/chen517611641/article/details/51009843
+java中的注解大全@controller、@service、@repository等	https://blog.csdn.net/ss_aa_aa/article/details/78093116
+利用btrace在线监控java程序状态	https://blog.csdn.net/MINEZHANGHAO/article/details/20224339
+通过JAVA读取Visio	https://blog.csdn.net/liu36032075/article/details/40509423
+Java 利用POI操作PPT	https://blog.csdn.net/shubingzhuoxue/article/details/51313761
+Apache POI：Java程序读写Microsoft Office格式文档——简单完整实例讲解	https://blog.csdn.net/sinat_26342009/article/details/45769685
+com4j学习（1）：Java操作Visio之Java读取Visio图形关系并存储到XML文件中	https://blog.csdn.net/qq_32166627/article/details/81451106
+在Java中使用 Apache POI 处理Excel 文档详解	https://blog.csdn.net/my_learning_road/article/details/79788401
+JNI简单实现Java调用C++/C的HelloWorld	https://blog.csdn.net/Ididcan/article/details/6828982
+A Simple POI3.8 Excel Download and Upload in Java Web	https://blog.csdn.net/abrahu/article/details/7450714
+Java ThreadLocal使用	https://blog.csdn.net/mazaiting/article/details/85002290
+Java中ThreadLocal的使用	https://blog.csdn.net/dap769815768/article/details/96724607
+JAVA中ThreadLocal用法介绍	https://blog.csdn.net/jianggujin/article/details/51064034
+java ThreadLocal(应用场景及使用方式及原理)	https://blog.csdn.net/qilixiang012/article/details/38293689
+java中ThreadLocal使用	https://blog.csdn.net/chinabestchina/article/details/104809286
+java学习记录--ThreadLocal使用案例	https://blog.csdn.net/kepler08/article/details/71191180
+java ThreadLocal用法示例	https://blog.csdn.net/weixin_40136667/article/details/86694307
+Java学习记录--ThreadLocal使用案例	https://blog.csdn.net/u012706811/article/details/53231598
+轻松学，Java 中的代理模式及动态代理	http://blog.csdn.net/briblue/article/details/73928350
+深入JAVA注解(Annotation)：自定义注解 (转)	https://blog.csdn.net/weixin_33858249/article/details/93242241
+深入理解Java注解类型(@Annotation)	https://blog.csdn.net/javazejian/article/details/71860633
+Java 注解（Annotation）	https://blog.csdn.net/weixin_43907332/article/details/86437725
+Java反射：使用Annotation功能	https://blog.csdn.net/pan_junbiao/article/details/85249614
+Java注解（Annotation）原理详解	https://blog.csdn.net/lylwo317/article/details/52163304
+秒懂，Java 注解 （Annotation）你可以这样学	https://blog.csdn.net/briblue/article/details/73824058
+对java annotation的理解	https://blog.csdn.net/iteye_12150/article/details/82522565
+Java Annotation详解（一）： 理解和使用Annotation	https://blog.csdn.net/weixin_30432007/article/details/98553559
+Java Annotation原理分析(一)	https://blog.csdn.net/blueheart20/article/details/18725801
+Java学习总结——Annotation	https://blog.csdn.net/QQ20170908/article/details/87377970
+Java之注释（Annotation）	https://blog.csdn.net/hongxue8888/article/details/90319473
+Java基础之Annotation的作用	https://blog.csdn.net/weixin_41873431/article/details/79998133
+Java中Annotation用法	https://blog.csdn.net/u013273344/article/details/79170747
+Java关键字之native，strictfp，transient，volatile	https://blog.csdn.net/iteye_18945/article/details/81801562
+java中的Volatile，transient，native关键字	https://blog.csdn.net/a379039233/article/details/6155024
+Java关键字之native，strictfp，transient，volatile 	https://blog.csdn.net/kittyshanny/article/details/5481024
+Java中的native,transient，volatile和strictfp关键字	https://blog.csdn.net/gigipop/article/details/7430837
+java关键字transient volatile native	https://blog.csdn.net/weixin_43485671/article/details/97288456
+Java中的几个不常用关键字_native_strictfp_transient_volatile	https://blog.csdn.net/fantaxy025025/article/details/83558194
+Java native关键字	https://blog.csdn.net/cumt168/article/details/3404026
+Java中不常见的关键字 / 修饰符(volatile , native , transient)	https://blog.csdn.net/xingbaozhen1210/article/details/80081379
+java-Transient关键字、Volatile关键字介绍和序列化、反序列化机制、单例类序列化	https://blog.csdn.net/u010156024/article/details/48345257
+Java关键字之native，strictfp，transient，volatile，assert	https://blog.csdn.net/orzxlee/article/details/77917202
+JAVA线程池的几种使用方式以及线程同步详解	https://blog.csdn.net/yingziisme/article/details/82955496
+Java线程池的运行原理以及使用详解	https://blog.csdn.net/zw19910924/article/details/80298593
+Java线程池七个参数详解	https://blog.csdn.net/ye17186/article/details/89467919
+java 线程池详解及四种线程池用法介绍	https://blog.csdn.net/u013276277/article/details/78530322
+java线程池详细入门教程即源码解析	https://blog.csdn.net/liuyuanq123/article/details/80282221
+Java线程池关键参数及线程池类型选择	https://blog.csdn.net/qq_31439011/article/details/100824461
+java线程池newFixedThreadPool详解	https://blog.csdn.net/yoyolity/article/details/51116357
+java线程池详解	https://blog.csdn.net/qq_35794278/article/details/81391232
+Java线程池使用说明	https://blog.csdn.net/mxw2552261/article/details/79999967
+详解Java线程池参数	https://blog.csdn.net/w8y56f/article/details/87440273
+线程池的使用场景以及java中ThreadPoolExecutor类的讲解	https://blog.csdn.net/qq_26012495/article/details/84325445
+Java 理论与实践：线程池与工作队列(from ibm)	https://blog.csdn.net/zxqian/article/details/64133
+Java 线程池详解（一）：线程池实现原理及使用	https://blog.csdn.net/u013568373/article/details/96832495
+java线程池的正确使用方式，线程池参数分析	https://blog.csdn.net/h2604396739/article/details/83419902
+Java-线程池专题 (美团)	https://blog.csdn.net/diaopai5230/article/details/101216930
+【转载】从使用到原理学习Java线程池	https://blog.csdn.net/weixin_30678821/article/details/96744398
+Java线程池使用及详解	https://blog.csdn.net/sunayn/article/details/105549913
+Java transient关键字使用小记	https://blog.csdn.net/weixin_33841503/article/details/85588076
+java基础——transient	https://blog.csdn.net/weixin_34224941/article/details/85898951
+Java中不常用关键字transient	https://blog.csdn.net/DengDeng_G/article/details/79020672
+Java基础之HashMap原理	https://blog.csdn.net/yange1025/article/details/83926232
+Java HashMap 原理	https://blog.csdn.net/afandaafandaafanda/article/details/49120379
+java轻量级IOC框架Guice	https://blog.csdn.net/weixin_33805992/article/details/85682934
+Java中synchronized 用在static方法和非static方法上面的区别	https://blog.csdn.net/weixin_43230063/article/details/99856492
+maven命令行创建web项目报错：java.lang.NoClassDefFoundError: org/apache/commons/lang/StringUtils...	https://blog.csdn.net/weixin_30682415/article/details/95452220
+Java 8新特性-教程	https://blog.csdn.net/qq122516902/article/details/103975404
+Java8新特性教程	https://blog.csdn.net/yu474451566/article/details/22580339
+汪文Java8新特性及实战视频教程完整版	https://blog.csdn.net/Johnny1327/article/details/83929860
+汪大神Java8新特性及实战视频教程完整版	https://blog.csdn.net/qq_42702408/article/details/81064583
+java 8简明教程（新特性）	https://blog.csdn.net/zhang434/article/details/21693701
+Java多线程之线程池7大参数、底层工作原理、拒绝策略详解	https://blog.csdn.net/weixin_41910694/article/details/90676705
+Java多线程学习（一）Java多线程入门	https://blog.csdn.net/qq_34337272/article/details/79640870
+Java多线程系列--“JUC锁”01之 框架	https://blog.csdn.net/weixin_34334744/article/details/92061868
+Java-JUC包中的锁-概述（一）	https://blog.csdn.net/yjp198713/article/details/78941709
+java 公平锁	https://blog.csdn.net/qilixiang012/article/details/45197935
+Java多线程系列--“JUC锁”	https://blog.csdn.net/Together_CZ/article/details/68960490
+Java多线程系列之JUC锁 - ReentrantLock	https://blog.csdn.net/weixin_34306593/article/details/92608845
+java多线程--“锁”总览	https://blog.csdn.net/wangxiaotongfan/article/details/51799258
+java多线程系列--“JUC锁”01之 框架	https://blog.csdn.net/lsm18829224913/article/details/81590278
+分享6个国内优秀Java后台管理框架的开源项目,建议收藏！	https://blog.csdn.net/emprere/article/details/98859840
+java.util示例代码大全-转载	https://blog.csdn.net/yunkh/article/details/83250054
+非常棒的java学习资源	https://blog.csdn.net/itsoftchenfei/article/details/54344075
+selected open source java projects (http://java-source.net/)	https://blog.csdn.net/terabits/article/details/850355
+国外程序员整理的Java资源大全	https://blog.csdn.net/luozhonghua2014/article/details/66479497
+jstack分析Linux java线程卡死问题	https://blog.csdn.net/u012741250/article/details/80454993
+Linux下查找java进程耗用cpu最高的线程方法	https://blog.csdn.net/weixin_33866037/article/details/91669017
+Java JUC总结	https://blog.csdn.net/qq_40121502/article/details/88219548
+java多线程--JUC集合框架	https://blog.csdn.net/wangxiaotongfan/article/details/51891167
+Java多线程系列目录(共43篇)	https://blog.csdn.net/weixin_30426065/article/details/97271143
+Java List的remove()方法陷阱	https://blog.csdn.net/z69183787/article/details/88102739
+Java5 多线程(九)--jdk1.5同步集合	https://blog.csdn.net/iteye_3753/article/details/82483209
+Java多线程系列 JUC集合01 框架	https://blog.csdn.net/weixin_34055910/article/details/93424901
+狂神说Java的多线程课程总结	https://blog.csdn.net/qq_43558964/article/details/105531778
+JAVA基础（超详细） - IO 集合 多线程	https://blog.csdn.net/weixin_34117522/article/details/92392187
+详解阿里Java面试题——多线程精选53题【含答案】，面试必备	https://blog.csdn.net/Java_supermanNO1/article/details/102642952
+在培训机构花了好几万学Java，当了程序员还常被鄙视，这是招谁惹谁了？	https://blog.csdn.net/siyuanwai/article/details/106074442
+Java volatile作用以及为何不能保证原子性	https://blog.csdn.net/ZHurric/article/details/106813078
+无锁原理详解(CAS,Compare and swap,比较和交换)、java无锁类的使用及无锁算法详细介绍	https://blog.csdn.net/cxzhq2002/article/details/80758583
+JAVA面试题（锁）	https://blog.csdn.net/wang_lifeng/article/details/107006228
+Java对象的生命周期与垃圾回收以及四种引用	https://blog.csdn.net/dread_naught/article/details/41522635#
+Java final变量的生命周期和内存回收	https://blog.csdn.net/m0_37589878/article/details/74779593
+Java垃圾回收机制与引用类型	https://blog.csdn.net/oTengYue/article/details/48108839
+Java 中对象的生命周期与垃圾回收	https://blog.csdn.net/a58YYXG/article/details/80567718
+Java的四种引用类型与ReferenceQueue	https://blog.csdn.net/u013679744/article/details/73928727
+Java引用总结【草案】（转载）	https://blog.csdn.net/huangxiang13007/article/details/4648046
+Java引用总结【草案】	https://blog.csdn.net/silentbalanceyh/article/details/4468368
+Java中的垃圾回收与对象生命周期	https://blog.csdn.net/weixin_30945319/article/details/95828602
+Java对象的生命周期 与 垃圾回收	https://blog.csdn.net/wangqiaowqo/article/details/84486346
+JAVA中shiro框架中使用SimpleHash加盐进行密码加密的过程	https://blog.csdn.net/qq_45359716/article/details/105251923
+java的MD5加密的几种方法	https://blog.csdn.net/qi923701/article/details/72930412
+加密解密（四）--Java中的Hash算法	https://blog.csdn.net/qq_24280381/article/details/72024860
+Java加密和解密	https://blog.csdn.net/xiadaoceshen/article/details/8464476
+java版MD5转换成php版	https://blog.csdn.net/iteye_7193/article/details/82648633
+java所有的源代码	https://blog.csdn.net/wangyanlong0107/article/details/84275812
+java常见的加密方式	https://blog.csdn.net/chengshi2248/article/details/100784650
+Java登录加密。【非shiro框架】	https://blog.csdn.net/Abubu123/article/details/72954377
+java实现MD5多次进行加密加盐操作	https://blog.csdn.net/qq_40606397/article/details/98172664
+[加密]JAVA与.NET加密结果相同的MD5算法	https://blog.csdn.net/lc775102429/article/details/52181904
+C# MD5及盐值加密，对应java的Md5PasswordEncoder	https://blog.csdn.net/jie_rookie/article/details/103119220
+java安全框架-Shiro学习笔记（八）-加密工具类	https://blog.csdn.net/qq_26504875/article/details/51775526
+java.lang.ClassCastException: java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType	https://blog.csdn.net/woshisap/article/details/7711412
+C# MD5和JavaMD5加密算法相互转换	https://blog.csdn.net/wt_kelly/article/details/84428696
+Java GC工作原理以及Minor GC、Major GC、Full GC、GC收集相关算法整理	https://blog.csdn.net/lovexiaoqiqi/article/details/81737213
+常见Java GC Root	https://blog.csdn.net/qq_34147021/article/details/86516235
+Java GC基本算法	https://blog.csdn.net/HEYUTAO007/article/details/38151581
+Java IO层次体系结构	https://blog.csdn.net/qq_21870555/article/details/82999195
+Java IO流及文件操作详解	https://blog.csdn.net/h1328523782/article/details/38818273
+[四] JavaIO之类层次体系结构横向比对	https://blog.csdn.net/noteless/article/details/82599347
+Java IO流的层次结构	https://blog.csdn.net/qq_24831411/article/details/84764243
+java io 层次结构图 io详解	https://blog.csdn.net/lexang1/article/details/77647545
+Java IO流类层次图	https://blog.csdn.net/NingIT/article/details/100023045
+IO流家族层级结构图介绍（Java）	https://blog.csdn.net/hfut_why/article/details/83720228
+Java IO 类继承结构图汇总	https://blog.csdn.net/luofenghan/article/details/75503750
+Java笔记十九.深入解析I/O编程之流的层次结构	https://blog.csdn.net/u012637501/article/details/43647725
+详解JAVA I/O之二——java.io层次结构	https://blog.csdn.net/xijiaohuangcao/article/details/6133785
+从Decorator，Adapter模式看Java/IO库	https://blog.csdn.net/mimicimim/article/details/1798465
+JAVA IO包中的类层次关系	https://blog.csdn.net/QPC908694753/article/details/62047943
+java IO编程——显示一个目录的层次结构	https://blog.csdn.net/qw963895582/article/details/49611131
+Java 异常类层次结构	https://blog.csdn.net/weixin_34009794/article/details/93977600
+Java IO流分析、IO整理与IO优化	https://blog.csdn.net/iteye_3619/article/details/82448520
+对Java.io中一些类的归纳，层次结构图	https://blog.csdn.net/Vvvvicky/article/details/65644006
+java.lang.NoClassDefFoundError: Could not initialize class XXX（自己写的工具类）问题的一点解决思路	https://blog.csdn.net/LO_YUN/article/details/104754500
+Java内存模型	https://blog.csdn.net/LO_YUN/article/details/103705408
+Java的volatile关键字	https://blog.csdn.net/LO_YUN/article/details/103835292
+错误解决java.lang.OutOfMemoryError: GC overhead limit exceeded	https://blog.csdn.net/qq_23853743/article/details/88756167
+java JVM常见的四大异常及处理方案	https://blog.csdn.net/weixin_30706691/article/details/95765776
+【数据异常】Java GC机制介绍	https://blog.csdn.net/helloxiaozhe/article/details/81512785
+JAVA四种引用方式	https://blog.csdn.net/u014086926/article/details/52106589
+eclipse中如何查看java程序的gc日志	https://blog.csdn.net/Alexwym/article/details/81946907
+java.lang.OutOfMemoryError: GC overhead limit exceeded	https://blog.csdn.net/xiazaixm/article/details/85676475
+使用 Java 操作 Kubernetes API	https://blog.csdn.net/fly910905/article/details/101345091
+JAVA NIO[ServerSocketChannel与SocketChannel]实现服务端客户端通信	https://blog.csdn.net/zhangleiyes123/article/details/103875509
+Java-IDEA设置(Eclipse习惯)	https://blog.csdn.net/zhangleiyes123/article/details/100707037
+java百度ocr对行驶证进行识别	https://blog.csdn.net/zhangleiyes123/article/details/89512892
+java生成pdf文件并打印	https://blog.csdn.net/zhangleiyes123/article/details/84448810
+java代码实现多张图片/单张图片文件上传	https://blog.csdn.net/zhangleiyes123/article/details/82792010#comments
+Java多线程④---CompletableFuture简述	https://blog.csdn.net/Zzhou1990/article/details/106169174
+Java多线程⑥----Lock知识点梳理	https://blog.csdn.net/Zzhou1990/article/details/106170619
+Java多线程⑤----并发知识点笔记	https://blog.csdn.net/Zzhou1990/article/details/106170530
+Java连接Opc server读取数据	https://blog.csdn.net/Zzhou1990/article/details/102776463
+Java多线程③——Guava并发	https://blog.csdn.net/Zzhou1990/article/details/95881860
+Java多线程——ForkJoin并发框架	https://blog.csdn.net/Zzhou1990/article/details/95624332
+Java多线程①——线程知识梳理	https://blog.csdn.net/Zzhou1990/article/details/95617063
+Java多线程②——多线程知识梳理	https://blog.csdn.net/Zzhou1990/article/details/95618873
+java自定义标签(改造spring security配合控制按钮权限)	https://blog.csdn.net/Zzhou1990/article/details/52129651
+Java中异常处理最佳实践	https://blog.csdn.net/Damon_zqt/article/details/106240932
+pojo和javabean的比较	https://blog.csdn.net/Damon_zqt/article/details/106212891
+Java中double类型比较大小或相等的方法	https://blog.csdn.net/Damon_zqt/article/details/86523174
+Java中char类型占用多少个字节	https://blog.csdn.net/Damon_zqt/article/details/104753040
+Java设计模式之虚拟代理模式	https://blog.csdn.net/sunhuiliang85/article/details/19085655#comments
+Java8的Stream简单实用功能	https://blog.csdn.net/weixin_43650254/article/details/105952154
+Java并发包下的类	https://blog.csdn.net/weixin_43650254/article/details/100574969
+Java 中创建线程的三种方式	https://blog.csdn.net/weixin_43650254/article/details/98477903
+深入理解 Java虚拟机	https://blog.csdn.net/weixin_43650254/article/details/88776300
+JAVA 集合详解	https://blog.csdn.net/weixin_43650254/article/details/88732859
+Java设计模式（通俗版）	https://blog.csdn.net/typ1805/article/details/106438668
+Java获取浏览器信息、IP地址、操作系统信息	https://blog.csdn.net/typ1805/article/details/103305135
+Java常用工具方法及工具类	https://blog.csdn.net/typ1805/article/details/89011512
+java8 .stream().filter()	https://blog.csdn.net/qq_41347385/article/details/102839569
+研究显示Java手机每年翻番4年后占市场83%	https://blog.csdn.net/weixin_34336526/article/details/94068947
+Java高效编程2	https://blog.csdn.net/weixin_34336526/article/details/93355918
+Java基础学习总结（23）——GUI编程	https://blog.csdn.net/weixin_34336526/article/details/92650099
+java 将Map拷贝到另一个Map对象当中	https://blog.csdn.net/weixin_34336526/article/details/85994697
+为什么Go比Java快这么多？看完这个例子就懂！	https://blog.csdn.net/xiaoxiaole0313/article/details/103545269
+作为一名Java程序员，我为何不在生产项目中转向Go?	https://blog.csdn.net/java1856905/article/details/82559618
+做后台是选择Java 、Go ，还是 PHP?	https://blog.csdn.net/weixin_33851429/article/details/89628637
+python、golang、java、c++如何选择？各有什么优缺点！	https://blog.csdn.net/weixin_44604087/article/details/88805534
+Java与go哪个更适合后端开发呢？哪个更适合新手呢？	https://blog.csdn.net/weixin_43888876/article/details/84952319
+Go语言和Java、python等其他语言的对比分析	https://blog.csdn.net/weixin_33672400/article/details/91396951
+Java中“附近的人”实现方案讨论及代码实现	https://blog.csdn.net/qq_33619378/article/details/103604145
+Java中equals()和HashCode()的关系	https://blog.csdn.net/qq_33619378/article/details/92661494
+Java 中==与equals()的分析	https://blog.csdn.net/qq_33619378/article/details/92673263
+Java中的BigDecimal和8种RoundingMode(舍入模式)分析	https://blog.csdn.net/qq_33619378/article/details/90408110
+Java中的编译、反编译和反编译工具全家桶分享	https://blog.csdn.net/qq_33619378/article/details/90701697
+Java中的关键字final、finally与finalize方法	https://blog.csdn.net/qq_33619378/article/details/90408060
+Java中重写、重载通俗的理解	https://blog.csdn.net/qq_33619378/article/details/90407910
+Java中面向对象的三大特征：继承、封装、多态	https://blog.csdn.net/qq_33619378/article/details/90408023
+spark报错：java.nio.channels.ClosedChannelException & Couldn't connect to leader 处理	https://blog.csdn.net/qq_38646027/article/details/102786613
+Node.js安装详细步骤教程(Windows版) Node.js是一个基于 Chrome V8 引擎的 JavaScript 运行环境；	https://blog.csdn.net/qqw88888/article/details/100541025
+堆区和栈区---------java	https://blog.csdn.net/LKJLKJKL/article/details/100578180
+IDEA创建JAVAFX并打包成exe	https://blog.csdn.net/educast/article/details/96149934#comments
+JAVA校验和算法的实现	https://blog.csdn.net/educast/article/details/52909524#comments
+Java最常用的工具类库	https://blog.csdn.net/educast/article/details/103701290
+前后端通信进行AES加密（Vue - Java）	https://blog.csdn.net/educast/article/details/103693536
+2019年 Github 上最热门的 Java 开源项目	https://blog.csdn.net/educast/article/details/103682028
+java中随机生成字符串的方法（三种）	https://blog.csdn.net/educast/article/details/103081775
+Java GUI编程中AWT/swing/SWT的优缺点	https://blog.csdn.net/educast/article/details/97898048
+javaFX的几个新特性，让swing彻底过时	https://blog.csdn.net/educast/article/details/97794198
+Java四舍五入	https://blog.csdn.net/zht666/article/details/53068866
+Java properties文件中如何添加空格	https://blog.csdn.net/zht666/article/details/52613187
+[转]深入理解Java的接口和抽象类	https://blog.csdn.net/zht666/article/details/51344202
+Java读写Windows共享文件夹	https://blog.csdn.net/zht666/article/details/27079995
+Java中@Override的作用	https://blog.csdn.net/zht666/article/details/7869383
+IntelliJ IDEA 12创建Maven管理的Java Web项目（图解）	https://blog.csdn.net/zht666/article/details/8673609
+java通过 JNA调用 so	https://blog.csdn.net/a936676463/article/details/50082277
+java hashmap深入分析	https://blog.csdn.net/a936676463/article/details/49803963
+protobuffer java	https://blog.csdn.net/a936676463/article/details/49683493
+用一个URL加一个JAVA壳做成一个安卓应用	https://blog.csdn.net/sinykk023/article/details/84210412
+用JAVA生成ANDORID一个壳，应用中嵌入一个网页即可	https://blog.csdn.net/sinykk023/article/details/84181920
+Java BigDecimal详解--double 精度计算	https://blog.csdn.net/sooxin/article/details/84925045
+Java 并发专题 ： Timer的缺陷 用ScheduledExecutorService替代	https://blog.csdn.net/sooxin/article/details/84925243
+java 数据越界奇异问题	https://blog.csdn.net/sooxin/article/details/84803186
+centeros java 显示乱码问题	https://blog.csdn.net/sooxin/article/details/84603291
+Java 16进制字符串与2进制字符串相互转换 	https://blog.csdn.net/sooxin/article/details/83235231
+如何产生javacore文件（关于cpu的）和heapdump文件(关于内存的) 	https://blog.csdn.net/sooxin/article/details/84050542
+Java面试题10(如何取到set集合的第一个元素)	https://blog.csdn.net/weixin_30755393/article/details/98763437
+Java编译器优化技术之逃逸分析	https://blog.csdn.net/JacksonKing/article/details/106870748
+Java日常问题诊断方法	https://blog.csdn.net/JacksonKing/article/details/106421556
+Java对象死亡判定	https://blog.csdn.net/JacksonKing/article/details/105576256
+java Metaspace频繁FGC问题定位	https://blog.csdn.net/JacksonKing/article/details/104972559
+Java运行时数据区总结	https://blog.csdn.net/JacksonKing/article/details/104779427
+Java Json 数据下划线与驼峰格式进行相互转换	https://blog.csdn.net/JacksonKing/article/details/104652484
+javascript遍历对象的属性	https://blog.csdn.net/weixin_30755393/article/details/101449595
+JAVA + GeoLite2+ip定位，查询国家地理位置信息	https://blog.csdn.net/limingcai168/article/details/102836060
+软著源代码快速提取java代码读写-mac	https://blog.csdn.net/limingcai168/article/details/102688377
+Java String.intern的深入研究分析	https://blog.csdn.net/limingcai168/article/details/87375663
+java中HashMap与Hash表详解	https://blog.csdn.net/qq_32635069/article/details/79798741
+Java程序猿想超神，我来回答这些问题（java基础补充篇）	https://blog.csdn.net/qq_32635069/article/details/80872040
+Java程序猿想超神，我来回答这些问题（java基础）	https://blog.csdn.net/qq_32635069/article/details/80752098
+java实现线程同步的总结	https://blog.csdn.net/qq_32635069/article/details/79907963
+java继承与protected权限再理解	https://blog.csdn.net/qq_32635069/article/details/79837059
+Java实现Html转PDF	https://blog.csdn.net/sd4015700/article/details/51208265
+Java执行外部程序(Apache Commons Exec)	https://blog.csdn.net/sd4015700/article/details/51208290
+java.lang.instrument 学习（一）	https://blog.csdn.net/sd4015700/article/details/50477270
+如何精确地测量java对象的大小	https://blog.csdn.net/sd4015700/article/details/50477260
+对微信退款结果通知接口的说明和req_info字段解析（JAVA）	https://blog.csdn.net/F7ANTY/article/details/106526268
+java中的各种锁详细介绍	https://blog.csdn.net/F7ANTY/article/details/104844184
+六、IDEA——创建Java Web Module并配置tomcat和Database	https://blog.csdn.net/m0_38143867/article/details/92786540#comments
+java操作ES进行聚合操作时报错:Fielddata is disabled on text fields by default.	https://blog.csdn.net/weixin_44271334/article/details/89599724
+Spark错误– java.io.IOException: Could not locate executable null\bin\winutils.exe in the	https://blog.csdn.net/zjx546391707/article/details/79238720
+Java 数据结构与算法	https://blog.csdn.net/zx711166/article/details/105385196
+Java 内存模型	https://blog.csdn.net/zx711166/article/details/104264959
+Java 反射机制原理及用法解析	https://blog.csdn.net/zx711166/article/details/104307097
+Java 基础流程图、架构图	https://blog.csdn.net/zx711166/article/details/104158906
+java命令--jstack 工具	https://blog.csdn.net/andyzhaojianhui/article/details/85016105
+java中int与Integer用==比较详解	https://blog.csdn.net/andyzhaojianhui/article/details/84324466
+Java项目命名规范	https://blog.csdn.net/weixin_33853794/article/details/92653324
+java项目内存溢出检测工具	https://blog.csdn.net/sinat_32867867/article/details/87628238
+Java8 之Lambda 表达式学习笔记让	https://blog.csdn.net/sinat_32867867/article/details/82023455
+ES Java API - 获取所有索引名称	https://blog.csdn.net/qq_31573519/article/details/77885994
+eclipse导入了一个java项目，发现其中没有jre system library,该如何添加	https://blog.csdn.net/u012307002/article/details/19288021#comments
+Combo Box JavaFx with FXML	https://blog.csdn.net/u012307002/article/details/38354013#comments
+logback java动态配置【动态修改日志级别，动态修改appender】	https://blog.csdn.net/qq_26462567/article/details/103065029
+java生成word，通过xml方式，插入图片base64，linux/mac问题	https://blog.csdn.net/u013692049/article/details/77771053
+阿里巴巴java开发手册2020.04.22泰山版	https://blog.csdn.net/weixin_43908849/article/details/106625107
+java.lang.IllegalStateException: Multiple Dockets with the same group name are not supported	https://blog.csdn.net/weixin_43908849/article/details/103703775
+图书ISBN编码概述及java工具类校验	https://blog.csdn.net/weixin_43908849/article/details/103260643
+java特性概述	https://blog.csdn.net/weixin_43908849/article/details/103192870
+数据结构与算法分析（java语言描述）之第一章	https://blog.csdn.net/weixin_43908849/article/details/101230469
+java.io.EOFException	https://blog.csdn.net/weixin_43908849/article/details/102610993
+windows 10 配置jdk环境变量遇到 javac或者jar 不是内部或外部命令问题	https://blog.csdn.net/gaochen519/article/details/79443056
+利用StringEscapeUtils对字符串进行各种转义与反转义（Java）	https://blog.csdn.net/gaochen519/article/details/78246703
+Java 自带的UUID 重复问题	https://blog.csdn.net/gaochen519/article/details/52472162
+eclipse,myeclipse导入工程报：javax.servlet.jsp.JspException cannot be resolved to a type	https://blog.csdn.net/gaochen519/article/details/51504201
+java大量数据对比	https://blog.csdn.net/gaochen519/article/details/53409773
+JAVA正则表达式：Pattern类与Matcher类详解(转)	https://blog.csdn.net/gaochen519/article/details/53379528
+jar not loaded. See Servlet Spec 2.3, section 9.7.2. Offending class: javax/servlet/Servlet.class	https://blog.csdn.net/gaochen519/article/details/51564264
+配置好了项目，启动tomcat提示异常信息：IOException while loading persisted sessions: java.io.EOFException	https://blog.csdn.net/gaochen519/article/details/51544387
+一文彻底搞清JavaWeb中的路径问题	https://blog.csdn.net/weixin_42762133/article/details/86688231
+浅谈Java内部类（超详细代码示例）	https://blog.csdn.net/weixin_42762133/article/details/82890555
+你真的懂java内存模型吗？（由一段和你预想相反的代码引发的思考）	https://blog.csdn.net/weixin_42762133/article/details/99701263
+Java校招基础知识总结（横扫BAT,就业经验交流会演讲稿）	https://blog.csdn.net/weixin_42762133/article/details/102731152
+基于NIO的Socket通信(使用Java NIO的综合示例讲解)	https://blog.csdn.net/weixin_42762133/article/details/100040141
+Java内存区域介绍（附带JDK1.8后方法区的变化）	https://blog.csdn.net/weixin_42762133/article/details/95735737
+Java基础总结八-net编程&junit测试	https://blog.csdn.net/weixin_42762133/article/details/89819555
+Java基础总结六-IO流（超详细）	https://blog.csdn.net/weixin_42762133/article/details/89530537
+Java基础总结七-多线程	https://blog.csdn.net/weixin_42762133/article/details/89647870
+剑指offer代码Java实现（完整优解）	https://blog.csdn.net/weixin_42762133/article/details/89385175
+Java基础总结五-Arrays&Collection&Annotation	https://blog.csdn.net/weixin_42762133/article/details/89386477
+Java基础总结四-Collection	https://blog.csdn.net/weixin_42762133/article/details/89262095
+Java基础总结三-String类API	https://blog.csdn.net/weixin_42762133/article/details/89197924
+Java基础总结一-走进Java	https://blog.csdn.net/weixin_42762133/article/details/88928785
+Java基础总结二-循环与数组	https://blog.csdn.net/weixin_42762133/article/details/88980243
+Java序列化的10个问题	https://blog.csdn.net/aaa13268/article/details/102406468
+Java并发编程核心概念一览	https://blog.csdn.net/aaa13268/article/details/102406474
+java面试题大全（整理版）	https://blog.csdn.net/yq714588944/article/details/79435816
+挑战10个最难回答的Java面试题（附答案）	https://blog.csdn.net/lhx13636332274/article/details/98942782
+208道最常见的Java面试题整理（面试必备）	https://blog.csdn.net/weixin_33701617/article/details/93944519
+深受Java程序员欢迎的10款Java IDE	https://blog.csdn.net/u014731052/article/details/84744274
+史上最难的一道Java面试题	https://blog.csdn.net/csdnsevenn/article/details/79467560
+Java面试中经常问的问题	https://blog.csdn.net/qq_41899620/article/details/88086677
+经典的Java基础面试题集锦	https://blog.csdn.net/weixin_33727510/article/details/93563631
+一个很艰难的 Java 核心面试问题！	https://blog.csdn.net/zl1zl2zl3/article/details/106213590
+最难学的10大编程语言排行榜，Java只排第三，第一出乎意料	https://blog.csdn.net/weixin_34004576/article/details/91439382
+Java面试常见问题	https://blog.csdn.net/lad_feng/article/details/83617977
+挑战10个最难的Java面试题（附答案）	https://blog.csdn.net/mbshqqb/article/details/102707429
+[译] JAVA初学者的30个常见问题	https://blog.csdn.net/weixin_30736301/article/details/95521630
+java写钻石diamonds（可任意调节钻石大小）	https://blog.csdn.net/weixin_42280517/article/details/81457079
+JAVA相关问题整理（一）	https://blog.csdn.net/weixin_30533797/article/details/95918436
+50 个 Java 开发常见错误及规避技巧 （Part 2）	https://blog.csdn.net/long690276759/article/details/73849429
+Java 经典面试题和答案（上）	https://blog.csdn.net/qq_41426449/article/details/104482718
+Java环境相关问题	https://blog.csdn.net/wys578/article/details/89329069
+Java面试试题及答案（基础部分）	https://blog.csdn.net/icelili/article/details/83450012
+Java中有关时间的问题	https://blog.csdn.net/weixin_45568319/article/details/102898813
+将Java 应用容器化改造并迁移到Kubernetes 平台	https://blog.csdn.net/broadview2006/article/details/83536973
+java实现对象的浅复制与深复制	https://blog.csdn.net/m0_37732829/article/details/104329338
+java实现一个按指定令牌拆分函数	https://blog.csdn.net/m0_37732829/article/details/104265038
+Java中Volatile关键字详解	https://blog.csdn.net/m0_37732829/article/details/103725241
+java中猜数字游戏	https://blog.csdn.net/m0_37732829/article/details/103692571
+Java8 新增的 @Repeatable 注解	https://blog.csdn.net/m0_37732829/article/details/103590860
+从Java编程语言到编程思想	https://blog.csdn.net/m0_37732829/article/details/103539361
+在Java中如何判断字符串的编码格式	https://blog.csdn.net/m0_37732829/article/details/80775858
+黑客帝国里的代码雨-java代码实现	https://blog.csdn.net/m0_37732829/article/details/84701747
+Java 解惑：Comparable 和 Comparator 的区别	https://blog.csdn.net/ywb201314/article/details/107091230
+java replace和replaceAll的区别以及用法 对比 js 的replace	https://blog.csdn.net/ywb201314/article/details/106817171
+JAVA 正则表达式 appendReplacement和appendTail的用法	https://blog.csdn.net/ywb201314/article/details/106801253
+在java中实现组合注解原理分析(注解继承)	https://blog.csdn.net/ywb201314/article/details/106490986
+Java8 Map集合中put()与putIfAbsent()的区别	https://blog.csdn.net/ywb201314/article/details/106467395
+Java8 Map computeIfAbsent方法说明	https://blog.csdn.net/ywb201314/article/details/106467239
+记录一下采用java来实现异步的事件驱动模型	https://blog.csdn.net/qq_38796327/article/details/104303662
+记录一下采用java8的流式操作来实现对集合的分组后聚合	https://blog.csdn.net/qq_38796327/article/details/100930931
+记录下Java中的 方法执行过程	https://blog.csdn.net/qq_38796327/article/details/100752183
+java字符串大写转小写，小写转大写	https://blog.csdn.net/fay462298322/article/details/52945699
+java正则表达式，大写字母、小写字母、特殊字符、数字 两种两种以上组合匹配	https://blog.csdn.net/Vindra/article/details/18718275
+java 开发中的骆驼拼写法（CamelCase）	https://blog.csdn.net/zhangjinbao/article/details/83491184
+Java如何实现数据库中表字段的下划线和驼峰式命名的Model相互转换，很方便的...	https://blog.csdn.net/qq_42105629/article/details/97134164
+Java单元测试之JUnit4详解	https://blog.csdn.net/weixin_34043301/article/details/92660290
+Java基础学习总结（13）——流IO	https://blog.csdn.net/weixin_34043301/article/details/92650699
+Java系列之泛型	https://blog.csdn.net/weixin_34043301/article/details/91460240
+Java中如何通过一个类名来调用另一个类的静态方法?	https://blog.csdn.net/weixin_34043301/article/details/89697058
+maven install 时提示“程序包 javax.crypto不存在”	https://blog.csdn.net/weixin_34043301/article/details/86228858#comments
+31道Java核心面试题，一次性打包送给你	https://blog.csdn.net/qing_gee/article/details/107130386
+要想数组用的 6，怎能不懂 java.util.Arrays	https://blog.csdn.net/qing_gee/article/details/107122724
+宝贝，来，满足你，二哥告诉你学 Java 应该买什么书？	https://blog.csdn.net/qing_gee/article/details/106968629
+Java 数组最佳指南，快收藏让它吃灰	https://blog.csdn.net/qing_gee/article/details/106968580
+怒肝一夜，关于Java字符串的全部，都在这份手册里了	https://blog.csdn.net/qing_gee/article/details/106891516
+再见，Java字符串是不可变的	https://blog.csdn.net/qing_gee/article/details/106782429
+Java的前景如何，好不好自学？	https://blog.csdn.net/qing_gee/article/details/106770052
+怒肝俩月，新鲜出炉史上最有趣的Java小白手册，第一版，每个 Java 初学者都应该收藏	https://blog.csdn.net/qing_gee/article/details/106685769
+去摆摊吧，落魄的Java程序员	https://blog.csdn.net/qing_gee/article/details/106582967
+恕我直言，我怀疑你并不会用 Java 枚举	https://blog.csdn.net/qing_gee/article/details/106594625
+面试官：兄弟，说说Java的static关键字吧	https://blog.csdn.net/qing_gee/article/details/106506592
+看了这篇，我确定你已经彻底搞懂Java的继承了	https://blog.csdn.net/qing_gee/article/details/106407768
+Java获取spring注解bean	https://blog.csdn.net/linyoucheng/article/details/84724171
+java自定义工具类方法	https://blog.csdn.net/linyoucheng/article/details/84624489
+A fatal error has been detected by the Java Runtime Enviro	https://blog.csdn.net/linyoucheng/article/details/84623456
+Java--变量名驼峰式和下划线互转	https://blog.csdn.net/JustinQin/article/details/102542086
+javascript调用对象属性方式	https://blog.csdn.net/linyoucheng/article/details/84280766
+Tomcat上部署Arcgis javascript 离线api 	https://blog.csdn.net/linyoucheng/article/details/84268293
+javascript去空格	https://blog.csdn.net/linyoucheng/article/details/84250136
+Arcgis web Project 运行报错javax.faces.FacesException: The scope of the referenced o	https://blog.csdn.net/linyoucheng/article/details/83922616
+java web adf 开发环境搭建（配置ArcGIS Server插件）	https://blog.csdn.net/linyoucheng/article/details/83922372
+ARCGIS for java ADF怎么监听在地图上的图形元素	https://blog.csdn.net/linyoucheng/article/details/83697980
+java.sql.SQLException: Error establishing socket	https://blog.csdn.net/linyoucheng/article/details/83608535
+深圳Java学习：专科程序员与本科程序员之间有什么区别？	https://blog.csdn.net/QQ1494648730/article/details/102501833
+25 篇 Java 入门技术博文，送给正在自学的你	https://blog.csdn.net/qing_gee/article/details/102984677
+Java工程师对于学历的要求怎么样？如何能提高面试成功率？总结如下	https://blog.csdn.net/ycx2019/article/details/105929254
+JAVA学习笔记	https://blog.csdn.net/sinat_36121406/article/details/82997299
+Java笔试面试目录	https://blog.csdn.net/Android_xue/article/details/103587605
+Java中的反射（1）	https://blog.csdn.net/weixin_34302798/article/details/93536075
+VMforce - First enterprise cloud for Java developers	https://blog.csdn.net/weixin_34302798/article/details/92634330
+Java基础学习总结（22）——异常处理	https://blog.csdn.net/weixin_34302798/article/details/92648387
+java并发(九):hashmap扩容时出现循环链表（jdk1.8把头插法换成了尾插法的原因）	https://blog.csdn.net/qq_35688140/article/details/100772864
+Java G1垃圾回收导读	https://blog.csdn.net/allwefantasy/article/details/106132517
+JAVA 正则表达式 （超详细）	https://blog.csdn.net/allwefantasy/article/details/3136570
+java实战——图书管理系统	https://blog.csdn.net/qq_39391192/article/details/82466805
+纯Java+SQL实现——网上图书馆借还管理系统	https://blog.csdn.net/wsk1103/article/details/53313280
+java实现简单的图书管理系统	https://blog.csdn.net/qq_41384351/article/details/89285882
+实训总结（图书管理系统java）	https://blog.csdn.net/weixin_42537314/article/details/86763326
+Java图书管理系统，java课程实习	https://blog.csdn.net/Android_tools/article/details/78964232
+java控制台输出图书馆管理系统（只用java代码不用数据库和GUI等）	https://blog.csdn.net/zeng308041977/article/details/76165950
+Java图书管理系统(控制台程序)	https://blog.csdn.net/a_helloword/article/details/90552478
+面向对象程序设计（Java） 第6-7周学习指导及要求	https://blog.csdn.net/weixin_30632089/article/details/102405617
+JavaScript data types and data structures	https://blog.csdn.net/weixin_30632089/article/details/102287552
+面向对象程序设计（Java） 第4周学习指导及要求	https://blog.csdn.net/weixin_30632089/article/details/102405620
+java之Lambda表达式	https://blog.csdn.net/feiyuciuxun/article/details/107312334
+java多线程学习总结	https://blog.csdn.net/feiyuciuxun/article/details/107120898
+java之IO	https://blog.csdn.net/feiyuciuxun/article/details/105158290
+java之多态	https://blog.csdn.net/feiyuciuxun/article/details/106773717
+java之类的构造器	https://blog.csdn.net/feiyuciuxun/article/details/106773274
+java之日期时间类	https://blog.csdn.net/feiyuciuxun/article/details/105173627
+java方法重写的规定	https://blog.csdn.net/feiyuciuxun/article/details/106762845
+java异常	https://blog.csdn.net/feiyuciuxun/article/details/105010044
+MongoDB之java操作	https://blog.csdn.net/feiyuciuxun/article/details/103531751
+Flink出现Caused by: java.lang.LinkageError: loader constraint violation错误	https://blog.csdn.net/ooobenooo/article/details/105068463
+jmeter 报错：java.net.BindException: Address already in use: connect	https://blog.csdn.net/weixin_30561177/article/details/94858969
+SparkSQL编程指南之Java篇一-入门	https://blog.csdn.net/gangchengzhong/article/details/55258118
+java设计模式--单例模式	https://blog.csdn.net/weinierzui/article/details/72858051
+Java.lang.reflect简单讲解	https://blog.csdn.net/weinierzui/article/details/71289097
+java调用含第三方库的py文件	https://blog.csdn.net/dimiaofan3981/article/details/102040406
+java程序：调用百度api进行情感分析	https://blog.csdn.net/dimiaofan3981/article/details/102040404
+安装QTP之后造成环境变量java冲突问题的解决方案	https://blog.csdn.net/dimiaofan3981/article/details/102040390
+Java链接Oracle	https://blog.csdn.net/dimiaofan3981/article/details/102040378
+使用java2Word生成Word文档打不开报错 存在非法字符xml	https://blog.csdn.net/dimiaofan3981/article/details/102040368
+NIO详解（十三）：Java IO 和NIO 总结	https://blog.csdn.net/qq_21125183/article/details/90381081
+Java高并发编程（二）：Java并发机制的底层实现机制	https://blog.csdn.net/qq_21125183/article/details/80849056#comments
+Java基础：JavaNIO 之 内存映射文件原理	https://blog.csdn.net/qq_21125183/article/details/88697180
+我对JAVA的堆外内存与NIO零拷贝的理解	https://blog.csdn.net/qq_22075041/article/details/104002347
+Java堆外内存之三：堆外内存回收方法	https://blog.csdn.net/weixin_34198797/article/details/85833303
+java 堆外内存	https://blog.csdn.net/shuxiaohua/article/details/106422061
+Java进程堆外内存（off heap）大小	https://blog.csdn.net/masfay/article/details/46987781
+Java 堆外内存回收原理	https://blog.csdn.net/FHGFHFYUUGY/article/details/90109151
+Java堆外内存使用	https://blog.csdn.net/wufaliang003/article/details/83351471
+java Nio堆外内存和零拷贝	https://blog.csdn.net/huangning1995/article/details/90611789
+大数据面试题整理(二) ---- JVM、Java基础、多线程	https://blog.csdn.net/qq_40640228/article/details/105010244
+9.JAVA的堆外内存(基于NIO的ByteBuffer类实现)	https://blog.csdn.net/u014590757/article/details/79856425
+2018新版Java学习路线图---各阶段配套视频推荐（黑马程序员）	https://blog.csdn.net/jiaohangyun521125/article/details/83994949?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-1-83994949.pc_v2_rank_blog_v1&utm_term=java
+JAVA学习路线图 【黑马版】	https://blog.csdn.net/qq_41570658/article/details/84976851?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-2-84976851.pc_v2_rank_blog_v1&utm_term=java
+2020Java学习路线	https://blog.csdn.net/qq_40332952/article/details/106607584?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-3-106607584.pc_v2_rank_blog_v1&utm_term=java
+jdk 5.0 Java 学习笔记 pdf	https://blog.csdn.net/qq_38460324/article/details/82080074?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-4-82080074.pc_v2_rank_blog_v1&utm_term=java
+最新java学习路线汇总（课程大纲+视频教程+就业方向）	https://blog.csdn.net/ygcxydzx/article/details/84339510?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-5-84339510.pc_v2_rank_blog_v1&utm_term=java
+《JAVA学习指南》学习笔记	https://blog.csdn.net/cbk861110/article/details/7768696?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-6-7768696.pc_v2_rank_blog_v1&utm_term=java
+Java学习之路(书籍推荐)	https://blog.csdn.net/qq_43322041/article/details/82939719?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-7-82939719.pc_v2_rank_blog_v1&utm_term=java
+Java初学者该如何学习？	https://blog.csdn.net/qq_41781067/article/details/80494848?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-8-80494848.pc_v2_rank_blog_v1&utm_term=java
+0 Java学习-前言	https://blog.csdn.net/Childe_Tang/article/details/53114900?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-9-53114900.pc_v2_rank_blog_v1&utm_term=java
+java学习之数组简单案例	https://blog.csdn.net/weixin_42913025/article/details/98121264?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-10-98121264.pc_v2_rank_blog_v1&utm_term=java
+Java 学习--如何修改.class文件	https://blog.csdn.net/qq_28043019/article/details/81746510?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-11-81746510.pc_v2_rank_blog_v1&utm_term=java
+java学习笔记九——如何返回多个数组？	https://blog.csdn.net/SPESEG/article/details/101453729?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-12-101453729.pc_v2_rank_blog_v1&utm_term=java
+18天Java学习---14.面向对象编程09-Java中重载与复写的区别、super与this的比较	https://blog.csdn.net/js_gary/article/details/7177099?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-13-7177099.pc_v2_rank_blog_v1&utm_term=java
+18天Java学习---5.Java数组和方法	https://blog.csdn.net/js_gary/article/details/7175580?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-15-7175580.pc_v2_rank_blog_v1&utm_term=java
+18天Java学习---3.运算符与表达式	https://blog.csdn.net/js_gary/article/details/7175536?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-14-7175536.pc_v2_rank_blog_v1&utm_term=java
+Java枚举学习心得	https://blog.csdn.net/qq_40852612/article/details/100779514?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-16-100779514.pc_v2_rank_blog_v1&utm_term=java
+《JAVA并发编程实践中文高清带书签完整版》pdf附网盘下载链接+（附一个菜鸟的java学习之路）	https://blog.csdn.net/qq_43322041/article/details/82943661?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-17-82943661.pc_v2_rank_blog_v1&utm_term=java
+《Java性能调优指南》pdf附网盘下载链接+（附一个菜鸟的java学习之路）	https://blog.csdn.net/qq_43322041/article/details/82943675?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-18-82943675.pc_v2_rank_blog_v1&utm_term=java
+JAVA学习之路第1篇-机器语言与存储单位	https://blog.csdn.net/qq_35400605/article/details/83149175?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-19-83149175.pc_v2_rank_blog_v1&utm_term=java
+JAVA结构	https://blog.csdn.net/CS_mofang/article/details/100518618?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608419726869007122%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608419726869007122&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-20-100518618.pc_v2_rank_blog_v1&utm_term=java
+java堆排序	https://blog.csdn.net/qq_43279637/article/details/99627186
+Postman以json形式向java后台传递对象和数组	https://blog.csdn.net/qq_43279637/article/details/98043434
+java中Integer.getInteger()、Integer.valueOf()、Integer.parseInt()的区别	https://blog.csdn.net/qq_43279637/article/details/93508950
+java类加载过程和类加载器	https://blog.csdn.net/qq_43279637/article/details/88648834
+java设计模式--单例模式	https://blog.csdn.net/qq_43279637/article/details/87949684
+java实现自定义类实现HashMap，Arraylist，Queue数据结构	https://blog.csdn.net/qq_43279637/article/details/85254693
+java线程池应用场景 数据分析和网络爬虫	https://blog.csdn.net/qq_43279637/article/details/85217337
+java中的序列化和反序列化	https://blog.csdn.net/qq_43279637/article/details/85071519
+java中HashMap、HashTable、CurrentHashMap的区别	https://blog.csdn.net/qq_43279637/article/details/85078435
+java中的I/O与NIO区别	https://blog.csdn.net/qq_43279637/article/details/85068196
+java中String，StringBuffer，StringBuilder的区别	https://blog.csdn.net/qq_43279637/article/details/85071173
+JAVA直接内存（堆外内存）	https://blog.csdn.net/y3over/article/details/88791958
+JAVA堆外内存设置	https://blog.csdn.net/tonydark01/article/details/88341825
+后端---java中注解工作原理（非小白文）	https://blog.csdn.net/weixin_42504145/article/details/94576618
+后端---Java中的公平锁和非公平锁实现详解	https://blog.csdn.net/weixin_42504145/article/details/85343783
+多线程---java中锁池和等待池的概念	https://blog.csdn.net/weixin_42504145/article/details/85329386
+Java集合：HashMap源码剖析	https://blog.csdn.net/weixin_42504145/article/details/85255124
+后端---Java中ArrayList和LinkedList区别和联系	https://blog.csdn.net/weixin_42504145/article/details/85230422
+后端---Java中的HashSet和TreeSet和LinkedHashSet的区别	https://blog.csdn.net/weixin_42504145/article/details/85233090
+Java自定义类加载器与双亲委派模型	https://blog.csdn.net/weixin_42504145/article/details/85195303
+后端---史上最全最小白最简单最细致的Java接入微信支付接口（Native接入）	https://blog.csdn.net/weixin_42504145/article/details/85170445
+后端---Java中Iterator(迭代器)原理分析	https://blog.csdn.net/weixin_42504145/article/details/85210723
+后端---史上最全最小白最简单最细致的Java接入支付宝支付接口方法	https://blog.csdn.net/weixin_42504145/article/details/85077635
+后端--Java中class文件结构	https://blog.csdn.net/weixin_42504145/article/details/85049901
+后端---Java设计模式之单例模式详解	https://blog.csdn.net/weixin_42504145/article/details/85006406
+后端---java的动态代理机制详解	https://blog.csdn.net/weixin_42504145/article/details/85004229
+后端---Java中的常量池(字符串常量池、class常量池和运行时常量池)	https://blog.csdn.net/weixin_42504145/article/details/84680576
+后端---Java线程的6种状态	https://blog.csdn.net/weixin_42504145/article/details/84680438
+后端---java中hashmap多线程并发问题详解	https://blog.csdn.net/weixin_42504145/article/details/84329752
+后端---java中for循环执行顺序	https://blog.csdn.net/weixin_42504145/article/details/84323337
+算法---hash算法原理(java中HashMap底层实现原理和源码解析)	https://blog.csdn.net/weixin_42504145/article/details/84309397
+web项目---jsp页面中书写java代码的三种方式	https://blog.csdn.net/weixin_42504145/article/details/83691808
+《Play for Java》学习笔记（三）template+Message	https://blog.csdn.net/weixin_34112900/article/details/94153426
+Java基础学习总结（15）——java读取properties文件总结	https://blog.csdn.net/weixin_34112900/article/details/92656558
+Java基础学习总结（21）——数组	https://blog.csdn.net/weixin_34112900/article/details/92651223
+Java基础学习总结（14）——Java对象的序列化和反序列化	https://blog.csdn.net/weixin_34112900/article/details/92651679
+Java基础学习总结（4）——对象转型	https://blog.csdn.net/weixin_34112900/article/details/92647628
+Java堆外内存排查小结	https://blog.csdn.net/lycyingO/article/details/80854669
+Java内存泄漏的排查总结	https://blog.csdn.net/fishinhouse/article/details/80781673
+SpringBoot如何处理java内存溢出	https://blog.csdn.net/xiao297328/article/details/94553435
+记一次Cassandra Java堆外内存排查经历	https://blog.csdn.net/chikuai9995/article/details/100723408
+记一次尴尬的Java应用内存泄露排查	https://blog.csdn.net/weixin_30497527/article/details/96387893
+java堆外内存	https://blog.csdn.net/imduan/article/details/55667897
+JAVA堆外内存	https://blog.csdn.net/weixin_34162228/article/details/85792064
+Java堆外内存探索	https://blog.csdn.net/rekingman/article/details/104217591
+[Java] 查看占用 CPU 最高的线程	https://blog.csdn.net/u012099869/article/details/82951056
+[Java] 序列化之基本认识	https://blog.csdn.net/u012099869/article/details/83008389
+[Java] 线程的状态及转换	https://blog.csdn.net/u012099869/article/details/86500801
+[Java] 浅拷贝与深拷贝	https://blog.csdn.net/u012099869/article/details/78766067
+[Java] socket 简介	https://blog.csdn.net/u012099869/article/details/78773372
+[Java] 抽象类与接口	https://blog.csdn.net/u012099869/article/details/78762792
+[Java] String 长度限制	https://blog.csdn.net/u012099869/article/details/61199442
+[Java] CountDownLatch 模拟高并发	https://blog.csdn.net/u012099869/article/details/52769384
+Java堆外内存之六：堆外内存溢出问题排查	https://blog.csdn.net/weixin_30632089/article/details/99446410
+Java堆外内存排查	https://blog.csdn.net/zero__007/article/details/90903681
+java调用Python	https://blog.csdn.net/weixin_43500985/article/details/89145915
+Java调用Lua	https://blog.csdn.net/weixin_43500985/article/details/89146454
+java.lang.ref.Finalizer占用高内存	https://blog.csdn.net/weixin_43500985/article/details/84403858
+java基础之线程	https://blog.csdn.net/weixin_43500985/article/details/83931521
+java基础之Synchronized、volatile	https://blog.csdn.net/weixin_43500985/article/details/83903332
+JAVA基础之锁	https://blog.csdn.net/weixin_43500985/article/details/83791899
+JAVA基础之AtomicInteger	https://blog.csdn.net/weixin_43500985/article/details/83822918
+java基础之java内存模型	https://blog.csdn.net/weixin_43500985/article/details/83692245
+java基础篇之GC过程	https://blog.csdn.net/weixin_43500985/article/details/83589919
+java基础之垃圾收集器	https://blog.csdn.net/weixin_43500985/article/details/83626832
+java基础篇之异常处理	https://blog.csdn.net/weixin_43500985/article/details/83583936
+java基础之基础知识	https://blog.csdn.net/weixin_43500985/article/details/83383555
+java基础篇之HashMap	https://blog.csdn.net/weixin_43500985/article/details/83420727
+java8之运行时数据	https://blog.csdn.net/weixin_43500985/article/details/83512336
+Java学习笔记---类的继承与多态特性	https://blog.csdn.net/weixin_33991418/article/details/94468079
+在java中一种中文问题的解决办法	https://blog.csdn.net/weixin_33991418/article/details/93957322
+Java基础学习总结（20）——基础语法	https://blog.csdn.net/weixin_33991418/article/details/92658475
+Java BufferedImage设置透明背景	https://blog.csdn.net/weixin_33991418/article/details/91419153
+java堆外内存泄漏	https://blog.csdn.net/f529352479/article/details/51908655
+java中Unsafe使用讲解	https://blog.csdn.net/u010398771/article/details/85319991
+Java直接（堆外）内存使用详解	https://blog.csdn.net/a494303877/article/details/53376146
+Arthas--深入排查java进程消耗CPU或内存过高问题	https://blog.csdn.net/AiMaiShanHuHai/article/details/104049997
+Java CAS 和 synchronized 和 Lock	https://blog.csdn.net/qq_17612199/article/details/80385737
+Java跨域设置	https://blog.csdn.net/qq_17612199/article/details/51540685
+JAVA的内存结构	https://blog.csdn.net/qq906627950/article/details/81324825
+Java 8 Lambda表达式	https://blog.csdn.net/pre_tender/article/details/104552597
+Hive版本兼容问题：java.sql.SQLException: Method not supported	https://blog.csdn.net/pre_tender/article/details/103485355
+Java集合：LinkedList详解	https://blog.csdn.net/pre_tender/article/details/102834242
+Java集合：ConcurrentHashMap详解	https://blog.csdn.net/pre_tender/article/details/102872428
+Java集合：ArrayList详解	https://blog.csdn.net/pre_tender/article/details/102814313
+Java基础----JVM详解	https://blog.csdn.net/pre_tender/article/details/102155860
+JAVA常见问题集合	https://blog.csdn.net/pre_tender/article/details/102753597
+Java基础之HashCode	https://blog.csdn.net/pre_tender/article/details/102490032
+Java基础----JDK，JRE和JVM之间的区别	https://blog.csdn.net/pre_tender/article/details/102153801
+java：阿里巴巴Java开发手册中的DO、DTO、BO、AO、VO、POJO定义	https://blog.csdn.net/weixin_38750084/article/details/107046812
+java：获取字符串中某个字符串第一次出现的位置（索引）	https://blog.csdn.net/weixin_38750084/article/details/106141034
+java：util：MapUtil	https://blog.csdn.net/weixin_38750084/article/details/105842968
+java：util：HttpUtil	https://blog.csdn.net/weixin_38750084/article/details/105819710
+java：poi：下载resource文件夹下的模板文件	https://blog.csdn.net/weixin_38750084/article/details/105797705
+java：poi：上传excel文件并解析，处理数据（含postman测试调用）	https://blog.csdn.net/weixin_38750084/article/details/105796044
+java：poi：java.lang.IllegalStateException: Cannot get a text value from a numeric cell	https://blog.csdn.net/weixin_38750084/article/details/105795742
+java：util：SpringUtil	https://blog.csdn.net/weixin_38750084/article/details/105724582
+java：去除数组重复元素的四种方法	https://blog.csdn.net/weixin_38750084/article/details/84196256#comments
+Java 内存溢出（java.lang.OutOfMemoryError）的常见情况和处理方式总结	https://blog.csdn.net/alinshen/article/details/88532640
+记一次线上Java程序导致服务器CPU占用率过高的问题排除过程	https://blog.csdn.net/alinshen/article/details/88528612
+关于Java健壮性的一些思考与实践！	https://blog.csdn.net/alinshen/article/details/81089502
+Java并发与多线程	https://blog.csdn.net/alinshen/article/details/80778377
+Java实现简单的RPC框架	https://blog.csdn.net/alinshen/article/details/80566354
+Java动态代理机制详解（JDK 和CGLIB，Javassist，ASM） (清晰，浅显)	https://blog.csdn.net/alinshen/article/details/80513640
+Java 动态代理作用是什么？	https://blog.csdn.net/alinshen/article/details/80506949
+Java 利用枚举实现单例模式	https://blog.csdn.net/alinshen/article/details/80472432
+23种设计模式介绍以及在Java中的实现	https://blog.csdn.net/alinshen/article/details/79502098
+作为Java面试官--谈谈一年来的面试总结	https://blog.csdn.net/alinshen/article/details/73612883#comments
+大数据基础（二）：Java 动态代理模式详解	https://blog.csdn.net/khxu666/article/details/80921484
+大数据基础（一）：Java NIO概述及简单示例	https://blog.csdn.net/khxu666/article/details/80884903
+关于Java Web结构和SSM框架的理解	https://blog.csdn.net/khxu666/article/details/79913151
+javax.servlet.ServletException: Servlet.init() for servlet [mvc-dispatcher] threw exception 解决方法	https://blog.csdn.net/khxu666/article/details/79854746
+Linux 和 windows修改java虚拟机内存大小 	https://blog.csdn.net/iteye_1402/article/details/82444492
+JVM通过java代码查看初始堆内存大小与最大堆内存大小	https://blog.csdn.net/qq_33229669/article/details/103936989
+设置java栈（stack）和堆（heap）大小	https://blog.csdn.net/qq_22059611/article/details/88372938
+查看你机器中Java程序堆内存的默认初始大小和最大大小	https://blog.csdn.net/catoop/article/details/104057377
+找出您的Java堆内存大小	https://blog.csdn.net/cyan20115/article/details/106551299
+java 堆栈的区别	https://blog.csdn.net/chengyingzhilian/article/details/7781858
+使用 Memory Profiler 查看 Java 堆和内存分配	https://blog.csdn.net/u012123938/article/details/79415290
+一步步优化JVM四：决定Java堆的大小和内存占用	https://blog.csdn.net/iteye_13798/article/details/82374102
+java使用java heap外(堆外)内存导致的内存泄露	https://blog.csdn.net/badqiu/article/details/84209852
+docker java jvm内存不够被kill 解决办法	https://blog.csdn.net/fzy629442466/article/details/89513280
+Java——Mybatis二级缓存	https://blog.csdn.net/qq_36470686/article/details/85222470
+Java语言是" 解释执行" 的语言吗	https://blog.csdn.net/qq_36470686/article/details/85226014
+Java——Mybatis一级缓存	https://blog.csdn.net/qq_36470686/article/details/85221993
+Java——继承机制详谈	https://blog.csdn.net/qq_36470686/article/details/85113912
+Java——类加载机制详解	https://blog.csdn.net/qq_36470686/article/details/85101730
+Java——迭代器iterator详解	https://blog.csdn.net/qq_36470686/article/details/85065545
+Java——反射的意义及优缺点	https://blog.csdn.net/qq_36470686/article/details/85015753
+JAVA——synchronized方法与synchronized代码块的区别	https://blog.csdn.net/qq_36470686/article/details/85003904
+JAVA——静态方法加锁和非静态方法加锁的区别	https://blog.csdn.net/qq_36470686/article/details/85003072
+JAVA——深入理解Java接口和抽象类	https://blog.csdn.net/qq_36470686/article/details/84980011
+Java——动态代理实现与原理详细分析	https://blog.csdn.net/qq_36470686/article/details/84995065
+Java——设计模式之单例模式详解	https://blog.csdn.net/qq_36470686/article/details/84981060
+Java——集合和数组的区别	https://blog.csdn.net/qq_36470686/article/details/84675991
+Java——进程和线程区别（纠正网上几个常见的误解）	https://blog.csdn.net/qq_36470686/article/details/84145918
+Java——内部类详解	https://blog.csdn.net/qq_36470686/article/details/84076136
+Java多线程详解	https://blog.csdn.net/qq_36470686/article/details/84147397
+JAVA128陷阱	https://blog.csdn.net/qq_36470686/article/details/84075829
+Java内存区域划分	https://blog.csdn.net/qq_36470686/article/details/82957221#comments
+【Java并发编程实战】----- AQS(一)：简介	https://blog.csdn.net/zheng0518/article/details/76598639
+Java并发编程：线程间协作的两种方式：wait、notify、notifyAll和Condition	https://blog.csdn.net/zheng0518/article/details/76431253
+Java中getBytes()的用法	https://blog.csdn.net/zheng0518/article/details/11532815
+深入Java集合学习系列：Hashtable的实现原理	https://blog.csdn.net/zheng0518/article/details/42199477
+Java应用堆外内存泄漏排查	https://blog.csdn.net/zw547779770/article/details/104085120
+JAVA编译报错-No enclosing instance of type Test is accessible	https://blog.csdn.net/a_ust/article/details/78760238
+JAVA内存模型解析（JMM）	https://blog.csdn.net/a_ust/article/details/81055178
+JAVA 垃圾回收分析与实战	https://blog.csdn.net/a_ust/article/details/78310406
+JAVA内存报错解析	https://blog.csdn.net/a_ust/article/details/78268237
+java -server 和 -client 的不同，及 java -server 时抛错原因	https://blog.csdn.net/a_ust/article/details/78313372
+java 堆内与堆外内存；java的栈内存和堆内存	https://blog.csdn.net/u012969412/article/details/76614988
+Java堆内存	https://blog.csdn.net/u013256816/article/details/50764532
+Java堆外内存的使用	https://blog.csdn.net/chen517611641/article/details/42295373
+Java堆外内存和JVM内存理解	https://blog.csdn.net/qq_31617121/article/details/80176855
+Java直接（堆外）内存使用详解	https://blog.csdn.net/xingoo_/article/details/103170819
+java directbytebuffer直接缓存,堆外内存，堆内内存，jni	https://blog.csdn.net/creator123123/article/details/86159574
+Docker整合JavaWeb（极简的方式）	https://blog.csdn.net/annotation_yang/article/details/84566622
+fastjson下 Java 集合和 JSONArray 的相互转换	https://blog.csdn.net/annotation_yang/article/details/81318362
+Java 深复制与浅复制	https://blog.csdn.net/annotation_yang/article/details/78564231
+Java 的 IO 四大基类详解（上）	https://blog.csdn.net/annotation_yang/article/details/78397239
+Java进阶（五）Java I/O模型从BIO到NIO和Reactor模式	https://blog.csdn.net/chaozhi_guo/article/details/69077487
+java虚拟机疑问与解答	https://blog.csdn.net/chaozhi_guo/article/details/55001749
+几本推荐的Java书	https://blog.csdn.net/chaozhi_guo/article/details/51274634
+Java集合框架之fastutil	https://blog.csdn.net/chaozhi_guo/article/details/52166255#comments
+Java视频教程免费分享（网盘直接取）	https://blog.csdn.net/jt1040578reng/article/details/83789426?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522159469608619195264502913%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=159469608619195264502913&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_blog_v1-6-83789426.pc_v2_rank_blog_v1&utm_term=SQL
+java执行复杂shell命令的问题（带重定向或管道的命令）	https://blog.csdn.net/laogouhuli/article/details/98637988
+Java高级特性——反射	https://blog.csdn.net/laogouhuli/article/details/94597217
+HV000183: Unable to load 'javax.el.ExpressionFactory'. Check that you have the EL dependencies on th	https://blog.csdn.net/laogouhuli/article/details/94448295
+Java判断String类型变量是否可以转换数字类型	https://blog.csdn.net/wangshuang1631/article/details/76815713
+Java数据封装类	https://blog.csdn.net/wangshuang1631/article/details/76210430
+对Java多线程在Netty中的应用的理解	https://blog.csdn.net/wangshuang1631/article/details/73195291
+为了不复制粘贴，我被逼着学会了JAVA爬虫	https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/107273447
+基于 Java 实现的人脸识别功能（附源码）	https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/107218180
+在互联网圈混，怎么能不知道这9个Java方向公众号	https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296
+java笔记---final关键字	https://blog.csdn.net/m0_37328475/article/details/86574287
+在 Java 中初始化 List 的五种方法	https://blog.csdn.net/m0_37328475/article/details/84880549
+Java中SPI机制深入及源码解析	https://blog.csdn.net/weixin_38028611/article/details/99490821
+《Java并发编程的艺术》第2章-Java并发机制的底层实现原理	https://blog.csdn.net/weixin_38028611/article/details/99349151
+《Java并发编程的艺术》第1章-并发编程的挑战	https://blog.csdn.net/weixin_38028611/article/details/99346094
+《Java并发编程的艺术》第3章-Java内存模型	https://blog.csdn.net/weixin_38028611/article/details/99349613
+Java 8 之 Streams API 详解	https://blog.csdn.net/u013399093/article/details/71078854
+java的算术右移（>>）、算术左移（>，无符号移位）	https://blog.csdn.net/u013399093/article/details/70331979
+java 利用Runtime.getRuntime().exec()代码调用服务器执行命令	https://blog.csdn.net/u013399093/article/details/51443786#comments
+java中set集合的使用方法	https://blog.csdn.net/u013399093/article/details/47749823
+Java -jar	https://blog.csdn.net/yhj19920417/article/details/44304137
+使用 Docker 搭建 Java Web 运行环境	https://blog.csdn.net/yhj19920417/article/details/44965215
+Java 面试题 复习 备份	https://blog.csdn.net/yhj19920417/article/details/51914098
+Java Web 项目访问路径	https://blog.csdn.net/yhj19920417/article/details/46626161
+Java中日期时间格式与毫秒数的相互转换	https://blog.csdn.net/yhj19920417/article/details/73799842
+Java 中 结束程序 跳出循环-	https://blog.csdn.net/yhj19920417/article/details/65629996
+Java实现发邮件功能	https://blog.csdn.net/kingice1014/article/details/77533430
+一个可供参考的Java高并发异步应用案例--转	https://blog.csdn.net/kingice1014/article/details/77533193
+Java中的多线程你只要看这一篇就够了	https://blog.csdn.net/kingice1014/article/details/77369153
+Java集合类详解	https://blog.csdn.net/kingice1014/article/details/77369147
+新一代Java模板引擎Thymeleaf	https://blog.csdn.net/kingice1014/article/details/76030256
+18个Java开源CMS系统一览	https://blog.csdn.net/kingice1014/article/details/53525330
+java服务器对json数据进行gzip压缩	https://blog.csdn.net/ysk_xh_521/article/details/77363677
+java json字符串格式化	https://blog.csdn.net/huhu518420/article/details/86146822
+java xml数字签名工具类	https://blog.csdn.net/wenyilu/article/details/52804211
+java内存溢出	https://blog.csdn.net/calreykhal/article/details/17373171
+Android通过JSON数据格式和java服务后台进行数据交互	https://blog.csdn.net/wexin_37276427/article/details/83451093
+Java GZip数据压缩传输到前台	https://blog.csdn.net/wangjian_an/article/details/51932039
+java web实现Gzip压缩传输	https://blog.csdn.net/qbian/article/details/53909778
+Java 压缩字符串	https://blog.csdn.net/kalision/article/details/7864407
+Java：数据的压缩和解压，及数据的网络传输。	https://blog.csdn.net/qq_32293345/article/details/81287380
+android客户端与javaweb服务器端数据通信-Post-Json格式数据	https://blog.csdn.net/tao911110/article/details/79433802
+java web实现Gzip压缩传输(转)	https://blog.csdn.net/asd54090/article/details/83029107
+JSon与java之间数据传输的方式	https://blog.csdn.net/o9109003234/article/details/16812621
+Java操作符	https://blog.csdn.net/weixin_33696822/article/details/94534228
+Java基础学习总结（23）——GUI编程	https://blog.csdn.net/weixin_33696822/article/details/92652196
+java工具类——java将一串数据按照gzip方式压缩和解压缩	https://blog.csdn.net/qq_18895659/article/details/72190322
+java 压缩成gz文件	https://blog.csdn.net/qiuming007/article/details/7466117
+java程序解压/压缩.gz文件	https://blog.csdn.net/Lv_1093964643/article/details/82770669
+Android Studio 代码页跳界面 /java和XML快速切换技巧	https://blog.csdn.net/weixin_30878361/article/details/101871203
+java并发编程基础	https://blog.csdn.net/zhaoyunfei1/article/details/106196260
+Java CountDownLatch应用	https://blog.csdn.net/zhaoyunfei1/article/details/105390717
+Java后端压缩-浏览器解压缩	https://blog.csdn.net/tolode/article/details/85858218
+使用java自带压缩工具实现文件压缩	https://blog.csdn.net/lsk_shah/article/details/105369552
+Java如何快速构造JSON字符串	https://blog.csdn.net/berryreload/article/details/46839043
+前端html向后端java传递数据的几种方式（暂时使用到）	https://blog.csdn.net/weixin_34279061/article/details/92715733
+javaweb前后台交互传递数据的几种方法	https://blog.csdn.net/qq_41626229/article/details/95784377
+别翻了，这篇文章绝对让你深刻理解java类的加载以及ClassLoader源码分析【JVM篇二】	https://blog.csdn.net/qq_44543508/article/details/102983363
+【大学四年自学Java的学习路线】写了很久，这是一份最适合普通大众、科班、非科班的路线	https://blog.csdn.net/qq_44543508/article/details/105043415
+深入理解Java并发之synchronized实现原理	https://blog.csdn.net/qq_44543508/article/details/105297573
+java内部类	https://blog.csdn.net/qq_44543508/article/details/104773506
+Java程序员如何正确把握一生中的黄金五年！	https://blog.csdn.net/qq_44543508/article/details/104710202
+听说你还搞不定java中的==和equals？	https://blog.csdn.net/qq_44543508/article/details/104569519
+深入理解java多态没有烤山药的存在，java就不香了吗？	https://blog.csdn.net/qq_44543508/article/details/102409146
+【java基础】java继承从“我爸是李刚”讲起	https://blog.csdn.net/qq_44543508/article/details/102375196
+【java基础之异常】死了都要try，不淋漓尽致地catch我不痛快！	https://blog.csdn.net/qq_44543508/article/details/102211261
+【java基础】泛型	https://blog.csdn.net/qq_44543508/article/details/102175114
+【java基础】为什么重写toString()方法？	https://blog.csdn.net/qq_44543508/article/details/101212257
+【java基础】程序员你真的理解反射机制吗？	https://blog.csdn.net/qq_44543508/article/details/102410482
+java中的transient关键字详解	https://blog.csdn.net/qq_44543508/article/details/103232007
+java中的Static、final、Static final各种用法	https://blog.csdn.net/qq_44543508/article/details/102691425
+java抽象类（abstract）与接口（Interface）的区别	https://blog.csdn.net/qq_44543508/article/details/102609910
+Java中的静态static关键字	https://blog.csdn.net/qq_44543508/article/details/89468169
+Java中equals与“==”的区别详解	https://blog.csdn.net/qq_44543508/article/details/95449363
+java基础之 “==”和“ equals”以及instanceof的区别	https://blog.csdn.net/qq_44543508/article/details/89067045
+java数组定义、使用、以及数组内存分析详解	https://blog.csdn.net/qq_44543508/article/details/102099067
+这篇文章就是要让你入门java多线程【多线程入门】	https://blog.csdn.net/qq_44543508/article/details/103158095
+Java 大黑话讲解设计模式 -- UML类图	https://blog.csdn.net/qq_44543508/article/details/103280146
+深入理解java虚拟机系列初篇（一）：为什么要学习JVM？	https://blog.csdn.net/qq_44543508/article/details/102950935
+JAVA学习路线（最全）	https://blog.csdn.net/Smile__1/article/details/82750216
+Java知识体系最强总结(2020版)	https://blog.csdn.net/ThinkWon/article/details/103592572
+2019年黑马新版Java学习路线图（内含大纲+视频+工具+书籍+面试）面试必看！	https://blog.csdn.net/HD243608836/article/details/88853975
+一位资深程序员大牛给予Java初学者的学习建议	https://blog.csdn.net/liang0000zai/article/details/51393427
+Java学习书籍整理	https://blog.csdn.net/panjin72/article/details/81078834
+我该用 Java 12 还是坚持 Java 11？	https://blog.csdn.net/csdnnews/article/details/83753246
+Java 从入门到放弃？	https://blog.csdn.net/HelloWorld_In_Java/article/details/53140328
+JAVA学习必须掌握的框架和技术，不看后悔	https://blog.csdn.net/long690276759/article/details/82217652
+java.lang.NoClassDefFoundError: okhttp3.internal.tls.OkHostnameVerifier错误处理方法	https://blog.csdn.net/qq_33330887/article/details/80625181
+JsonArray 转换成java List的方法	https://blog.csdn.net/banti6197/article/details/101553758
+强大的Java Json工具类	https://blog.csdn.net/u014676619/article/details/49624165
+java的switch case与scala的match case语法的比较	https://blog.csdn.net/shufangreal/article/details/107074738
+【java】字符串的压缩转码base64	https://blog.csdn.net/iteye_15380/article/details/82408360
+java 图片相关之类型转换,压缩,base64编码	https://blog.csdn.net/weixin_37794901/article/details/83786094
+写一个将一个String类型的json经过base64加密后解密转化成javaBean的工具类	https://blog.csdn.net/GG_and_DD/article/details/64908957
+java压缩字符串，前端js接收pako解压	https://blog.csdn.net/wanglong1990421/article/details/100563188
+Android rxjava 中Observable 转型 “incompatible types: Object cannot be converted to ……	https://blog.csdn.net/danfengw/article/details/79278561
+int cannot be converted to double java	https://blog.csdn.net/qq_32450111/article/details/81708223
+Java生成Json文件添加到ZIP压缩并导出	https://blog.csdn.net/u010349629/article/details/106643907
+JAVA 实现 json文件的生成与导出	https://blog.csdn.net/c20081052/article/details/87280283
+Java生成并导出Json文件	https://blog.csdn.net/aa1215018028/article/details/84099861
+java导出json格式文件	https://blog.csdn.net/Hi_Boy_/article/details/80598363
+java post下载文件 zip批量压缩文件	https://blog.csdn.net/zl15145428/article/details/80334961
+java读取网络zip中的json文件内容	https://blog.csdn.net/jack_london2/article/details/105805646
+Java实现将文件或者文件夹压缩成zip的工具类	https://blog.csdn.net/zhenzhen823/article/details/81390079
+java8 Stream 史上最全总结	https://blog.csdn.net/qq_16605855/article/details/90257301
+java--类继承和实现的接口中含有相同的方法	https://blog.csdn.net/qq_16605855/article/details/89669263
+Java异常处理12条军规	https://blog.csdn.net/qq_16605855/article/details/89673302
+【Java.NIO】Selector，及SelectionKey	https://blog.csdn.net/qq_16605855/article/details/89402547
+java 大数字计算	https://blog.csdn.net/weixin_30298497/article/details/101414042
+Java 中 如何将一个字符重复n遍	https://blog.csdn.net/weixin_30298497/article/details/101414040
+JavaScript 倒转数字并以对应汉字的输出	https://blog.csdn.net/weixin_30298497/article/details/101414038
+JavaScript 如何将一个数转换为其他进制的数 示例：将2进制的10000，转化为16进制的数字...	https://blog.csdn.net/weixin_30298497/article/details/101414037
+JavaScript 斐波那契数列 倒序输出 输出100以内的质数 n的阶乘	https://blog.csdn.net/weixin_30298497/article/details/101414034
+Java 8 学习笔记	https://blog.csdn.net/weixin_38860565/article/details/106982182
+JAVA中不要用e.printStackTrace()	https://blog.csdn.net/weixin_38860565/article/details/106700307
+Java-Lambda表达式和“方法引用”的对比和详解	https://blog.csdn.net/weixin_38860565/article/details/104162148
+Java 线上问题排查思路与工具使用	https://blog.csdn.net/weixin_38860565/article/details/103957971
+Java自动化开发指南	https://blog.csdn.net/weixin_38860565/article/details/103872998
+用“逐步排除”的方法定位Java服务线上“系统性”故障	https://blog.csdn.net/weixin_38860565/article/details/103958217
+linux下如何部署（执行）java jar包，并关闭此jar的进程	https://blog.csdn.net/weixin_38860565/article/details/81629933
+JAVA - JDK 1.8 API 帮助文档-中文版	https://blog.csdn.net/qq_40147863/article/details/83051268
+java8 JDK1.8 API 中文	https://blog.csdn.net/sinat_34817187/article/details/81739425
+java8 JDK1.8 API 中文 翻译版 java帮助文档	https://blog.csdn.net/MarkArch/article/details/73550367
+Java 连接远程Linux 服务器执行 shell 脚本查看 CPU、内存、硬盘信息	https://blog.csdn.net/weixin_41796956/article/details/104007899
+使用循环引用对JavaScript对象进行Stringify（转换为JSON）	https://blog.csdn.net/weixin_41796956/article/details/103890121
+java常用正则校验工具类	https://blog.csdn.net/weixin_41796956/article/details/100152844
+java实现二叉树的Node节点定义,并手撕8种遍历	https://blog.csdn.net/weixin_41796956/article/details/99641290
+使用Idea创建一个JavaWeb的SSM(maven)项目~（史上最详细,傻瓜式教学，跟着我的做，不会你找我）	https://blog.csdn.net/MaNongXf/article/details/83418353
+Java NIO通信框架: Netty	https://blog.csdn.net/zhouhaiqing0905/article/details/49633325
+Java：回调函数	https://blog.csdn.net/zhouhaiqing0905/article/details/47681793
+JavaScript面向对象精要	https://blog.csdn.net/zhouhaiqing0905/article/details/47377011
+java-http接口-文件上传	https://blog.csdn.net/dianmiqiang2633/article/details/101215428
+weblogic下java程序占用cpu过高的问题排查	https://blog.csdn.net/dianmiqiang2633/article/details/101215263
+java String 转Json报错 java.lang.NoClassDefFoundError: org/apache/commons/lang/exception/NestableRuntim...	https://blog.csdn.net/dianmiqiang2633/article/details/101215257
+Caused by: java.net.SocketException: 打开的文件过多的解决办法	https://blog.csdn.net/dianmiqiang2633/article/details/101215248
+java精确计算工具类	https://blog.csdn.net/weixin_30338461/article/details/101177237
+Error:(31, 39) java: 不兼容的类型: java.lang.String无法转换为int 的处理	https://blog.csdn.net/weixin_30338461/article/details/95037134
+java8 lambda表达式-函数接口	https://blog.csdn.net/ruisheng_412/article/details/42403045
+java8 lambda表达式-语法	https://blog.csdn.net/ruisheng_412/article/details/42368341
+java8 lambda表达式-其他	https://blog.csdn.net/ruisheng_412/article/details/42420905
+Java通过反射实现简单对象的拷贝	https://blog.csdn.net/ruisheng_412/article/details/8159833
+Java通过反射实现方法调用	https://blog.csdn.net/ruisheng_412/article/details/8155129
+Java Annotation实战	https://blog.csdn.net/ruisheng_412/article/details/8150480
+java 过滤器获取URL区别	https://blog.csdn.net/ruisheng_412/article/details/83594572
+使用Java代码（POI）读写 Excel	https://blog.csdn.net/weixin_43570367/article/details/103880612
+Java基础易错面试题，初级程序员面试必看！（会不断更新）	https://blog.csdn.net/weixin_43570367/article/details/104474993
+Java代码	https://blog.csdn.net/qq_20597149/article/details/106388195
+linux安装java8 两种方式的步骤+推荐手动安装不用命令（更可控）	https://blog.csdn.net/qq_20597149/article/details/104637645
+两年工作经验-java开发工程师-职场经验分享---牛客【和不同岗位同事相处之道】	https://blog.csdn.net/qq_20597149/article/details/103645080
+JavaWeb中读取【项目路径下文件】的路径问题：this.getServletContext().getRealPath()	https://blog.csdn.net/qq_20597149/article/details/79872579
+java操作mongodb（连接池）	https://blog.csdn.net/maosijunzi/article/details/42081763
+MONGODB java Driver 使用官方地址	https://blog.csdn.net/u013258443/article/details/80765180
+基于java实现mongodb的数据库连接池	https://blog.csdn.net/xiaojimanman/article/details/22652239
+MongoDB java客户端mongo-java-driver使用	https://blog.csdn.net/tianwei7518/article/details/44275433
+MongDB的java连接池	https://blog.csdn.net/lql_h/article/details/88641013
+MongoDB学习（四）：Java客户端使用	https://blog.csdn.net/u010670411/article/details/86617569
+Java连接MongoDB样例	https://blog.csdn.net/weixin_34166847/article/details/86393226
+MongoDB学习笔记(十)——JAVA整合MongoDB：MongoDB Java Driver、spring-data-mongodb：mongoTemplate	https://blog.csdn.net/qq_33206732/article/details/79984235
+Java8 HashMap源码分析	https://blog.csdn.net/u014454539/article/details/80528795
+Thinking in Java之HashMap源码分析	https://blog.csdn.net/weixin_34203832/article/details/92676541
+Java7 HashMap源码阅读总结	https://blog.csdn.net/itobot/article/details/89405313
+JAVA基础之HashMap源码（JDK 1.8）	https://blog.csdn.net/chun0801/article/details/51454189
+Java8 HashMap源码解析	https://blog.csdn.net/qazwyc/article/details/76686915
+Java：手把手带你源码分析 HashMap 1.7	https://blog.csdn.net/carson_ho/article/details/79373026
+java HashMap源码解析	https://blog.csdn.net/qq_41786692/article/details/79685838
+【Java8源码分析】集合框架-HashMap	https://blog.csdn.net/linxdcn/article/details/71597964
+Java中HashMap底层原理源码分析	https://blog.csdn.net/csdn15698845876/article/details/88408804
+Java From The Beginning 01	https://blog.csdn.net/dujuanyantai/article/details/7012532
+Java中实时监控目录下文件变化的两种实现方法介绍	https://blog.csdn.net/tianshan2010/article/details/103867014
+java利用WatchService实时监控某个目录下的文件变化并按行解析（注：附源代码）	https://blog.csdn.net/p312011150/article/details/82752552
+Java WatchService监听文件夹下文件的变化	https://blog.csdn.net/qq_22200097/article/details/85104260
+java利用WatchService实时监控某个目录下的文件变化并按行解析（注：附源代码）...	https://blog.csdn.net/weixin_30817749/article/details/98309129
+通过 Java 去监测某个目录下的文件变动 （File Watch Service方式）	https://blog.csdn.net/weixin_41888813/article/details/84859670
+JAVA实时监控目录下文件的变化	https://blog.csdn.net/yjc_1111/article/details/78819938
+java api连接HDFS文件服务器	https://blog.csdn.net/ssyws1/article/details/89486328
+JTS空间分析工具包（GIS开源）学习 JAVA	https://blog.csdn.net/weixin_30838873/article/details/94931829
+geometry-api-java 学习笔记（五）多边形 Polygons	https://blog.csdn.net/qq_36330643/article/details/74420594
+Java 7 Fork/Join 并行计算框架概览	https://blog.csdn.net/xiajingsong/article/details/84060438
+JAVA并行计算之ForkJoinTask使用样例	https://blog.csdn.net/puhaiyang/article/details/77581296
+算法：用Java实现在海量的数据中，找到最大的N个数字，也就是TopN问题	https://blog.csdn.net/weixin_39448458/article/details/103025811
+Java Web 学习笔记之十：通过Spring启动Jetty服务器	https://blog.csdn.net/johnson_moon/article/details/60471499
+【JAVA】内嵌JettyServer结合springMVC、mybatis实现轻量化系统部署	https://blog.csdn.net/chiweitree/article/details/51995825
+jetty嵌入java project提供http服务	https://blog.csdn.net/iteye_1126/article/details/82540603
+JAVA 静态变量上使用@Value注解注入值	https://blog.csdn.net/wh2574021892/article/details/103803452
+java.lang.NoSuchMethodError: com.google.common.collect.Sets.newConcurrentHashSet()异常解决思路	https://blog.csdn.net/fengzheku/article/details/50688044
+java.lang.NoSuchMethodError的一般解决思路	https://blog.csdn.net/u013468917/article/details/80285409
+实际开发中遇到java.lang.NoSuchMethodError	https://blog.csdn.net/qq_30546099/article/details/80966745
+java.lang.NoSuchMethodError: com.google.common.util.concurrent.MoreExecutors.sameThreadExecutor()解答	https://blog.csdn.net/xiongyouqiang/article/details/85704709
+启动hive报错：java.lang.NoSuchMethodError: com.google.common.base.Preconditions.checkArgument(ZLjava/lang	https://blog.csdn.net/weixin_44510615/article/details/104547517
+spark集成es遇到Guava jar包冲突问题:java.lang.NoSuchMethodError	https://blog.csdn.net/kangguowei/article/details/80613754
+java.lang.NoSuchMethodError: com.google.common.util.concurrent.MoreExecutors	https://blog.csdn.net/bsh_csn/article/details/54347841
+java.lang.NoSuchMethodError 之 依赖冲突解决方案	https://blog.csdn.net/BIT_666/article/details/106570141
+执行jar包出现java.lang.NoSuchMethodError错误	https://blog.csdn.net/IUNIQUE/article/details/84102797
+java本地能跑项目但是放到weblogic报错java.lang.NoSuchMethodError，已经解决	https://blog.csdn.net/weixin_42631670/article/details/89810073
+Selenium Ljava/util/concurrent/ExecutorService 错误	https://blog.csdn.net/sanpic/article/details/79302373
+java.lang.NoSuchMethodError	https://blog.csdn.net/qiangzi_lg/article/details/85785615
+读《JavaScript 标准参考教程（alpha）阮一峰》（上）	https://blog.csdn.net/qq_39198420/article/details/77947810
+从Java内存模型讲双重检查锁原理	https://blog.csdn.net/twypx/article/details/80290731
+Java I/O 深入学习（ 二）之数组类输入输出流	https://blog.csdn.net/twypx/article/details/84130099
+Java I/O 深入学习（一）	https://blog.csdn.net/twypx/article/details/84130060
+[转]java中byte转换int时为何与0xff进行与运算	https://blog.csdn.net/twypx/article/details/84130461
+Java的编译，加载过程	https://blog.csdn.net/wurensen/article/details/85157846
+Java多线程 -- JUC包源码分析1 -- CAS/乐观锁	https://blog.csdn.net/chunlongyu/article/details/52424133#comments
+鸟瞰 Java 并发框架	https://blog.csdn.net/weixin_34018169/article/details/91482792
+图灵学院JAVA架构师-VIP-缓存一致性协议（MESI）	https://blog.csdn.net/alignjava/article/details/99070162
+java在Controller部分业务异步执行以及jdk8的一些特性	https://blog.csdn.net/lijinqing39/article/details/103876207
+&quot;等java转义	https://blog.csdn.net/lijinqing39/article/details/103615072
+java使用post以“x-www-form-urlencoded”接收接口数据并加上超时处理	https://blog.csdn.net/lijinqing39/article/details/103584763
+Java题库中一些理论总结	https://blog.csdn.net/lijinqing39/article/details/103230281
+Java XML解析器	https://blog.csdn.net/weixin_34040079/article/details/94192940
+Java消息服务JMS详解	https://blog.csdn.net/weixin_34040079/article/details/92658457
+Java基础学习总结（9）——this关键字	https://blog.csdn.net/weixin_34040079/article/details/92655512
+Java基础学习总结（21）——数组	https://blog.csdn.net/weixin_34040079/article/details/92654177
+GENERIC FRAMEWORK MODEL OF JAVA PLATFORM	https://blog.csdn.net/weixin_34040079/article/details/92632141
+自定义Java线程池	https://blog.csdn.net/lang_programmer/article/details/72901061
+Java线程基础	https://blog.csdn.net/lang_programmer/article/details/72568918
+Java内存模型	https://blog.csdn.net/lang_programmer/article/details/71352373
+【java】【多线程】等待开启的多个线程都执行完成，再做事情，怎么实现	https://blog.csdn.net/weixin_33964094/article/details/86008544
+javaWeb防止用户重复登录	https://blog.csdn.net/qq_40026968/article/details/89486274
+java注解的本质以及注解的底层实现原理	https://blog.csdn.net/qq_20009015/article/details/106038023
+java虚拟机笔记(十三)线程安全的实现方式	https://blog.csdn.net/qq_20009015/article/details/105260063
+java虚拟机笔记(十四)java锁优化	https://blog.csdn.net/qq_20009015/article/details/105275750
+java虚拟机笔记(十)编译器优化技术	https://blog.csdn.net/qq_20009015/article/details/105190432
+java虚拟机笔记(十二)java线程原理	https://blog.csdn.net/qq_20009015/article/details/105260049
+java虚拟机笔记(九)前端编译器和后端编译器	https://blog.csdn.net/qq_20009015/article/details/105190415
+java虚拟机笔记(八)虚拟机字节码执行引擎	https://blog.csdn.net/qq_20009015/article/details/105154829
+java虚拟机笔记(十一)java内存模型和先行发生原则	https://blog.csdn.net/qq_20009015/article/details/105260033
+java虚拟机笔记(七)类加载机制	https://blog.csdn.net/qq_20009015/article/details/105154822
+java虚拟机笔记(五)基础故障处理工具	https://blog.csdn.net/qq_20009015/article/details/105154811
+java虚拟机笔记(六)类文件结构和jvm指令	https://blog.csdn.net/qq_20009015/article/details/105154813
+java虚拟机笔记(四)垃圾收集器和策略	https://blog.csdn.net/qq_20009015/article/details/105154809
+java虚拟机笔记(三)内存溢出异常	https://blog.csdn.net/qq_20009015/article/details/105154801
+java虚拟机笔记(一)jvm的内存模型	https://blog.csdn.net/qq_20009015/article/details/105154794
+java虚拟机笔记(二)对象的创建,结构以及访问	https://blog.csdn.net/qq_20009015/article/details/105154798
+java8使用流的filter来筛选数据	https://blog.csdn.net/qq_20009015/article/details/84891638
+java实现excel的导入	https://blog.csdn.net/qq_20009015/article/details/84647245
+java创建泛型对象数组	https://blog.csdn.net/qq_20009015/article/details/84561713#comments
+Java ThreadFactory接口用法	https://blog.csdn.net/xin_jmail/article/details/22183175
+Java加密之IV	https://blog.csdn.net/u011499747/article/details/83045946
+Java实现多线程下载文件	https://blog.csdn.net/u011499747/article/details/79078036
+Ubuntu下，使用Java画图，中文乱码	https://blog.csdn.net/u011499747/article/details/78969836
+关于java单例的深入思考	https://blog.csdn.net/chengzhang1989/article/details/83827161
+java关键字之instanceof	https://blog.csdn.net/chengzhang1989/article/details/73309298
+java.lang之java.lang.Thread源码阅读及分析	https://blog.csdn.net/chengzhang1989/article/details/70148291
+java.lang之java.lang.Object源码阅读及分析	https://blog.csdn.net/chengzhang1989/article/details/78703818
+一个java程序是怎样运行起来的(3)	https://blog.csdn.net/chengzhang1989/article/details/75451980
+一个java程序是怎样运行起来的(2)	https://blog.csdn.net/chengzhang1989/article/details/70340104
+一个java程序是怎样运行起来的(1)	https://blog.csdn.net/chengzhang1989/article/details/70216634
+FastJson对于JSON格式字符串、JSON对象及JavaBean之间的相互转换	https://blog.csdn.net/xiaoxufox/article/details/79089298
+Java 利用枚举实现单例模式	https://blog.csdn.net/xiaoxufox/article/details/78911661
+[Java并发包学习七]解密ThreadLocal	https://blog.csdn.net/xiaoxufox/article/details/76457414
+阿里java开发手册	https://blog.csdn.net/xiaoxufox/article/details/75417619
+一个Java NIO问题引发的思考	https://blog.csdn.net/xiaoxufox/article/details/50629493
+Java输出流的选择	https://blog.csdn.net/guimingyue/article/details/38170889
+Java多线程总结	https://blog.csdn.net/guimingyue/article/details/23993451
+Java动态代理	https://blog.csdn.net/guimingyue/article/details/17370551
+URI URL URN简介及其在Java中的应用	https://blog.csdn.net/guimingyue/article/details/17260033
+深入分析Java-RMI	https://blog.csdn.net/zcswl7961/article/details/104668001
+java中BO,VO,DTO,DO等之间的转换	https://blog.csdn.net/zcswl7961/article/details/103723278
+java开发中的代码设计规范	https://blog.csdn.net/zcswl7961/article/details/103439045
+Java字节码结构	https://blog.csdn.net/zcswl7961/article/details/102589745
+JAVA并发编程学习笔记之Unsafe类	http://blog.csdn.net/aesop_wubo/article/details/7537278
+java8 Stream 所有函数demo	https://blog.csdn.net/zhouzhenyong/article/details/106738658
+Java反射——对类内部函数、私有变量和构造函数的使用举例	https://blog.csdn.net/zhouzhenyong/article/details/52901163
+No primary or default constructor found for interface javax.servlet.http.HttpServletResponse	https://blog.csdn.net/XinhuaShuDiao/article/details/103179623
+java Condition类与wait/notify的比较	https://blog.csdn.net/xinhuashudiao/article/details/100296641#comments
+java.lang.NoClassDefFoundError异常原因分析	https://blog.csdn.net/weixin_37771563/article/details/78603051
+Java应用级产品开发平台APDPlat作者杨尚川专访	https://blog.csdn.net/blogdevteam/article/details/8770910
+JAVA调用百度地图API {"status":240,"message":"APP 服务被禁用"}	https://blog.csdn.net/qq_39276448/article/details/106024425
+Java NIO之Selector 浅析	https://blog.csdn.net/qq_39276448/article/details/104450858
+JAVA原生图片处理：Graphics2D海报升级(二)	https://blog.csdn.net/qq_39276448/article/details/103513984
+JAVA原生图片处理：Graphics2D海报（一）	https://blog.csdn.net/qq_39276448/article/details/103290688

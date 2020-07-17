@@ -50,7 +50,8 @@ public class BoKeYuanPageProcessor implements PageProcessor {
     }
 
     public static void main(String[] args) throws FileNotFoundException {
-        Spider.create(new BoKeYuanPageProcessor()).addUrl("https://blog.csdn.net/zxc123e/article/details/52057289").thread(5).run();
+//        Spider.create(new BoKeYuanPageProcessor()).addUrl("https://blog.csdn.net/zxc123e/article/details/52057289").thread(5).run();
+        Spider.create(new BoKeYuanPageProcessor()).addUrl("https://blog.csdn.net/ZYC88888/article/details/80005155").thread(5).run();
 
     }
 }

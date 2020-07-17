@@ -1,0 +1,205 @@
+Disruptor详细介绍之快速入门	https://blog.csdn.net/ZYC88888/article/details/80005155
+Disruptor系列3：Disruptor样例实战	https://blog.csdn.net/twypx/article/details/80398886
+使用Disruptor完成多个消费者不重复消费消息	https://blog.csdn.net/tianyaleixiaowu/article/details/79848405
+Disruptor并发框架完全入门	https://blog.csdn.net/QQB67G8COM/article/details/90085386
+Disruptor高级（五）多生产者多消费者	https://blog.csdn.net/weixin_33669968/article/details/89008623
+Disruptor高级（二）串行消费 & 并行消费	https://blog.csdn.net/weixin_33669968/article/details/89008478
+Disruptor	https://blog.csdn.net/yanyingnan1357/article/details/105916321
+Disruptor总结（完整类图与时序图）	https://blog.csdn.net/qq_23034755/article/details/90137103
+——Disruptor的使用场景	https://blog.csdn.net/li123128/article/details/81703618
+Disruptor介绍	https://blog.csdn.net/mawming/article/details/52582776
+Java并发框架Disruptor教程（二）、快速入门	https://blog.csdn.net/weixin_37910453/article/details/88220576
+Disruptor多个消费者独立处理生产者消息的简单demo	https://blog.csdn.net/java1993666/article/details/72828010
+LMAX Disruptor 简介：	https://blog.csdn.net/wjandy0211/article/details/90407347
+disruptor基本用法	https://blog.csdn.net/weixin_36098377/article/details/105649626
+Disruptor技术调研之配置EventHandler执行顺序	https://blog.csdn.net/weixin_34295316/article/details/91529831
+构建高性能服务（三）Java高性能缓冲设计 vs Disruptor vs LinkedBlockingQueue	https://blog.csdn.net/iteye_15264/article/details/82404258
+架构师入门笔记七 并发框架Disruptor快速入门	https://blog.csdn.net/qq_19558705/article/details/77116949
+Java多线程（13） - Disruptor多线程并发框架进阶多场景玩法、多生产者多消费者	https://blog.csdn.net/Su_Levi_Wei/article/details/106480017
+高性能队列之Disruptor特性详解	https://blog.csdn.net/ZYC88888/article/details/80006226
+Disruptor系列2：Disruptor原理剖析	https://blog.csdn.net/twypx/article/details/80387761
+Disruptor系列1：初识Disruptor	https://blog.csdn.net/twypx/article/details/80262843
+Disruptor－架构思维的转变	https://blog.csdn.net/chunlongyu/article/details/53313575
+架构师入门笔记八 并发框架Disruptor场景应用	https://blog.csdn.net/qq_19558705/article/details/77247912
+Disruptor与Springboot集成例子初探	https://blog.csdn.net/lijinqing39/article/details/100575167
+ Spring整合Disruptor3	https://blog.csdn.net/weixin_34040079/article/details/88851897
+Disruptor学习总结（一）：Disruptor的使用	https://blog.csdn.net/lang_programmer/article/details/72934425
+使用Disruptor完成多线程下并发、等待、先后等操作	https://blog.csdn.net/tianyaleixiaowu/article/details/79787377
+disruptor简单入门demo	https://blog.csdn.net/qq_20009015/article/details/82771739
+使用Disruptor的几个代码演示	https://blog.csdn.net/u011499747/article/details/78384292
+disruptor设计方案值得借鉴的地方以及实际中的应用	https://blog.csdn.net/chengzhang1989/article/details/80305732
+Disruptor使用指南	https://blog.csdn.net/xiaoxufox/article/details/50132309
+Disruptor使用入门	https://blog.csdn.net/guimingyue/article/details/38359447
+Disruptor原理分析	https://blog.csdn.net/zcswl7961/article/details/100734243
+disruptor 介绍	https://blog.csdn.net/zhouzhenyong/article/details/81303011
+Disruptor的简单介绍及使用	https://blog.csdn.net/XinhuaShuDiao/article/details/84910107
+disruptor模拟高速处理大规模订单类业务场景	https://blog.csdn.net/zhangcongyi420/article/details/88199633
+Disruptor多个消费者不重复处理生产者发送的消息的demo	https://blog.csdn.net/java1993666/article/details/72828342
+每天一例多线程[day24]-----Disruptor之单一生产者多消费者	https://blog.csdn.net/shengqianfeng/article/details/80710471
+并发编程之Disruptor框架介绍和高阶运用	https://blog.csdn.net/JiShuiSanQianLi/article/details/84937588
+LMAX Disruptor—多生产者多消费者中，消息复制分发的高性能实现	https://blog.csdn.net/weixin_30902251/article/details/94941415
+Disruptor中遇到的坑	https://blog.csdn.net/software2005/article/details/64440439
+Disruptor多生产者、多消费者	https://blog.csdn.net/zxiang248/article/details/71154438
+Disruptor多个消费者不重复处理生产者发送过来的消息	https://blog.csdn.net/weixin_34034670/article/details/85937082
+disruptor demo(二) 使用WorkerPool辅助创建消费者	https://blog.csdn.net/qian_348840260/article/details/38320269
+disruptor笔记3-多生产者和多消费者操作	https://blog.csdn.net/KongZhongNiao/article/details/86492196
+disruptor 单生产者多消费者	https://blog.csdn.net/diaolong123123/article/details/102453266
+disruptor笔记2-核心链路的高级操作	https://blog.csdn.net/KongZhongNiao/article/details/86083417
+disruptor框架为什么这么强大	https://blog.csdn.net/liweisnake/article/details/9113119
+Disruptor高性能并发框架	https://blog.csdn.net/li12412414/article/details/82317888
+无锁并行计算框架Disruptor	https://blog.csdn.net/chenbinqq/article/details/79172943
+disruptor踩坑：当环空间全部用过后，有可能会出现脏数据	https://blog.csdn.net/u011006672/article/details/99747247
+Disruptor源码超详细注释(已更新完毕)	https://blog.csdn.net/weixin_37555076/article/details/88000763
+java.lang.NoSuchMethodError: com.lmax.disruptor.dsl.Disruptor.	https://blog.csdn.net/kanaka10/article/details/91983835
+Disruptor并发框架（九）	https://blog.csdn.net/shuduti/article/details/83831498
+并发编程框架 Disruptor	https://blog.csdn.net/xp_zyl/article/details/74531571
+Disruptor并发框架的理解	https://blog.csdn.net/qq_15006743/article/details/84633705
+disruptor架构三 使用场景更加复杂的场景	https://blog.csdn.net/weixin_33713707/article/details/93542341
+LMAX Disruptor——一个高性能、低延迟且简单的框架	https://blog.csdn.net/zyw23zyw23/article/details/78824011
+Disruptor官方文档实现	https://blog.csdn.net/xuemengrui12/article/details/72957338
+Disruptor	https://blog.csdn.net/weixin_43780400/article/details/105575820
+Disruptor核心（四）WaitStrategy	https://blog.csdn.net/weixin_33669968/article/details/88985215
+五、并发框架disruptor-高级进阶（一）	https://blog.csdn.net/qiyeliuli/article/details/102657593
+Disruptor高级（四）六边形消费	https://blog.csdn.net/weixin_33669968/article/details/89008609
+Disruptor高级（三）菱形消费	https://blog.csdn.net/weixin_33669968/article/details/89008573
+Disruptor高级（一）互联网系统中的核心链路	https://blog.csdn.net/weixin_33669968/article/details/88985212
+disruptor架构四 多生产者多消费者执行	https://blog.csdn.net/weixin_33995481/article/details/93542173
+disruptor 多生产者多消费者实战 四	https://blog.csdn.net/weixin_34278190/article/details/93532607
+每天一例多线程[day25]-----Disruptor之多生产者多消费者	https://blog.csdn.net/shengqianfeng/article/details/80710803
+并发编程Disruptor框架	https://blog.csdn.net/m0_37703992/article/details/84950704
+Disruptor并行，串行，菱形计算例子	https://blog.csdn.net/lijinqing39/article/details/100662656
+高并发数据结构Disruptor解析（4）	https://blog.csdn.net/zhxdick/article/details/52065280
+Disruptor核心（一） 快速上手	https://blog.csdn.net/weixin_33669968/article/details/88985211
+Disruptor核心（五） EventProcessor & WorkProcessor	https://blog.csdn.net/weixin_33669968/article/details/88985213
+Disruptor 详解	https://blog.csdn.net/qbw2010/article/details/44306857
+并发框架Disruptor几个Demo	https://blog.csdn.net/xiaoxufox/article/details/50133839
+disruptor的使用和分析	https://blog.csdn.net/casuallc/article/details/51166352
+Disruptor原理解析	https://blog.csdn.net/hongtinghua/article/details/90704448
+disruptor异常分析	https://blog.csdn.net/zhuqiuhui/article/details/99437878
+disruptor demo(三) 复杂一点的例子	https://blog.csdn.net/qian_348840260/article/details/38321371
+Disruptor 极速体验	https://blog.csdn.net/weixin_30580341/article/details/94967201
+Disruptor 1 内部运转流程	https://blog.csdn.net/xxcupid/article/details/89139478
+Disruptor多线程并发构架	https://blog.csdn.net/sunlihuo/article/details/72770220
+Disruptor 异常卡死 bug	https://blog.csdn.net/qq_35425070/article/details/89635414
+使用disruptor 将5百多万数据从mysql导入到oracle	https://blog.csdn.net/weixin_30607659/article/details/98818652
+JAVA并发编程 之 LMAX Disruptor使用实例（高效解决生产者与消费者问题）	https://blog.csdn.net/a78270528/article/details/79925404
+高性能队列Disruptor的使用	https://blog.csdn.net/weixin_30911809/article/details/95045252
+disruptor 核心链路应用场景	https://blog.csdn.net/diaolong123123/article/details/101490968
+Disruptor中遇到的坑	https://blog.csdn.net/Code_shadow/article/details/82257999
+Disruptor的使用	https://blog.csdn.net/qq_22017479/article/details/90214749
+disruptor应用	https://blog.csdn.net/zhaozhenzuo/article/details/77430243
+并发框架Disruptor场景应用	https://blog.csdn.net/weixin_34060741/article/details/86400671
+disruptor学习教程（一）helloWord	https://blog.csdn.net/fgyibupi/article/details/53761732
+《开涛：网站架构核心技术》读书笔记系列-第15章【disruptor】	https://blog.csdn.net/bohu83/article/details/78273246
+Java并发框架Disruptor教程（三）、多生产者	https://blog.csdn.net/weixin_37910453/article/details/88232159
+Disruptor使用	https://blog.csdn.net/denggouya9281/article/details/101223926
+Disruptor技术调研之配置参数一览	https://blog.csdn.net/weixin_33881050/article/details/91529775
+Disruptor+Spring的Event解耦业务	https://blog.csdn.net/xiaoll880214/article/details/93346996
+高性能队列——Disruptor	https://blog.csdn.net/java1993666/article/details/78805836
+Java并发框架Disruptor教程（三）、单一生产者	https://blog.csdn.net/weixin_37910453/article/details/88228412
+Java并发框架Disruptor教程（一）、概述	https://blog.csdn.net/weixin_37910453/article/details/88219646
+解析Disruptor的依赖关系	https://blog.csdn.net/zyw23zyw23/article/details/78823949
+java多线程之并发框架Disruptor	https://blog.csdn.net/u010739551/article/details/100156895
+Java并发编程框架Disruptor	https://blog.csdn.net/m0_46657043/article/details/106722216
+并发框架Disruptor浅析	https://blog.csdn.net/weixin_30241919/article/details/96661080
+Disruptor 入门使用案例	https://blog.csdn.net/qq_35425070/article/details/89634411
+【JAVA】Disruptor	https://blog.csdn.net/cheidou123/article/details/92795514
+Java并发系列7-Disruptor无锁缓存框架	https://blog.csdn.net/f59130/article/details/74014048
+高效队列Disruptor	https://blog.csdn.net/u014769528/article/details/84527868
+Disruptor3.2实现一个生产者与两个消费者	https://blog.csdn.net/iteye_7017/article/details/82673817
+Disruptor框架中生产者、消费者的各种复杂依赖场景下的使用总结	https://blog.csdn.net/weixin_30645617/article/details/96934498
+Disruptor消费者源码解读	https://blog.csdn.net/baidu_33969289/article/details/83349029
+disruptor简单示例	https://blog.csdn.net/jbgtwang/article/details/26600765
+disruptor demo(一) 使用原生API创建一个简单的生产者和消费者	https://blog.csdn.net/qian_348840260/article/details/38317743
+从面试中的LMAX Disruptor问题	https://blog.csdn.net/weixin_30947631/article/details/86684736
+并发框架---Disruptor简介	https://blog.csdn.net/wjandy0211/article/details/89878795
+LMAX Disruptor学习	https://blog.csdn.net/feiying00544/article/details/96612972
+Disruptor c++使用指南	https://blog.csdn.net/bjrxyz/article/details/53084539
+LMAX Disruptor——一个高性能、低延迟且简单的框架(转)	https://blog.csdn.net/wbj0110/article/details/84517073
+互联网架构（6）：并发编程--Disruptor并发框架	https://blog.csdn.net/a314368439/article/details/72642653
+disruptor调优方法	https://blog.csdn.net/Icannotdebug/article/details/86498432
+Disruptor学习笔记（一）：基本原理和概念	https://blog.csdn.net/dixie2009/article/details/101494658
+深入浅出计算机组成原理：理解Disruptor（上）-带你体会CPU高速缓存的风驰电掣（第54讲）...	https://blog.csdn.net/weixin_30235225/article/details/102054127
+三步创建Disruptor应用	https://blog.csdn.net/smallnest/article/details/38491417
+disruptor使用示例	https://blog.csdn.net/wh0426/article/details/45748637
+互联网技术16——Disruptor	https://blog.csdn.net/qq_28240551/article/details/82086448
+Disruptor 3种EventProcessor实现类	https://blog.csdn.net/zbz0425/article/details/37647825
+Disruptor技术调研之EventHandler	https://blog.csdn.net/weixin_34128501/article/details/91529812
+Disruptor技术调研之配置ExceptionHandler	https://blog.csdn.net/weixin_33717117/article/details/91529821
+Disruptor实际应用示例	https://blog.csdn.net/sunquan291/article/details/101157219
+Disruptor复杂场景下使用RingBuffer	https://blog.csdn.net/zxiang248/article/details/71154372
+Disruptor与BlockingQueue压力测试性能对比	https://blog.csdn.net/danielzhou888/article/details/86683771
+三、并发框架disruptor-性能分析之伪共享	https://blog.csdn.net/qiyeliuli/article/details/102474247
+高性能的异步处理框架Disruptor(三)——Disruptor消费者的依赖关系	https://blog.csdn.net/canot/article/details/102470300
+Java高性能异步并发框架Disruptor	https://blog.csdn.net/u013202238/article/details/104724882
+并发编程：Disruptor为什么这么快，锁的缺点	https://blog.csdn.net/sharon_1987/article/details/50975454
+算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法	https://blog.csdn.net/Luomingkui1109/article/details/90613342
+Java多线程（12） - Disruptor多线程并发框架入门详解	https://blog.csdn.net/Su_Levi_Wei/article/details/106480006
+Canal+Disruptor集成到Springboot	https://blog.csdn.net/xiaoll880214/article/details/88836726
+Disruptor(无锁并发框架)-发布	https://blog.csdn.net/zyw23zyw23/article/details/78823978
+disruptor源码阅读与分析---RingBuffer与Sequence	https://blog.csdn.net/chengzhang1989/article/details/80241038
+强如 Disruptor 也发生内存溢出？	https://blog.csdn.net/weixin_34041003/article/details/87958095
+springboot项目使用Disruptor做内部消息队列	https://blog.csdn.net/buertianci/article/details/105327031
+Java并发编程---Disruptor体验	https://blog.csdn.net/u011583316/article/details/88200601
+每天一例多线程[day22]-----Disruptor并发框架简介HelloWorld	https://blog.csdn.net/shengqianfeng/article/details/80673119
+你需要知道的高性能并发框架Disruptor原理	https://blog.csdn.net/21aspnet/article/details/89709221
+高性能并发框架 Disruptor 介绍 实现生产者消费者模型	https://blog.csdn.net/u011278496/article/details/38762845
+Disruptor以及@Contended注解	https://blog.csdn.net/wangxiaotongfan/article/details/82803385
+高性能队列——Disruptor	https://blog.csdn.net/meituantech/article/details/80062355
+高性能队列 Disruptor	https://blog.csdn.net/weixin_34183910/article/details/91911971
+Disruptor	https://blog.csdn.net/weixin_30949361/article/details/95453968
+Disruptor-无锁编程－核心原理剖析－ Volatile的普遍误解	https://blog.csdn.net/chunlongyu/article/details/53304524
+高并发数据结构Disruptor解析（1）	https://blog.csdn.net/zhxdick/article/details/51549399
+disruptor 原理 核心思想	https://blog.csdn.net/waltonhuang/article/details/105708507
+disruptor源码解读	https://blog.csdn.net/liweisnake/article/details/78842176
+Disruptor原理与编程实践	https://blog.csdn.net/jeffsmish/article/details/53572043
+disruptor实现细节及源码分析	https://blog.csdn.net/linuxhaige/article/details/50754721
+disruptor(2)-等待策略	https://blog.csdn.net/u013179884/article/details/90257532
+深入浅出Disruptor的使用和原理	https://blog.csdn.net/qq_34203492/article/details/105813659
+记一次Disruptor排坑	https://blog.csdn.net/u012909822/article/details/106024277
+初识Disruptor	https://blog.csdn.net/baidu_33969289/article/details/83348939
+告别Disruptor(一) 简洁优雅的高性能并发队列	https://blog.csdn.net/ifeves/article/details/103590621
+Disruptor框架的初步(是对白鹤翔老师上课的笔记整理)	https://blog.csdn.net/qq_38200548/article/details/80201172
+并发框架Disruptor几个Demo	https://blog.csdn.net/xsh5324/article/details/84595717
+spring与disruptor集成	https://blog.csdn.net/u014087707/article/details/79340463
+Disruptor与Netty实现百万级（十）	https://blog.csdn.net/weixin_30746117/article/details/96692355
+Spring整合Disruptor3	https://blog.csdn.net/weixin_30593443/article/details/94896846
+高性能队列Disruptor系列3--Disruptor的简单使用（译）	https://blog.csdn.net/weixin_30325793/article/details/98452725
+Spring 整合 Disruptor 第一个版本	https://blog.csdn.net/weixin_34209851/article/details/91963439
+Spring整合Disruptor	https://blog.csdn.net/dgqvhtlwq472235338/article/details/101415075
+Disruptor学习总结（二）：Disruptor分析	https://blog.csdn.net/lang_programmer/article/details/72936579
+Disruptor实现生产者消费者	https://blog.csdn.net/xm393392625/article/details/103785773
+disruptor并发编程一：入门使用	https://blog.csdn.net/meiliangdeng1990/article/details/84503058
+每天一例多线程[day23]-----Disruptor的两种简单实现	https://blog.csdn.net/shengqianfeng/article/details/80686889
+disruptor笔记2-核心链路的高级操作	https://blog.csdn.net/zhousenshan/article/details/88365908
+Disruptor处理（计算密集型）并发1000*6000的数据例子	https://blog.csdn.net/lijinqing39/article/details/100765356
+Disruptor原理概述与轻量级C++实现	https://blog.csdn.net/weixin_42333737/article/details/103205363
+Disruptor3.x 的简单封装	https://blog.csdn.net/t_332741160/article/details/79043489
+Disruptor系列（二）— disruptor使用	https://blog.csdn.net/weixin_34292287/article/details/94492504
+disruptor使用示例	https://blog.csdn.net/wh0426/article/details/84718773
+Disruptor内存消息队列简单使用	https://blog.csdn.net/weixin_34310785/article/details/92038950
+Disruptor初探（一）	https://blog.csdn.net/u013099854/article/details/106720107
+disruptor 笔记	https://blog.csdn.net/varyall/article/details/70598422
+Disruptor性能测试报告	https://blog.csdn.net/Alex19881006/article/details/24468779
+disruptor源码阅读与分析----等待策略	https://blog.csdn.net/chengzhang1989/article/details/80258335
+高性能的异步处理框架Disruptor(五)——Disruptor2.0的应用	https://blog.csdn.net/canot/article/details/102626404
+Disruptor购物案例（秒杀）	https://blog.csdn.net/qq_26584263/article/details/103528206
+Disruptor的应用示例——大文件拆分	https://blog.csdn.net/weixin_30244681/article/details/97712039
+Disruptor原理	https://blog.csdn.net/weixin_34121282/article/details/91443171
+disruptor学习	https://blog.csdn.net/u011686226/article/details/81241119
+Disruptor简单使用	https://blog.csdn.net/everyok/article/details/88889057
+disruptor基本使用与实战	https://blog.csdn.net/caoruntie/article/details/84509729
+一、Disruptor入门	https://blog.csdn.net/a2231476020/article/details/100560673
+Disruptor核心原理	https://blog.csdn.net/weixin_41315492/article/details/103387381
+Disruptor原理探讨	https://blog.csdn.net/dinglianluan8301/article/details/101776912
+disruptor原理分析	https://blog.csdn.net/u011464536/article/details/88383272
+Java并发框架Disruptor实现原理与源码分析(一) 认识Disruptor	https://blog.csdn.net/chenjiwei4712/article/details/100840672
+Disruptor生产者源码解读	https://blog.csdn.net/baidu_33969289/article/details/83349006
+Disruptor框架入门	https://blog.csdn.net/kobejayandy/article/details/18329583
+Java教程]并发框架Disruptor浅析	https://blog.csdn.net/u014313492/article/details/42556341
+看过Disruptor代码之后的一些感想	https://blog.csdn.net/Bruceleexiaokan/article/details/8291915
+Log4j 2 – java.lang.NoClassDefFoundError：com / lmax / disruptor / EventTranslatorVararg	https://blog.csdn.net/cyan20115/article/details/106549909
+Disruptor启动过程源码分析（一）	https://blog.csdn.net/liaob0106/article/details/89355400
+Disruptor源码分析之初始化	https://blog.csdn.net/ph3636/article/details/90750095
+Spring整合Disruptor3	https://blog.csdn.net/zuojunyuan/article/details/95235653
+Disruptor多线程多通道	https://blog.csdn.net/weixin_40003295/article/details/81390715
